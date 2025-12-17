@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\GitRepos\IPC _Code Coverage\Tes\IPC\build-coverage\CMakeFiles\e0e03c0efccb9ed5bd2094b7e2a6761d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1E7FE79F-4BE2-3147-A6DA-FB21DFF33A5B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

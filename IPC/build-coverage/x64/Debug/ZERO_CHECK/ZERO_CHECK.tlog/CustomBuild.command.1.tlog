@@ -1,0 +1,10 @@
+^D:\GITREPOS\IPC _CODE COVERAGE\TES\IPC\BUILD-COVERAGE\CMAKEFILES\E0E03C0EFCCB9ED5BD2094B7E2A6761D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" "-SD:/GitRepos/IPC _Code Coverage/Tes/IPC" "-BD:/GitRepos/IPC _Code Coverage/Tes/IPC/build-coverage" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/GitRepos/IPC _Code Coverage/Tes/IPC/build-coverage/IPC.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

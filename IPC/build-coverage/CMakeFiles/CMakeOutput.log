@@ -1,0 +1,67 @@
+The system is: Windows - 10.0.26200 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 16.9.2+58c36d143 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 12/16/2025 11:19:15 PM.
+Project "D:\GitRepos\IPC _Code Coverage\Tes\IPC\build-coverage\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files\BullseyeCoverage\bin\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  BullseyeCoverage Compile 9.6.4 Windows License 36240
+  Copyright (c) Bullseye Testing Technology
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files\BullseyeCoverage\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  BullseyeCoverage Compile 9.6.4 Windows License 36240 
+  Copyright (c) Bullseye Testing Technology
+  CompilerIdCXX.vcxproj -> D:\GitRepos\IPC _Code Coverage\Tes\IPC\build-coverage\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files\BullseyeCoverage\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "D:\GitRepos\IPC _Code Coverage\Tes\IPC\build-coverage\CMakeFiles\3.19.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.00
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "D:/GitRepos/IPC _Code Coverage/Tes/IPC/build-coverage/CMakeFiles/3.19.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/GitRepos/IPC _Code Coverage/Tes/IPC/build-coverage/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/MSBuild/Current/Bin/MSBuild.exe cmTC_da9d6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.9.2+58c36d143 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  BullseyeCoverage Compile 9.6.4 Windows License 36240
+  Copyright (c) Bullseye Testing Technology
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.28.29924 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CMakeCXXCompilerABI.cpp
+  BullseyeCoverage Compile 9.6.4 Windows License 36240 
+  Copyright (c) Bullseye Testing Technology
+  cmTC_da9d6.vcxproj -> D:\GitRepos\IPC _Code Coverage\Tes\IPC\build-coverage\CMakeFiles\CMakeTmp\Debug\cmTC_da9d6.exe
+
+
+
