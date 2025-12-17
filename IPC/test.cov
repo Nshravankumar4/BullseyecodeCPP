@@ -1,0 +1,4913 @@
+BullseyeCoverage 8.20.0
+00001200
+00001400
+0039f764
+00000000
+00000800
+7ff9f760
+dir=c:/Users/shravannunsavath/Documents/
+size=00023c00
+caseFold=1
+license=36240
+.
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+Obj 000000b4 4b79f761 d:/GitRepos/IPC~__Code~_Coverage/Tes/IPC/build-coverage/CMakeFiles/3.19.1/CompilerIdCXX/Debug/CMakeCXXCompilerId.obj 20251216174915 0 1 9.6.4
+s942e9f17
+n End
+...........
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+000097
+S4c5688f9
+src c:/Program~_Files~_(x86)/CMake/share/cmake-3.19/Modules/CMakeCXXCompilerABI.cpp 20201124032026 8c6e20b3
+naf929ba2 7,3;1main(int,char*[])
+.
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+0000b8
+S942e9f17
+src d:/GitRepos/IPC~__Code~_Coverage/Tes/IPC/build-coverage/CMakeFiles/3.19.1/CompilerIdCXX/CMakeCXXCompilerId.cpp 20251216174915 83980e5e
+n9151a1c4 687,3;1main(int,char*[])
+
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+Sdir000005c4
+942e9f17 00000600
+4c5688f9 00000400
+79835b58 00004000
+6ae0e1f0 000042a7
+a4d85b74 0000432f
+2d9255a9 000043ce
+8a94b19b 000049e4
+2f042285 00004f76
+58f240db 000059cb
+3da25dba 00005b58
+07b2b28b 00005c97
+769f8214 00005f4c
+cc6a9760 000060d7
+acf44c36 0000646d
+9a402591 00007729
+d6611e5d 000077c8
+b108f4c0 00007dae
+e4329577 0000c45c
+16d64442 0000caee
+313bf198 0000d0bf
+6a40441d 0000dfd9
+0caa1365 0000e206
+9490c2af 0000e29c
+0e9ce86b 0000e41b
+80663320 0000e58b
+2c534200 0000f999
+d4391b2d 0000fa2f
+12558c32 0000fabc
+1f02a455 00011572
+b817deda 000116b3
+bcbde078 00011792
+7c61ff7d 0001182f
+3ba3541a 0001212e
+b29f882c 00012724
+08bab060 0001344c
+2f286291 0001590d
+889429b2 00015a90
+a9d34d9f 00016212
+b932cda4 00016469
+d7b66780 000164ff
+5b840eb7 00016770
+b98a6227 000168b4
+e37e31b3 0001838f
+df44f002 0001a159
+c2728116 0001a93b
+2ea182be 0001b47f
+62f8a906 0001b6ef
+b620340b 0001b7a6
+900de6c2 0001b85b
+29944f5c 0001ba57
+b1c06794 0001bc70
+af2196f6 0001bcfb
+555240f9 0001bdf0
+64535866 0001bf68
+9ee99d44 0001c3a7
+58da2fa3 0001c43e
+f6761144 0001cb1d
+041a1df8 0001ccfc
+292164f3 0001cf4d
+6e36f048 0001d2bd
+d6afd60d 0001d864
+5b9ece5b 0001d996
+0c2d85f5 0001dd4a
+dd4d09e5 0001f621
+e7eb890d 0001f873
+9058c4ad 0001fb95
+6f40a9df 00020075
+c80ab1fe 000201f2
+5f34f871 0002045b
+0390176e 00020506
+f7ac3656 00020594
+d6e76505 000206f5
+0f965a63 00020e25
+edfd2e71 00020f88
+0d9bb828 0002112a
+9e59c447 000211c1
+2afb03f6 00021326
+59e54859 000214b9
+674eba21 0002250e
+5471a5e7 00022cef
+0b3aa345 000238ee
+687cc75e 000239d3
+..............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+Obj 000000b8 ccf9f762 d:/GitRepos/IPC~__Code~_Coverage/Tes/IPC/build-coverage/CMakeFiles/CMakeTmp/cmTC_da9d6.dir/Debug/CMakeCXXCompilerABI.obj 20251216174917 0 1 9.6.4
+s4c5688f9
+n End
+.......
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+Dir 00000046
+o12 4c39f764 1600
+o12 ccf9f762 1000
+o11 4b79f761 200
+End
+.........
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+00000000 00000200
+.............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+Obj 00002937 4c39f764 d:/GitRepos/IPC~__Code~_Coverage/Tes/IPC/build-coverage/IPC.dir/Debug/main.obj 20251216174920 0 1 9.6.4
+s79835b58
+n n n n n n n n n n n n n s6ae0e1f0
+n sa4d85b74
+n s2d9255a9
+n n n n n n n n n n n n n n n n n n d  n n n n d  n n n n n n n n d  n n n n d  n n n n d  n n n s8a94b19b
+n n n n n n n n n n n n d  n d  n d  n d  n n n n n n n n n n n n n n n n n n n n n n n n s2f042285
+n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n s58f240db
+n n n n n d  d  n d  d  s3da25dba
+n n n d  n d  n n s7b2b28b
+n n n n l l l l l l l n n n n n n n n n n n n n n n s769f8214
+n d  d  n d  d  n d  n n n d  c  c  n n scc6a9760
+n n n n d  c  c  n d  n d  n n n n n n n n n n n n n d  n n n sacf44c36
+n d  n d  d  c  c  n n d  c  c  d  d  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  n n n n n n n n n n n d  c  c  n n n d  n d  c  c  n d  c  c  n n d  n d  d  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  n d  n d  c  c  n d  n d  n n d  n d  n n n n n n n n n n n n n n n n n n n n n n d  n n d  n n n n n n n n n n n n d  d  c  c  n s9a402591
+n sd6611e5d
+n n n n d  n n n n n n n n n d  c  c  n n n d  c  c  n n n n n n n n n n n n n n n n n n sb108f4c0
+n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  c  c  n n n n n n n n n n n n d  n d  n d  c  c  n d  c  c  n d  c  c  n d  n d  n d  n n n n n n n n n n n n n n n d  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  d  n n n n n n n n n n n n n d  c  c  n n d  n n d  n n n n n n n n n n n n n n n n n n n n n n n n d  d  n d  n n d  n d  d  n n n n n n n n n n n n n n n n n n n n n n n n n n n l l l l l l l n n n n n n n n n n n n n n n n d  n d  c  c  d  n d  c  c  d  n n n n n n n n n n n n n n n n n n n n n n n n n d  c  c  c  n n d  d  c  c  c  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n nXn n n n n n n d  n n n n n n n n n n n n n n n n n n n n n d  d  n n n d  n n n n n n n n n n n n n n n d  c  c  n n n n n n n d  n n d  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  c  c  n n n n n n n n n n n n d  c  c  n n n n n n n n n n n n d  c  c  n n n n n n n n n n n n d  c  c  n n n n n n n n n n n n n n n n n n d  c  c  n n n n n n d  c  c  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n se4329577
+nXn d  n nXn n n n n n nXn n n nXnXn n d  n n nXn l l l l l n nXlXlXl l l nXs16d64442
+n n n n n n n n n n n n n n n n n n d  c  c  n n n s313bf198
+n d  n d  n d  d  n d  n n d  c  c  n n d  d  n n n n d  n d  n d  n d  n d  n d  n d  d  n n n d  d  n n n d  c  c  n n n d  n n d  d  d  d  d  d  d  d  c  c  d  c  c  d  d  n n d  n n d  c  c  d  d  d  n d  n n d  d  n d  d  n d  c  c  n n n n n n n n n n n n d  n d  n d  n s6a40441d
+n n n n n n n n n n n n scaa1365
+n s9490c2af
+n n n n n n n se9ce86b
+n n s80663320
+n n d  n n n n n n n n n d  d  d  n n d  d  d  d  n n n n n n n n n n d  n d  n n n d  d  n n n n n n n n n n n n n n n n n n n n n n n n d  c  c  n d  c  c  n n n n n n n n n n n n n n n n n n n n n n n d  c  c  n d  d  n d  d  n d  d  n d  d  d  n d  d  n d  d  c  c  n d  d  c  c  d  d  n d  n n n n n n n n n n n n d  n d  n d  d  n d  n n n n d  d  c  c  d  d  c  c  c  d  c  c  d  d  y h d  d  d  d  y h y h d  d  d  d  c  c  c  c  n d  c  c  c  d  c  c  d  d  y h y h d  d  c  c  c  c  n d  n d  n d  c  c  d  d  d  d  n d  c  c  d  d  n d  d  n d  d  c  c  d  d  d  d  d  n d  c  c  d  d  d  n d  d  d  d  d  d  n d  d  n d  d  d  n d  d  c  c  d  d  d  d  d  n d  d  d  d  n d  d  d  d  d  n n n l l l l l n n n n n s2c534200
+n d  c  c  sd4391b2d
+n s12558c32
+n n n n n n n d  c  c  n n n n n n n n d  n d  c  c  n n d  d  d  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  c  c  n d  c  c  n n n n n n n n n n n n n n n n d  c  c  n d  c  c  d  n d  c  c  d  n d  c  c  d  y h d  d  d  y h d  d  c  c  n d  c  c  d  d  d  n d  n d  y h n d  n n n n d  c  c  n n n n d  d  n d  y h d  c  c  y h y h n d  y h d  c  c  y h y h n d  c  c  d  y h d  c  c  y h y h n n n n l l l l l d  y h n d  c  c  n d  c  c  n y h y h d  n y h d  n n d  y h n d  n n d  d  n d  d  n n n n d  d  d  n d  n d  d  n d  d  d  y h n n n d  d  d  d  n n d  d  d  d  d  n n d  d  n n n d  d  n n n n n n n n n n s1f02a455
+n n n n n n sb817deda
+n n n sbcbde078
+n s7c61ff7d
+n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n r n r s3ba3541a
+n n n d  n d  n n n nXn n d  n n n n d  n n n n n n n n n n n n n n n n sb29f882c
+n n n n n d  d  d  n d  n n d  n n n n n n n n n n n n n n d  d  d  n d  d  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  c  c  n d  d  d  n n d  n d  d  d  d  n d  d  d  d  d  n d  d  n d  d  d  d  n n d  d  d  d  y h d  d  c  c  d  d  d  c  c  d  d  n d  n d  n n n n n n n n n d  d  d  n d  d  d  d  d  n d  d  n d  n n n n n n s8bab060
+n n n n n n n n n n n n n n n n n n d  n n n n n n n n n n n n n n n n n n n n n d  n n n n n n n n n n n n n n n n d  n d  n n n n n n n n n n n n n n n n n n n n n n d  n n n n d  n d  n n n d  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  d  d  d  n n n d  n d  n d  n d  n n n d  n d  n n n n n n d  n d  d  n d  n d  n d  n d  n d  n d  s2f286291
+n n n nXlXlXl l l nXs889429b2
+n n n n n n n n n n d  c  c  n nXd Fc Fc FnXnXdT d Fc Fc Fn n n n n n n n n n n n d  c  c  n n n d  d  c  c  c  n d  c  c  n d  n d  n n sa9d34d9f
+n n n n n n n n n n n n n n sb932cda4
+n sd7b66780
+n n n n n n d  c  c  n n n n n s5b840eb7
+n n n n n n sb98a6227
+n n n n n n d  n n n n n n n n n n n n n d  d  n d  d  n d  d  n n n n d  n d  n y h y h n n d  n d  d  n n d  d  c  c  n d  d  d  d  d  d  d  n n d  n d  n n n n n n n d  n n d  d  n n n n n n n n n n n n n n n n n n n n d  d  d  n n n n n n n n n n n n n n n n n d  d  d  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  n d  d  n d  n n d  n n d  n d  n n d  d  d  c  c  n d  d  d  d  d  d  d  d  d  d  d  d  n d  d  d  d  d  c  c  d  d  c  c  n d  n n d  n n n d  n d  n d  d  d  d  d  n d  d  n d  n d  d  n d  d  n d  n d  d  n d  d  n d  d  n d  d  n d  d  d  d  c  c  c  n d  n d  n n d  n n n n n n n d  c  c  d  n d  c  c  d  n n d  d  d  n d  d  c  c  n d  d  n d  d  d  d  d  d  d  d  d  d  n d  n n d  c  c  d  n d  c  c  d  n n n n n se37e31b3
+n d  n d  c  c  y h n d  d  n n d  c  c  n n d  c  c  n n n n d  n d  n d  n n n d  n d  n n n n n n n d  n n d  d  n n n n n n n n n n n n n n d  d  d  n n n n n n n n n n n n n n n n n d  d  d  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  n n n n n n n d  n d  d  d  n d  c  c  n d  c  c  n d  n d  d  n n d  d  n d  n d  d  c  c  n n d  d  n d  d  d  n d  d  d  d  d  n d  d  d  c  c  d  n d  d  n d  d  d  d  d  n n n n n n d  d  c  c  n d  c  c  d  n d  d  d  d  d  d  n n d  d  c  c  n n d  n d  n d  n n n n n n n d  c  c  d  n d  c  c  d  n n n d  d  n n d  c  c  d  n d  c  c  d  n d  d  d  n n n n n d  d  c  c  n n n n n n n n n n n d  d  n n n n d  d  n n n n n n n n n d  n d  n n n n d  d  n n n n d  d  n d  n sdf44f002
+n n n n n n n n n n n n n n n n n n n n n n n n n n n d  c  c  c  c  d  d  n n d  c  c  n n n n n n d  d  n d  n d  d  d  n d  d  n d  c  c  c  c  d  n d  c  c  c  d  n d  c  c  c  d  n d  c  c  d  d  n n d  sc2728116
+n n n d  c  c  n n n n n n n n n n n n n d  c  c  n d  n d  d  d  c  c  n d  d  d  c  c  n n n n n n n n n n n n n d  c  c  n d  c  c  n n n n n n n d  c  c  n d  n d  n d  d  d  c  c  n d  d  d  c  c  n n n n n d  n n d  n n d  n d  n n n n n n s2ea182be
+n n n n n n n n n n n n n n n n s62f8a906
+n n sb620340b
+n n s900de6c2
+n n n n n n n n n n n s29944f5c
+n n n n n n n n n n n n n n n sb1c06794
+n d  d  saf2196f6
+n n n n n s555240f9
+n n n n n n n n s64535866
+n n n n n n n n n n n n n n n n n n n n n n n n n d  c  c  n n n s9ee99d44
+n s58da2fa3
+n n n d  c  c  n d  n d  d  n d  d  n d  d  n r n d  n n n n n n n n n n n n n n n n n n n n n n n n n n n n sf6761144
+n n n n n n n n n n n n s41a1df8
+n n n n n n n n n d  n n n n s292164f3
+n n n n n n n n n n n n n n n n n n n n n d  c  c  c  c  c  c  n d  c  c  c  c  c  c  s6e36f048
+n n n n n n n d  n n n n n n n n n n n n n n n n n n n n d  d  n d  n d  n d  n d  c  c  c  c  c  c  c  c  c  n n n n n n n n n n n sd6afd60d
+n s5b9ece5b
+n n n n n n d  n n n n n n n n n n n n n n sc2d85f5
+n d  n n n n n n n n n n n n n n n n n n n n n n n n d  n n n n n n n n d  n n n n n n d  n n n n n n n n n n n n n n n n d  d  d  n n n n n n d  d  d  d  d  c  c  n d  c  c  c  n d  n n n n d  c  c  n d  n n n n n d  n n n n d  c  c  n n n n n n n n n n d  n d  d  d  c  c  n d  c  c  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  n n n n n n n n n n n n d  n n sdd4d09e5
+n n n n n n n n n se7eb890d
+n n n n n n n n n n n n n n n n n n n s9058c4ad
+n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n s6f40a9df
+n n n n n n d  n n d  sc80ab1fe
+n n n n n n n n n s5f34f871
+n n s390176e
+n sf7ac3656
+n n n n n n n sd6e76505
+n n n n n n n n d  c  c  n d  c  c  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  sf965a63
+n n n n n n n sedfd2e71
+n n n n n n sd9bb828
+n s9e59c447
+n n n n n n n n s2afb03f6
+n d  n n n n n n s59e54859
+n n n d  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  n n n n n n n n n n n n n n n d  r n d  r d  n d  d  d  d  d  d  d  n d  r n d  d  n d  n d  n n n n n n n n n n n d  n n d  d  n n n n d  d  s674eba21
+n n d  n d  d  n d  n n d  n n n n n n n n n n d  c  c  n n n n n n n d  c  c  c  n n n n d  d  d  d  d  n d  d  d  d  d  d  d  n d  d  d  d  d  n n n d  d  n d  d  c  c  c  c  d  d  n d  d  d  n d  d  d  d  n d  d  d  d  d  n d  d  d  d  d  d  n n n d  n d  n d  n n s5471a5e7
+n n n n d  n d  n d  n d  n d  n n n n n n n n n n d  n n n n n n n n d  n n d  n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n d  d  n n n n n n n d  n d  n n n n d  d  n n d  d  d  n n n n n sb3aa345
+nXnXnXnXs687cc75e
+n nXd FnXd Fd Fn End
+........
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+0002a0
+S79835b58
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qglobal.h 20201027080211 7b8da154
+ncea469cd 762,10;qt_noop(void)
+nc4fc9144 884,8;q_check_ptr<T>(T*)
+nec5e3e4e 965,10;2qSwap<T>(T&,T&)
+n823983d4 1033,10;2qt_is_permutation<ForwardIterator1,ForwardIterator2>(ForwardIterator1,ForwardIterator1,ForwardIterator2,ForwardIterator2)
+n6b984b57 1064;QtPrivate::QForeachContainer<T>::QForeachContainer(const T&)
+n6cbdab0a 1065;[p2T&
+nd5fd6a9d 1067;5]p3QForeachContainer
+n29bbf53 1075,18;1{XLoperator=
+n1be4b191 1090,46;1}B3qMakeForeachContainer<T>(T
+nc4a0c22a 1134,27;qGetPtrHelper<T>(T*)
+n6377ee3 1135,31;)E1Ptr>(Ptr&
+nfd197256 1271,9;qIntCast(double)
+na1c862f5 1272,9;>91float
+000081
+S6ae0e1f0
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qsysinfo.h 20201027080211 e37eb449
+n25407f00 227,80;QSysInfo::macVersion()
+000098
+Sa4d85b74
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qlogging.h 20201027080211 c4077365
+nbb0fa065 96,4;1QMessageLogger::noDebug(const char*,...) const
+00060f
+S2d9255a9
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qgenericatomic.h 20201027080211 336893be
+n9cfdf1dc 75,29;1QGenericAtomicOps<BaseClass>::acquireMemoryFence<T>(const T&)
+n52ccfc7b 79,29;1(UPreleas
+n2b79dc6b 83,29;1)UOordered
+nc368701 88,1;1<UDload
+n53ca268f 94,4;1>U1store<T,X>(T&,X
+n33ea11b0 100,1;1[U1loadRelaxed<T>(const T&
+n9c68689f 106,4;1]U1storeRelaxed<T,X>(T&,X
+n6208adcb 112,1;1{U1loadAcquire<T>(const T&
+n23668a56 120,4;1}U1storeRelease<T,X>(T&,X
+n50ec2ccb 131,4;1(U1ref<T>(T&
+n51ec6914 137,4;1)UAde
+n6b81830a 154,4;1<U1testAndSetAcquire<T,X>(T&,X,X
+n3704658e 162,4;1>eEReleas
+n486552c2 169,4;1[eDOrdered
+n73194a84 176,4;1]e1Acquire<T,X>(T&,X,X,X*
+n551c5b18 184,4;1{eHReleas
+n6d65c712 191,4;1}eGOrdered
+n499375f4 201,1;1(U1fetchAndStoreRelaxed<T,X>(T&,X
+d5;1
+ncef4afb1 212,1;1)hBAcquire
+n41085391 220,1;1<hCReleas
+n7b13eab5 227,1;1>hBOrdered
+nad09e960 236,1;1[c1AddRelaxed<T>(T&,typename QAtomicAdditiveType<T>::AdditiveT
+d5;1
+nf11b1f27 247,1;1]foAcquire
+ne3b4b3d2 255,1;1{fpReleas
+n469731a7 262,1;1}foOrdered
+n9a7fcb47 271,1;1(cqSubRelax
+n725d31c3 279,1;1)foAcquire
+n55103dba 287,1;1<fpReleas
+n603bb4c9 294,1;1>foOrdered
+n71654e7 301,1;1[c1AndRelaxed<T>(T&,typename std::enable_if<QTypeInfo<T>::isIntegral,T>::type
+d5;1
+nf55fcfb8 312,1;1]f#Acquire
+n5a79ccfb 320,1;1{f$Releas
+n52a809fe 327,1;1}f#Ordered
+n908c5b8a 334,1;1(c%OrRelax
+d5;1
+nfd4adbe7 345,1;1)e#Acquire
+n5fc6c285 353,1;1<e$Releas
+nfad5ad50 360,1;1>e#Ordered
+nf60ea754 367,1;1[c%XorRelax
+d5;1
+nc63bece9 378,1;1]f#Acquire
+n3afcebb6 386,1;1{f$Releas
+n322d2eb3 393,1;1}f#Ordered
+00058b
+S8a94b19b
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qatomic_cxx11.h 20201027080211 c2aa54c9
+n68bab9ec 225,1;1QAtomicOps<X>::load<T>(const std::atomic<T>&)
+nfc335152 231,1;1(THvolatile
+n5f5fb077 237,1;1)JHRelaxed<T>(const
+nd8ce5a49 243,1;1<aHvolatile
+n8a086299 249,1;1>JHAcquire<T>(const
+n16d5b679 255,1;1[aHvolatile
+na098142b 261,4;1]F1store<T>(std::atomic<T>&,T
+n3f465dd 267,4;1{KMRelaxed
+nf14c3e8a 273,4;1}NMease
+n48769bc4 281,16;1(F1ref<T>(std::atomic<T>&
+n9a06eb4d 287,16;1)FNde
+nc7e11f7c 297,10;1<F1testAndSetRelaxed<T>(std::atomic<T>&,T,T,T*
+d3;1
+nd9805aa 306,10;1>PRAcquire
+d3;1
+n4f2c3ba4 315,10;1[PSReleas
+d3;1
+n555f485c 324,10;1]PROrdered
+d3;1
+n9841d8e1 336,7;1{F1fetchAndStoreRelaxed<T>(std::atomic<T>&,T
+n5047e363 342,7;1}SMAcquire
+nbe48cc27 348,7;1(SNReleas
+n1d3e96ab 354,7;1)SMOrdered
+nece5080b 363,1;1<N2AddRelaxed<T>(std::atomic<T>&,typename QAtomicAdditiveType<T>::Additive
+n97873a7f 369,1;1>Q!Acquire
+ne5e2ba6 375,1;1[Q"Releas
+ndba819b 381,1;1]Q!Ordered
+ndd6340c 387,1;1{N#SubRelax
+n76b40678 393,1;1}Q!Acquire
+nef6d17a1 399,1;1(Q"Releas
+nec89bd9c 405,1;1)Q!Ordered
+n5e8c66b0 411,1;1<N#AndRelax
+n25ee54c4 417,1;1>Q!Acquire
+nbc37451d 423,1;1[Q"Releas
+nbfd3ef20 429,1;1]Q!Ordered
+n9378bd19 435,1;1{N#OrRelax
+n4b719356 441,1;1}P!Acquire
+n6d72a224 447,1;1(P"Releas
+nc8d13c25 453,1;1)P!Ordered
+n220f35ea 459,1;1<N#XorRelax
+n596d079e 465,1;1>Q!Acquire
+nc0b41647 471,1;1[Q"Releas
+nc350bc7a 477,1;1]Q!Ordered
+000a4e
+S2f042285
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qbasicatomic.h 20201027080211 2c13a1e2
+n1a70517d 103,47;QBasicAtomicInteger<T>::load() const
+nb70f2be2 104,51;(O0store(T)
+n1b1e1780 107,1;)O0loadRelaxed() const
+n477c07ba 108,4;<O0storeRelaxed(T)
+nf827decb 110,1;>O0loadAcquire() const
+n61d30e86 111,4;[O0storeRelease(T)
+n93b84beb 112;]O0operator T() const
+ned0f042b 113,1;{W0=(T)
+n39ceaa8b 118,4;}O1ref(
+n278fdcc8 119,4;(O5de
+n1396583 124,4;1)O1testAndSetRelaxed(T,T
+n12f58ee 126,4;1<Y5Acquire
+n7b407b0d 128,4;1>Y6Releas
+n27190a2 130,4;1[Y5Ordered
+n86630653 133,4;1]Y1Relaxed(T,T,T&
+n36e37002 135,4;1{Y8Acquire
+n118aadc4 137,4;1}Y9Releas
+nac71e03 139,4;1(Y8Ordered
+n679d4108 145,1;1)O1fetchAndStoreRelaxed(T
+nfae829 147,1;1<b3Acquire
+n60ad946b 149,1;1>b4Releas
+nde6512a5 151,1;1[b3Ordered
+n829dda32 157,1;1]W5AddRelax
+n7d17a0b3 159,1;1{Z3Acquire
+nbb69af0f 161,1;1}Z4Releas
+n3ec74e5a 163,1;1(Z3Ordered
+n5979dd1c 166,1;1)W5SubRelax
+na6f3a79d 168,1;1<Z3Acquire
+n608da821 170,1;1>Z4Releas
+ne5234974 172,1;1[Z3Ordered
+n28e27c0 175,1;1]W5AndRelax
+nfd045d41 177,1;1{Z3Acquire
+n3b7a52fd 179,1;1}Z4Releas
+nbed4b3a8 181,1;1(Z3Ordered
+n24ae132 184,1;1)W5OrRelax
+nfbe005bf 186,1;1<Y3Acquire
+nb3b7029f 188,1;1>Y4Releas
+n46cd4e18 190,1;1[Y3Ordered
+ncbf4c3b 193,1;1]W5XorRelax
+nf33536ba 195,1;1{Z3Acquire
+n354b3906 197,1;1}Z4Releas
+nb0e5d853 199,1;1(Z3Ordered
+n2819ba63 202,1;1)O1operator++(
+nb984bd38 204,1;1<Z1int
+n27c6d6e8 206,1;1>W1--(
+na3c46af 208,1;1[Z1int
+nc6ac782d 211,1;1]W1+=(T
+nb42b50dc 213,1;1{W4-
+ne6e61023 215,1;1}W4&
+nad995487 217,1;1(W4|
+ne86262d0 219,1;1)W4^
+n1b5669b9 244,50;<C0Pointer<X>::load() const
+ndca6ccee 245,51;>O0store(Type)
+n7a91dc3c 248,4;[O0loadRelaxed() const
+nea8e1b1d 249,4;]O0storeRelaxed(Type)
+nea7f5e4a 251;{O0operator Type() const
+n5df1614f 252,4;}W0=(Type)
+nb8706780 255,4;(O0loadAcquire() const
+n895cb97f 256,4;)O0storeRelease(Type)
+n59a4ce7d 261,4;1<O5testAndSetRelaxed(Type,
+n314b40c0 263,4;1>YBAcquire
+nc8d3e564 265,4;1[YCReleas
+nc406a865 267,4;1]YBOrdered
+ne95e71da 270,4;1{Y1Relaxed(Type,Type,Type&
+nc8cf6b25 272,4;1}YHAcquire
+n1afc93df 274,4;1(YIReleas
+n6f0f66d3 276,4;1)YHOrdered
+nb41986cb 282,4;1<O1fetchAndStoreRelaxed(Type
+nfa592069 284,4;1>b6Acquire
+n9bf24eea 286,4;1[b7Releas
+n6ea5eb57 288,4;1]b6Ordered
+n6f4771b0 294,4;1{W1AddRelaxed(qptrdiff
+n3c77e2bf 296,4;1}ZAAcquire
+n86696e50 298,4;1(ZBReleas
+nd64ce792 300,4;1)ZAOrdered
+n1e2cf0f4 303,4;1<WCSubRelax
+n4d1c63fb 305,4;1>ZAAcquire
+nf702ef14 307,4;1[ZBReleas
+na72766d6 309,4;1]ZAOrdered
+nb46bc2b5 312,4;1{O1operator++(
+n33889682 314,4;1}Z1int
+nd148c6df 316,4;1(W1--(
+n61bac560 318,4;1)Z1int
+n753dcfa0 320,4;1<W1+=(qptrdiff
+na16a7d23 322,4;1>WB-
+000186
+S58f240db
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qatomic.h 20201027080211 911e0a03
+n115f7d53 72,6;4QAtomicInteger<T>::QAtomicInteger(const QAtomicInteger&)
+n6126b633 80,21;1(JNoperator=
+n75625e3 184,6;4)72Pointer<T>::QAtomicPointer(const QAtomicPointer<T>
+n4f6c883f 192,24;1<JQoperator=
+nd4197321 245,10;1qAtomicAssign<T>(T*&,T*)
+d2;1
+d3;1
+na502901b 264,10;1[71Detach<T>(T*&
+d2;1
+d4;1
+000138
+S3da25dba
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qglobalstatic.h 20201027080211 31107c6b
+nd8ea8488 133,4;QGlobalStatic<T,T*(&)(),QBasicAtomicInt&>::isDestroyed() const
+n7288e79e 134,4;(h8exists
+n55878125 135;)h0operator Type*()
+d,16;
+n8452ef36 136,5;<p2()
+d,18;
+n9fbd68f9 137,5;1>p2->
+n956a43a3 142,5;1[p2*
+0002ae
+S7b2b28b
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qchar.h 20201027080211 aca6c7bb
+n3852dff 451,14;QChar::category() const
+nf279a4bc 452,15;(78direction
+nd1a03a05 453,17;)78joiningType
+ncbf5484e 455,26;1<E8
+l3;
+l1;
+l1;
+l1;3
+l1;2
+l1;1
+l1;
+nb861bcfb 468,18;>78combiningClass
+n874159ee 470,11;[78mirroredChar
+n43868d4e 471,10;]78hasMirrored
+nde86d928 474,19;{78decompositionTag
+n6bec620c 476,9;}88igitValue
+ncc4dee80 477,11;(78toLower
+naec8d04c 478,11;)9AUpp
+n8f0cbfac 479,11;<98TitleCase
+n77bb01de 480,11;>98CaseFolded
+n58142555 482,12;[78script
+n1469070c 484,20;]78unicodeVersion
+n321ad31 501,10;{78isPrint
+n874892ba 503,10;}98Mark
+n863d10c5 504,10;(98Punct
+nf84982a7 505,10;)98Symbol
+000184
+S769f8214
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qrefcount.h 20201027080211 a31d7dfc
+n5a7b9ff9 54,10;1QtPrivate::RefCount::ref()
+d3;1
+d3;1
+n1d6f218b 65,10;1(L5de
+d3;1
+d3;1
+nf86750a1 77,4;1)L1setSharable(bool
+d3;1;3
+n77015454 86,4;1<L0isSharable() const
+n4dba0ef8 93,4;1>O8tatic
+nbaec93c5 99,4;1[O8hared
+d3,6
+c,6
+c,18
+n5a422a4c 105,4;]M0nitializeOwned()
+ne1c35598 106,4;{V2Unsharable
+00038f
+Scc6a9760
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qarraydata.h 20201027080211 1d6297ee
+ne869353a 57,5;1QArrayData::data()
+n4d704aa1 64,10;1(I0 const
+na0267da8 74,4;1)C8isMutable
+nb79a51fe 92,6;1<C7detachCapacity(size_t
+d2;1
+c,3
+c,21
+n12a47f72 99,17;1>I7Flags(
+d3;1
+n9e2f2df0 107,17;1[CDclone
+d3;1
+n46373206 123,17;]C0sharedNull()
+nea76d136 208,2;QTypedArrayData<T>::data()
+nfb2d55fc 209,7;}Q0 const
+n2c6be10c 211,8;(K0begin(iterator)
+nf1ac3768 212,8;)KAend
+n72aea358 213,14;<K0begin(const_iterator) const
+ndb949dd0 214,14;>KMend
+na06f0a3e 215,14;[KMconstBegin
+n5bba56de 216,14;]PMEnd
+na35d110c 220,39;2{K0allocate(size_t,AllocationOptions)
+ne281bd70 228,22;2}KPreallocateUnaligned(QTypedArrayData*,
+nbddcff85 236,10;1(K1deallocate(QArrayData*
+n14638167 242,22;2)K1fromRawData(const T*,size_t,AllocationOptions
+d5;1
+n27ffbdf7 257,22;1<K1sharedNull(
+nfdfbab28 263,22;1>Q2Empty
+n9b6c35ca 270,22;1[K7unsharable
+0012b5
+Sacf44c36
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qbytearray.h 20201027080211 dabe58c5
+n38b7730 73,10;1qstrlen(const char*)
+d1,7
+nec0915d8 76,10;1(41nlen(const char*,uint
+d3;1
+d1;1
+c,6
+c,21
+ncbe02c17 92,15;1)41cmp(const char*,const QByteArray&
+n701adda4 95,9;1<41ncmp(const char*,const char*,uint
+d2,6
+c,7
+c,13
+d1,2
+d,10
+ne652cceb 124,15;1QStaticByteArrayData<int>::data_ptr() const
+n77c0131d 189,6;QByteArray::QByteArray(QByteArray&&)
+nb4fc7d25 190,17;1]CEoperator=
+n5f63ee97 193,10;1{C2swap(QByteArray
+n5927fafc 215,10;}C0isSharedWith(const QByteArray&) const
+n9f15238d 223,21;(C7front(
+ne15d504b 225,21;)C8back
+nf0089e55 248,27;1<C7chopped(int
+nbfb6c52c 273,27;1>C0toLower() const&
+n8d73f741 275,27;1[L1&
+n7adf7c0a 277,27;1]E1Upper() const
+n8e27db6b 279,27;1{L1&
+nae513a6a 281,27;1}D1rimmed() const
+n4080dda4 283,27;1(L1&
+n6b442cac 285,27;1)C1simplified() const
+n636f7fe5 287,27;1<O1&
+n7c8ca686 433,16;>C0rbegin()
+n55044d63 434,16;[D2end
+ndb0b4c9 435,22;]D0begin() const
+n7ceb2d23 436,22;{D8end
+n499ba05b 437,22;}C8crbegin
+n6928d1ad 438,22;(E8end
+ne8024f4e 454,4;)C0shrink_to_fit()
+nc29c3955 459,9;<C0count() const
+n52a4d62a 460,3;>C8length
+nc6de96c2 463,6;2[C0QByteArray(QByteArrayDataPtr)
+nb9843383 489,14;]C1data_ptr(
+nb6a61f16 494,6;{C2QByteArray
+n47d0b732 495,6;}CC~
+d,32;
+n74a482b6 496,9;1(C0size() const
+n4b94c20f 499,10;1)C7at(int
+nc61cc54d 501,10;1<CBoperator[]
+nbd3420e4 503,10;1>NAu
+n30e102bf 506,10;1[C7isEmpty(
+n1133431a 509,6;1]C8operator const char*
+nd181d870 511,6;1{R9void
+n8bc87e88 514,11;1}C0data()
+na4c985fc 516,16;1(I0 const
+nf297904d 518,16;1)CBconstD
+n55b0cfac 520,10;1<C0detach()
+d1,1;
+c,4
+c,23
+n1eca051 522,10;1>C0isDetached() const
+na33665bd 524,6;1[C0QByteArray(const QByteArray&)
+n331d0ff6 527,9;1]C0capacity() const
+d1,7
+na36351d 530,10;1{C0reserve(int)
+d2;1;5
+c,3
+c,22
+n4df15d5a 541,10;1}C1squeeze(
+d2;1;5
+c,3
+c,22
+n331fb48e 575,6;1(51Ref::QByteRef(QByteArray&,int
+na1fe4877 580,6;1)A0operator char() const
+d3;1
+n4be23e07 590,15;1<I0=(char)
+d3;2;7
+d7;1
+n6f692687 608,15;1>L1onst QByteRef&
+n18ffcb32 612,10;1[J0=(char) const
+n7b5d0bf3 614,10;1]ID!
+n14d0176c 616,10;1{IC>
+nd5119f2f 618,10;1}JC=
+n5f430417 620,10;1(IC<
+n5c5a0739 622,10;1)JC=
+n5680f2a5 626,14;1<50Array::operator[](int)
+ncacc3555 628,14;1>N4u
+n8d62957b 630,14;[C1front(
+n68557f6 631,14;]C2back
+nc3f43f6a 632,26;1{D2egin
+n2ed389f9 634,32;1}J0 const
+n4c1b1c22 636,32;1(CDc
+n72dd426b 638,32;1)DConstB
+n8c283416 640,26;1<C0end()
+n4793e29 642,32;1>H0 const
+n80e7f4c9 644,32;1[CBc
+n2b7bb6bd 646,32;1]DAonstE
+nd72f03 648,17;1{C0append(int,char)
+nd2ad2400 650,17;1}CEpre
+nf82923b6 652,17;1(C5operator+=(
+n4653d8f9 654,17;1)O1onst char*
+nd1cfffa3 656,17;1<T1QByteArray&
+nd036612 658,10;1>C1push_back(char
+n2d892b6c 660,10;1[N1onst char*
+n971378e5 662,10;1]S1QByteArray&
+n4845ab16 664,10;1{H1front(char
+n78de3ca2 666,10;1}O1onst char*
+n1b7ba5c6 668,10;1(T1QByteArray&
+n8496756f 670,10;1)C0contains(const QByteArray&) const
+n88d5dc57 672,10;1<M7har
+n634b7c9a 674,9;1>E7mpare(const char*,Qt::CaseSensitivity
+d2,6
+nd37d1825 679,9;1[QRQByteArray&
+d2,6
+na1bfa13a 684,10;1operator==(const QByteArray&,const QByteArray&)
+d1,7
+c,7
+c,31
+nafaad14 686,10;1{Z1char*
+d1,7
+n58c00bec 688,10;1}H1char*,const QByteArray&
+d1,7
+nd483413c 690,10;1(8J!=(const QByteArray&
+n47d2ff59 692,10;1)Z1char*
+d1,7
+na7a8fa52 694,10;1<H1char*,const QByteArray&
+d1,7
+n2b3f8e0c 696,10;1>8J<(const QByteArray&
+n8d5a6ea7 698,10;1[Y1char*
+n376d86a9 700,10;1]G1char*,const QByteArray&
+nb176b07a 702,10;1{9J=(const QByteArray&
+nb7837fd2 704,10;1}Z1char*
+nc82f8849 706,10;1(H1char*,const QByteArray&
+n9c7d2945 708,10;1)8J>(const QByteArray&
+n2ad23bfe 710,10;1<Y1char*
+n90e5d3f0 712,10;1>G1char*,const QByteArray&
+n477055fa 714,10;1[9J=(const QByteArray&
+n208b235d 716,10;1]Z1char*
+n5f27d4c6 718,10;1{H1char*,const QByteArray&
+n3c33eaac 721,21;1}8J+(const QByteArray&
+n8776dde7 723,21;1(Y1char*
+ndadadd4a 725,21;1)T1har
+n9228a30 727,21;1<G1char*,const QByteArray&
+nf9780f1e 729,21;1>BJhar
+n15cfa4c6 732,10;1QByteArray::contains(const char*) const
+n890da327 734,17;1]C0replace(char,const char*)
+nd69bc69c 736,17;1{LDonst QByteArray&
+n95dc310 738,17;1}QDchar*
+n44de3139 741,17;1(C1setNum(short,int
+d1,7
+n66431f90 743,17;1)JAu
+n481f8fa 745,17;1<J6in
+d1,7
+nbd61c2f5 747,17;1>J8u
+ne90a7029 749,17;1[J5float,char
+n6ca0fc53 752,17;1]C0toStdString() const
+n9caeb9c 755,16;1{C0fromStdString(const std::string&)
+nd236bb81 766,16;1qCompress(const QByteArray&,int)
+n956be40f 768,16;1qUncompress(const QByteArray&)
+ne2bdc7e8 780,4;1QByteArray::FromBase64Result::swap(QByteArray::FromBase64Result&)
+nfd3d9ad 786,8;<U0operator bool() const
+n1b7a25c5 789,11;>c0*()&
+nd4a0518a 790,16;[f1 const
+n2d6e6dac 791,12;]f1&
+n75aad8f8 800,10;1operator==(const QByteArray::FromBase64Result&,const QByteArray::FromBase64Result&)
+d2;1
+d3;1
+c,3
+c,61
+nab43bf 811,10;1}8,!
+000098
+S9a402591
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qstringliteral.h 20201027080211 ce45a9d
+n43be0496 94,12;1QStaticStringData<int>::data_ptr() const
+0005df
+Sd6611e5d
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qstringview.h 20201027080211 6f232e3
+n3c206a5b 144,15;1QStringView::lengthHelperPointer<Char>(const Char*)
+neaf59d90 156,15;1(W6(const Q
+nefefb654 162,24;1)D6castHelper<Char>(const 
+nc6767c32 210;1<D1QStringView<String,if_compatible_qstring_like<String>>(const String&
+d1,13
+n4c08732 221,30;>D0data() const
+n8d348b67 234,27;[D8toLatin1
+nba3a0a95 235,27;]F8Utf8
+neae9b9ff 236,27;{F8Local8Bit
+n73674288 265,28;}E8rimmed
+nea85c376 267,20;1(D7compare(QStringView,Qt::CaseSensitivity
+nfe5bfb9d 272,20;1)MRChar
+n57a883b 275,21;1<DRstartsWith(QStringView
+n19ef614 278,21;1>P7Char
+d1,7
+c,7
+c,17
+na5ea0fdd 280,21;1[T7,Qt::CaseSensitivity
+n50983d02 283,21;1]DRendsWith(QStringView
+ne1583827 286,21;1{N7Char
+d1,7
+c,7
+c,17
+n4ff2e7c3 288,21;1}R7,Qt::CaseSensitivity
+nac6d6a7d 291,26;1(DRindexOf(QChar,qsizetype
+nf84c4f44 293,26;1)MbStringView
+n87c55d57 297,21;1<DRcontains(QChar
+n934737e3 299,21;1>NRStringView
+nb4450c96 306,26;1[DRlastIndexOf(QChar,qsizetype
+n9e1ed6ae 308,26;1]QbStringView
+nded41cd6 312,21;1{D7isRightToLeft(
+ndab2e01 314,21;1}F8ValidUtf16
+n80991eac 346,31;(D8begin
+nac5da237 347,31;)D8end
+nd225253e 348,31;<D8cbegin
+n25f3d559 349,31;>E8end
+n88180482 350,39;[D8rbegin
+n6c8ec93e 351,39;]E8end
+n9909ed74 352,39;{D8crbegin
+nf7cb37d7 353,39;}F8end
+n61fc40ea 380,17;1qToStringViewIgnoringNull<QStringLike,typename std::enable_if<std::is_same<QStringLike,QString>::value||std::is_same<QStringLike,QStringRef>::value,bool>::type>(const QStringLike&)
+0046a7
+Sb108f4c0
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qstring.h 20201027080211 431fdefe
+n888a43d2 95,14;QLatin1String::QLatin1String(const QByteArray&)
+ne1e98e08 114,20;1(F0compare(QStringView,Qt::CaseSensitivity) const
+n31e5794d 116,20;1)ORLatin1String
+ndf3f33ee 120,20;1<ORChar
+ndd18aeb0 123,21;1>FRstartsWith(QStringView
+n6757b33f 125,21;1[RRLatin1String
+n6ba4921f 129,27;1]RRChar
+n8ce065fc 132,21;1{FRendsWith(QStringView
+n9a4a2050 134,21;1}PRLatin1String
+n86b4950a 138,27;1(PRChar
+n86403096 141,20;1)FRindexOf(QStringView,int
+nd8904ab0 143,20;1<OVLatin1String
+n6ddab4dc 145,26;1>OVChar
+n982c03c5 148,21;1[FRcontains(QStringView
+na9c65dd9 150,21;1]PRLatin1String
+n439e4746 152,27;1{PRChar
+ndcfb82f6 155,20;1}FRlastIndexOf(QStringView,int
+na1c27da2 157,20;1(SVLatin1String
+nc3850672 159,26;1)SVChar
+nc3f16c74 178,22;<F7rbegin(
+n397ffe92 179,22;>FEc
+n896d1234 180,22;[F8rend
+n5007ff57 181,22;]FCc
+n64529cd 199,30;{F9trimme
+nbe03914 245,3;1}17StringView::compare(QLatin1String,Qt::CaseSensitivity
+na460e903 247,4;1(DfstartsWith
+n8008918d 249,4;1)Dkend
+n85d85c61 251,9;1<DRindexOf(QLatin1String,qsizetype
+n5de31d25 253,4;1>DRcontains(QLatin1String
+na0f352cd 255,9;1[DRlastIndexOf(QLatin1String,qsizetype
+n2577c851 273,6;]70::QString(QString&&)
+nd99025a2 274,14;1{9Boperator=
+n369a09ae 276,10;}92swap(QString
+n7e3046ca 277,9;(A0ize() const
+nde462af5 278,9;)98count
+nff8f129 299,10;<97isSharedWith(const QString&
+n72466d38 308,28;>97front(
+n85f2a943 310,28;[98back
+naa73134e 386;1]97arg<Args>(Args&&...
+na8ce45c2 404,20;1{97indexOf(QStringView,int,Qt::CaseSensitivity
+nc47d8cc5 413,20;1}9nlastI
+nb83f59f7 430,10;(97contains(const QRegExp&
+ne53b1609 435,10;)IF
+n4af997a9 468,24;1<A7hopped(int
+n32c9076b 480,21;1>97startsWith(QStringView,Qt::CaseSensitivity
+nb338ccf0 489,21;1[9iend
+n714ca468 508,24;1]90toLower() const&
+n8a87ca31 510,24;1{I1&
+n969b7449 512,24;1}B1Upper() const
+n42c8c26e 514,24;1(I1&
+n485c076b 516,24;1)B1CaseFolded() const
+n13d5a262 518,24;1<N1&
+n4ab4d72 520,24;1>A1rimmed() const
+nb60206d2 522,24;1[I1&
+n3349d514 524,24;1]91simplified() const
+n64dfbec0 526,24;1{L1&
+nf490927d 542,14;}90insert(int,const QString&)
+nc28cf517 544,14;1(K1QStringView
+nd371d96d 552,14;)9Cappend(
+n2e71d01a 553,14;<91prepend(QChar
+nadfe9dd7 554,14;>H1const QChar*,int
+n18f23cc2 555,14;[O1String&
+n83b9b8dc 556,14;]U2Ref
+nf01eada5 557,14;{H1QLatin1String
+n704be8b1 558,14;}I1StringView
+nf5b61fa3 560,14;1(91operator+=(QChar
+d1;1
+c,3
+c,22
+n6e611b5f 568,14;)P2::SpecialCharacte
+n480b616e 569,14;<K1const QString&
+nacecc8a9 570,14;>X2Ref
+n2cc9a36b 571,14;[K1QLatin1String
+n7f75c69c 572,14;]L1StringView
+n262a7e73 592,14;1{91remove(const QRegExp&
+n81cdf1c5 597,14;1}Q2ularExpression
+na8ed66b2 679,27;1(90toLatin1() const&
+nc7528c2c 681,27;1)J1&
+n8df8b13f 683,27;1<B1Utf8() const
+nc1fe8565 685,27;1>H1&
+n79355a4d 687,27;1[B1Local8Bit() const
+d1,26
+n4278fde0 689,27;1]M1&
+d1,26
+ncf99a41f 699,19;1{90fromLatin1(const char*,int)
+d2,45
+c,46
+c,51
+na3dfcb61 704,19;1}DHUtf8
+d2,26
+c,27
+c,32
+n7b91ee4b 708,19;1(DHLocal8Bit
+d2,31
+c,32
+c,37
+na993f34c 712,19;1)E1atin1(const QByteArray&
+d1,7
+n5aa66f6 714,19;1<DJUtf8
+d1,7
+nb64aae1e 716,19;1>DJLocal8Bit
+d1,7
+nd4cfee04 723,13;1[D1Utf16(const char16_t*,int
+n83a667bd 725,13;1]E8cs4(const char32
+ncb2b4331 751,3;1{90compare(QChar,Qt::CaseSensitivity) const
+n98dc6687 754,15;2}H0const QString&,const QString&,Qt::CaseSensitivity)
+nc71f79e0 758,15;2(WLQLatin1String
+n6b4d9143 761,15;2)HLQLatin1String,const QString&
+nc13370e7 769,9;1<91localeAwareCompare(const QString&,const QString&
+nd08d2f3d 808,16;>0Voperator>
+n2bca6182 809,16;[8V!=
+n2e1a6d07 810,16;]8W<
+na90c9b64 811,16;{8W>
+n9683347 816,10;QString::operator!=(QLatin1String) const
+n3bd83015 817,10;(HM<
+ncd98db8e 818,10;)HM>
+n11a21e59 835,24;2<90QString(const char*)
+d1,23
+n3af01a23 838,24;2>N1QByteArray&
+n9b09941b 841,32;1[91operator=(const char*
+ndcb1f4c1 843,32;1]P1QByteArray&
+n24d1823e 845,32;1{K1har
+n3c005eef 849,32;1}91prepend(const char*
+nadef9f5d 851,32;1(N1QByteArray&
+nc5c2af90 853,32;1)91append(const char*
+n140b7d34 855,32;1<M1QByteArray&
+n544660fb 857,32;1>91insert(int,const char*
+ne8a9a878 859,32;1[Q1QByteArray&
+na3946110 861,32;1]91operator+=(const char*
+ndc3c92ba 863,32;1{Q1QByteArray&
+n294b65c0 865,32;1}L1har
+n43876a0c 911,16;(91rbegin(
+n548cef75 912,16;)A2end
+n56c77ca5 913,22;<A0begin() const
+n25e4475d 914,22;>A8end
+nd6b00667 915,22;[98crbegin
+n325f19c1 916,22;]B8end
+n39cb38b9 926,10;{90push_back(QChar)
+nda7f8629 927,10;}J1const QString&
+n491874a7 928,10;(E1front(QChar
+n5815c2ee 929,10;)K1const QString&
+n9483d0b9 930,4;<91shrink_to_fit(
+na1cbc11e 955,6;>91QString(const Null&
+n9e3d4e24 956,14;[9Doperator=
+nb13e6ecc 958,10;]90isNull() const
+n4e430019 963,21;1{B8ValidUtf16
+n6984f3ad 1038,1;1}90toIntegral_helper<T>(const QChar*,int,bool*,int)
+d7;1
+d1;1
+nc4976291 1055,14;(91data_ptr(
+na81bb30f 1061,7;1)70View::toString() const
+n9fcce124 1067,6;1<70::QString(QLatin1String)
+n88a68480 1069,9;1>90length() const
+n5042f11f 1071,16;1[97at(int
+n197e0c14 1073,16;1]9Boperator[]
+n7038b6dd 1075,16;1{KAu
+n6adc4281 1077,10;1}97isEmpty(
+n7f7a2711 1079,17;1(98unicode
+n108fa805 1081,17;1)98data
+n2d0e7f22 1083,12;1<F0
+n4842d7c2 1085,17;1>90constData() const
+n4db60309 1087,10;1[90detach()
+d1,1;
+c,4
+c,23
+nabad9ca 1089,10;1]90isDetached() const
+nc320d6b3 1091,10;1{90clear()
+d1,1;
+nabc1b3cf 1093,6;1}91QString(const QString&
+n7bd0ba06 1095,9;1(90capacity() const
+d1,7
+ne3b99f9b 1097,14;1)90setNum(short,int)
+nb43fc3d2 1099,14;1<GAu
+nbaed98b1 1101,14;1>G6in
+n277b02b9 1103,14;1[G8u
+naed3ad8b 1105,14;1]G5long
+na72a630a 1107,14;1{G9u
+nc87bb933 1109,14;1}G5float,char
+n87ee428f 1111,13;1(90arg(int,int,int,QChar) const
+n36930869 1113,13;1)DOu
+n4870d03c 1115,13;1<DLlong
+n68cb3352 1117,13;1>DPu
+nad5ff9e 1119,13;1[DLshort
+n51c72c3c 1121,13;1]DQu
+n93b4e69c 1124,13;1{D7const QString&,const QString&
+n7baf99d8 1126,13;1}gM
+n8c7b84a8 1128,13;2(vM
+nbfe4f170 1131,13;2)*M
+nefe908a3 1134,13;2<]M
+n19492856 1137,13;3>~U
+n750570b7 1141,13;3[~j
+nae338cc4 1145,13;3]~y
+nf2f20c5b 1151,13;1{97section(QChar,int,int,SectionFlags
+n7256bf67 1158,9;1}97toWCharArray(wchar_t*
+ne8e31737 1163,3;1(7UView
+d2;1;5
+d1;1
+naf899216 1177,13;1)70::fromWCharArray(const wchar_t*,int)
+d2,6
+nc10099c9 1190,6;1<15CharRef::QCharRef(QString&
+n41e2a273 1199,6;1>A0operator QChar() const
+d3;1
+nd303c873 1209,15;1[I0=(QChar)
+d3;2;7
+d7;1
+n970c0d9f 1230,33;1]K4c
+n392ab6d2 1232,33;1{K5u
+n53dd47f0 1235,15;}K1const QCharRef&
+n480c9fbb 1236,15;(K1ushort
+ne589ae8d 1237,15;)K6
+n39b0bb77 1238,15;<K2uin
+nc87e5b9c 1239,15;>K4
+na15d0001 1242,10;[A0isNull() const
+n699b7388 1243,10;]C8Print
+n98e56fe4 1244,10;{D9unc
+nfafca753 1245,10;}C8Space
+n21341b99 1246,10;(C8Mark
+n518d744e 1247,10;)C8Letter
+ndd46557f 1248,10;<CANumb
+n5f0be4fe 1249,10;>C0LetterOrNumber()
+n1229253 1250,10;[C0Digit() const
+n1a3b4828 1251,10;]C8Lower
+n50b29bc0 1252,10;{CAUpp
+n133762a1 1253,10;}C8TitleCase
+n51592980 1255,9;(A9digitValu
+nb9dc63de 1256,5;)A8toLower
+n1c7fb0af 1257,5;<CAUpp
+n841a81f8 1258,5;>C8TitleCase
+n720a09a1 1260,15;[A8category
+n2a48be91 1261,16;]A8direction
+nac7799d4 1262,18;{A8joiningType
+nb4cddce 1264,27;1}H8
+l3;
+l1;
+l1;
+l1;3
+l1;2
+l1;1
+l1;
+n17a86377 1277,4;(A8hasMirrored
+n80ecb6f7 1278,5;)A8mirroredChar
+n34383818 1279,7;<A8decomposition
+na7594f3d 1280,20;>N8Tag
+n15989ed8 1281,5;[A8combiningClass
+nd0072688 1283,19;]A8script
+nb58472fd 1285,21;{A8unicodeVersion
+nf07c2f9d 1287,11;}A8cell
+nccab406a 1288,11;(A8row
+n372ff237 1295,4;)A8toLatin1
+n17271a8f 1296,6;<A8unicode
+nb8ed8596 1297,7;>J0
+n488432e6 1302,10;[A1setRow(uchar
+ne7034e80 1303,10;]D7Cell
+n749237fe 1306,6;QString::QString()
+n6c89fe2d 1307,6;}99~
+d,26;
+nfba14d0a 1309,10;1(91reserve(int
+d2;1
+c,3
+c,22
+d3;2
+n3135a1b4 1320,10;1)91squeeze(
+d2;1
+c,3
+c,22
+d3;3
+n9adeca43 1332,14;1<A1etUtf16(const ushort*,int
+nee2f92a1 1334,14;1>94operator[](
+nc32d81f9 1336,14;1[K4u
+ne265f012 1338,14;]91front(
+n8d9294a2 1339,14;{92back
+n4990acdf 1340,23;1}A2egin
+n2bb08dd7 1342,29;1(G0 const
+nf1988532 1344,29;1)9Dc
+n4f8bd0cd 1346,29;1<AConstB
+nb1ebf25d 1348,23;1>90end()
+ndcbd1eb5 1350,29;1[E0 const
+n2b1c1cfa 1352,29;1]9Bc
+n4bcae777 1354,29;1{AAonstE
+n88382964 1357,10;1}C7tains(const QString&,Qt::CaseSensitivity
+n9a2e1422 1359,10;1(VSRef
+n89a2fdb0 1362,10;1)IRQLatin1String
+nc4973e96 1364,10;1<JRChar
+n2cebac4f 1366,10;1>JRStringView
+nf24ef7f3 1370,10;operator==(QString::Null,QString::Null)
+na2a2d0e4 1372,10;]P1const QString&
+n18c712ec 1374,10;{B1const QString&,QString::Null
+n763fc80a 1375,10;}8F!=(QString::Null
+nbe3f2885 1377,10;(P1const QString&
+n49497b2d 1379,10;)B1const QString&,QString::Null
+n2e033511 1382,10;1<81==(QLatin1String,QLatin1String
+d1,7
+c,7
+c,30
+c,42
+n8cb9a1e8 1384,10;1>8U!
+nd7f1f934 1386,10;1[8T<
+d3,10
+d1,6
+c,6
+c,12
+c,18
+n28fc4763 1392,10;1]8T>
+n74201f6a 1394,10;1{8T<=
+nda098527 1396,10;1}8U>
+nf8020d5b 1399,10;1QLatin1String::operator==(const QString&) const
+n5852810a 1401,10;1)NN!
+nfdf05230 1403,10;1<NM>
+n2461e215 1405,10;1>NM<
+n99a0efd8 1407,10;1[NM>=
+nde23c574 1409,10;1]NN<
+n244e131 1413,10;1{17String::operator==(const char*
+n2c7b0734 1415,10;1}HK!
+nd24f7cb6 1417,10;1(HJ<
+n399e7fb0 1419,10;1)HJ>
+n2cb687e0 1421,10;1<HJ<=
+n71524a42 1423,10;1>HK>
+n64e9dc84 1426,28;1operator==(const char*,const QString&)
+n5a9726cb 1428,28;1]8T!
+n36c8594c 1430,28;1{8S<
+ncf4891e4 1432,28;1}8S>
+nff9b3415 1434,28;1(8S<=
+na11fcd60 1436,28;1)8T>
+n330f74fd 1439,28;1<81==(const char*,QLatin1String
+n3021449f 1441,28;1>8S!
+n71eadb8f 1443,28;1[8R<
+nda997e7a 1445,28;1]8R>
+n966e7d24 1447,28;1{8R<=
+ne74bb50a 1449,28;1}8S>
+n667a84c 1452,28;1QLatin1String::operator==(const char*) const
+nbc93d900 1454,28;1)NK!
+n1a228b2c 1456,28;1<NJ<
+n88ad25fc 1458,28;1>NJ>
+n6023f579 1460,28;1[NJ<=
+na76bf5e1 1462,28;1]NK>
+n54371802 1465,28;1{N7==(const QByteArray&
+n571c46de 1467,28;1}NQ!
+n5e24b7e9 1469,28;1(NP<
+n2e49bac8 1471,28;1)NP>
+n51f96f2a 1473,28;1<NP<=
+n51a53b88 1475,28;1>NQ>
+ne6b3c72f 1478,28;1[1QString::operator=
+n81098d07 1480,28;1]HQ!
+n6b4d3ef3 1482,28;1{HP<
+nd592fa10 1484,28;1}HP>
+n170def6d 1486,28;1(HP<=
+n3a9bc247 1488,28;1)HQ>
+n6e789485 1491,10;1<18ByteArray::operator==(const QString
+n629eee41 1493,10;1>KN!
+n8cb489f9 1495,10;1[KM<
+n6585b6be 1497,10;1]KM>
+n9411e5ea 1499,10;1{KM<=
+n64824562 1501,10;1}KN>
+n4bdeaeeb 1507,17;1(C0append(const QString&)
+nfdaed868 1509,17;1)CFinsert(int,
+ned4cd25c 1511,17;1<CGreplace(char
+n43c5f1e4 1513,17;1>L1onst QString&,const char*
+nb3310a43 1515,17;1[f1QByteArray&
+nbcaa9084 1517,17;1]C2operator+=(const QString
+n3eede202 1519,9;1{C0indexOf(const QString&,int) const
+nabbf69ed 1521,9;1}CWlastI
+n51a2be8c 1526,18;1operator+(const QString&,const QString&)
+n5df9d131 1528,18;1)P1QChar
+n53ce0cb4 1530,18;1<A1QChar,const QString&
+n41eb560e 1533,36;1>A1const QString&,const char*
+n8f3e9064 1535,36;1[G1char*,const QString&
+neb41ed7b 1537,36;1]BGhar
+n3ab35406 1539,36;1{B1onst QString&,char
+n1ea35b05 1541,36;1}H1ByteArray&,const QString&
+ndccd5d 1543,36;1(H2String&,const QByteArray
+nd37f2bbd 1548,17;1QString::toStdString() const
+neb8085f9 1551,13;1<90fromStdString(const std::string&)
+n212cb3e1 1554,18;1>90toStdWString() const
+d7;1
+n6911e71 1567,13;1[90fromStdWString(const std::wstring&)
+n2c507f1 1571,13;1]G8U16String(const std::u16
+nf2296bac 1574,20;1{90toStdU16String() const
+ne70e0073 1577,13;1}90fromStdU32String(const std::u32string&)
+n40b568f6 1580,20;1(90toStdU32String() const
+n57a533df 1611,6;)70Ref::QStringRef()
+n2072d5cd 1617;2<N1const QStringRef&
+nf794ab52 1620;>N2QStringRef&
+ne228d7b3 1621,11;[CEoperator=
+nf892f569 1622,11;1]M2const QStringRef
+n28840ec 1627,6;{C1~QStringRef(
+n31d94637 1630,19;}C0string() const
+n66a68658 1631,9;(C8position
+nc162caef 1632,9;)C8size
+nc653e809 1633,9;<C8count
+n243ed570 1634,9;>C8length
+n9b9c185d 1640,20;1[C7indexOf(QStringView,int,Qt::CaseSensitivity
+nf367b3c 1650,20;1]CnlastI
+n5573272f 1684,27;1{C7chopped(int
+n28803289 1687,4;}C0truncate(int)
+n8b9aea7f 1688,4;1(C5chop
+d2;1;2
+d2,4;1
+n5eac59ea 1698,21;1)C0startsWith(QStringView,Qt::CaseSensitivity) const
+n4246402a 1707,21;1<Ciend
+nde1f410 1718,17;1>C7unicode(
+d2;1
+nabc1898d 1724,17;[C8data
+n6ed9dbac 1725,17;]CBconstD
+n6922bfe1 1727,20;{C8begin
+nb7cab784 1728,20;}CDc
+n3ef9681b 1729,20;(DConstB
+n14bdb45 1730,20;)C8end
+nbe8145d9 1731,20;<CBc
+n3bff42e2 1732,20;>DAonstE
+n8f2169eb 1733,28;[C8rbegin
+n34d54089 1734,28;]CEc
+n9d76f49d 1735,28;{C8rend
+nd402312a 1736,28;}CCc
+n2b195464 1747,10;(D0lear()
+nd6bea8aa 1749,10;)C0isEmpty() const
+na92ba44e 1750,10;<E8Null
+d,30
+c,30
+c,49
+n5faa142d 1754,16;1>C7at(int
+nabe50e36 1756,5;[CBoperator[]
+nb3896a34 1757,22;]C7front(
+n58b5629d 1758,22;{C8back
+n79b21642 1772,3;1}C7compare(QChar,Qt::CaseSensitivity
+n96e95201 1776,3;1(KRconst QByteArray&
+na895f4d5 1807,17;1)C0operator=(const QString*)
+d1,38
+n5f71e762 1810,6;1<C1QStringRef(const QString*,int,int
+n73089047 1813,6;1>b1
+d1,40
+nf7bd1c66 1818,10;1operator!=(const QStringRef&,const QStringRef&)
+nfe751d02 1821,10;1]8b>
+nbc3f10b7 1823,10;1{8b<=
+ndae34d0 1825,10;1}8c>
+ne277edd2 1830,10;(8K!=(const QString
+nf852c1eb 1831,10;)8Y<
+ndd3a8426 1832,10;<8Y>
+nc7ddd775 1833,10;>8Y<=
+nef512f86 1834,10;[8Z>
+nc1b4e485 1836,10;]82==(const QStringRef&,const QString
+n80e6cb1e 1837,10;{8Z!
+na1ec397c 1838,10;}8Y<
+n8f81bb76 1839,10;(8Y>
+n716ad75 1840,10;)8Y<=
+ne4d54dbd 1841,10;<8Z>
+n4c4f7c8e 1844,9;1QString::compare(const QStringRef&,Qt::CaseSensitivity) const
+na30bfa90 1847,9;1[HRQStringView
+nc31d4d7e 1849,9;1]H0const QString&,const QStringRef&,Qt::CaseSensitivity)
+n5b147983 1851,9;1{70Ref::compare(const QString&,Qt::CaseSensitivity) const
+n3fbb2a38 1853,9;1}XSRef
+n1aeb9746 1855,9;1(KRQLatin1String
+nf434b421 1857,9;1)K0const QStringRef&,const QString&,Qt::CaseSensitivity)
+n6755af64 1859,9;1<pMRef
+nd9a9df46 1861,9;1>cLQLatin1String
+n4f082c6 1866,10;operator!=(QLatin1String,const QStringRef&)
+n7d713dac 1867,10;]8X<
+nef55d302 1868,10;{8X>
+n29a5f9a9 1869,10;}8X<=
+nf9a5ce07 1870,10;(8Y>
+n9a867e6a 1872,10;)81==(const QStringRef&,QLatin1String
+nb4acb0b4 1873,10;<8Y!
+n7d951de2 1874,10;>8X<
+ne3d618e 1875,10;[8X>
+nac4b7419 1876,10;]8X<=
+nab970e60 1877,10;{8Y>
+nfdae1eea 1880,10;1}81==(QChar,const QString&
+d1,7
+c,7
+c,22
+n4b49b78a 1882,10;1(8M<
+n2b69ef92 1884,10;1)8M>
+nd97ff984 1887,10;<8M!=
+n916b1b00 1888,10;>8N<
+n23ac892c 1889,10;[8N>
+n177c3fee 1891,10;]81==(const QString&,QChar
+n907b26bf 1892,10;{8N!
+n5b1bd7df 1893,10;}8M<
+n6428078d 1894,10;(8M>
+n551a793c 1895,10;)8M<=
+ne7ddeb10 1896,10;<8N>
+nebe76159 1899,10;1>81==(QChar,const QStringRef&
+d1,7
+c,7
+c,22
+n55b7b41c 1901,10;1[8P<
+nbaa9bc13 1903,10;1]8P>
+nfefc394c 1906,10;{8P!=
+n8719b7cd 1907,10;}8Q<
+nd2d730c1 1908,10;(8Q>
+n9d24eb0 1910,10;)81==(const QStringRef&,QChar
+n9ae643cb 1911,10;<8Q!
+ndf4f6d87 1912,10;>8P<
+n68153bbe 1913,10;[8P>
+ne5ae624f 1914,10;]8P<=
+nb060e543 1915,10;{8Q>
+neb42e3c9 1918,10;1}81==(QChar,QLatin1String
+d1,7
+c,7
+c,22
+n85f9d700 1920,10;1(8L<
+n7a48847d 1922,10;1)8L>
+n575c488d 1925,10;<8L!=
+nf69c2af3 1926,10;>8M<
+nc8aa9e88 1927,10;[8M>
+nab7754dd 1929,10;]81==(QLatin1String,QChar
+n823b3822 1930,10;{8M!
+n98e3fc56 1931,10;}8L<
+nf5a0820c 1932,10;(8L>
+nac68b8fb 1933,10;)8L<=
+n925e0c80 1934,10;<8M>
+n546e8c2 1937,10;>81==(QStringView,QStringView
+d,66
+c,66
+c,90
+ncf55e284 1938,10;[8Q!
+ne3a7a121 1939,10;]8P<
+na5222b49 1940,10;{9P=
+n6c756b38 1941,10;}8P>
+nafa5595 1942,10;(9P=
+na57e1544 1945,10;)81==(QStringView,QChar
+n7cbed100 1946,10;<8K!
+n3ae9d67d 1947,10;>8J<
+nc343c17e 1948,10;[9J=
+nc6b32e2 1949,10;]8J>
+nf38690a 1950,10;{9J=
+n84b3ee3c 1952,10;}81==(QChar,QStringView
+nd1dc33d8 1953,10;(8K!
+nf50f4114 1954,10;)8J<
+nef807b7e 1955,10;<9J=
+n51bb2609 1956,10;>8J>
+n39e751fa 1957,10;[9J=
+n3ed9026f 1960,10;]81==(QStringView,QLatin1String
+d,68
+c,68
+c,92
+n4e16c4c3 1961,10;{8S!
+nf5c12444 1962,10;}8R<
+nd681292d 1963,10;(9R=
+n395146dd 1964,10;)8R>
+nda9ad502 1965,10;<9R=
+ne2f74eda 1967,10;>81==(QLatin1String,QStringView
+d,68
+c,68
+c,92
+n90b29856 1968,10;[8S!
+n5417ae84 1969,10;]8R<
+n8fdf920 1970,10;{9R=
+n9887cc1d 1971,10;}8R>
+n4e6050f 1972,10;(9R=
+n23b2a54a 1976,28;)81==(const QStringRef&,const QByteArray&
+ndc233916 1977,28;<8c!
+nf38ec7e8 1978,28;>8b<
+nab4a7b86 1979,28;[8b>
+n9ee56508 1980,28;]8b<=
+ne08bf83b 1981,28;{8c>
+n6f1e612 1983,28;}82==(const QByteArray&,const QStringRef
+nf9607a4e 1984,28;(8c!
+n1951d516 1985,28;)8b<
+n41956978 1986,28;<8b>
+n8df63ca0 1987,28;>8b<=
+nf398a193 1988,28;[8c>
+n8ab10124 1991,28;1QStringRef::operator==(const char*) const
+n548a4a50 1993,28;1{KK!
+n63bfdb6 1995,28;1}KJ<
+n349e2648 1997,28;1(LJ=
+n5d9ca9ad 1999,28;1)KJ>
+n4c017527 2001,28;1<LJ=
+nc93f572e 2004,28;1operator==(const char*,const QStringRef&)
+n35802bd5 2006,28;1[8W!
+n9a5498ef 2008,28;1]8V<
+n591da930 2010,28;1{9V=
+n85712557 2012,28;1}8V>
+n11397d5b 2014,28;1(9V=
+n55b204d8 2018,9;1QString::localeAwareCompare(const QStringRef&) const
+n51f93715 2020,9;1<f0&,const QStringRef&)
+n71a5d53 2022,9;1>70Ref::localeAwareCompare(const QString&) const
+n68c3fe3f 2024,9;1[i8Ref
+nb6f355a1 2026,9;1]V7QStringView
+ne6716496 2028,9;1{V0const QStringRef&,const QString&)
+ncff4a97a 2030,9;1} 2Ref
+nc8762540 2032,9;1(V1QStringView,QStringView
+n1e5aa226 2036,10;1)C0contains(const QString&,Qt::CaseSensitivity) const
+n7895aacb 2038,10;1<YSRef
+na059f3e4 2041,10;1>LRQLatin1String
+n61ef4c07 2043,10;1[MRChar
+nc03eb32d 2045,10;1]MRStringView
+nc5b5b5fd 2048,14;1{70::insert(int,const QStringRef&)
+nc07e9dea 2052,13;1}0Joperator+(const QString&
+n82706d08 2054,13;1(N2Ref&,const QString
+n7f4f336f 2056,13;1)S1QLatin1String
+n4b47fedd 2058,13;1<A1QLatin1String,const QStringRef&
+nad92c35c 2060,13;1>AJconst QStringRef&
+nb0bdc3c1 2062,13;1[S1QChar
+nc06bc024 2064,13;1]A1QChar,const QStringRef&
+nffd2a5fe 2078,19;QtPrivate::asString(const QString&)
+na736262b 2079,15;}K2QString&
+nc25441e0 2108,39;1(C1rgToQStringDispatch<StringView,Args>(StringView,const Args&...
+n7b2422b 2114,20;)B1qStringLikeToArg(const QString&
+nb1c870ea 2116,20;<Z2Char
+n138fcf94 2123,7;1QStringView::arg<Args>(Args&&...) const
+n73257198 2130,7;1[1SLatin1String
+n341b4a06 2135,15;1]17StringView::count(QChar,Qt::CaseSensitivity
+nba2ebe36 2137,15;1{KRStringView
+n4809d09b 2140,11;1}D7toShort(bool*,int
+n90f6ae3e 2142,12;1(FMU
+n7870050b 2144,9;1)FIIn
+n27aeff04 2146,10;1<FKU
+nefbfdb90 2148,10;1>FHLong
+nd7ccea33 2150,11;1[FLU
+neba0a4e 2152,15;1]FLLong
+nd18df419 2154,16;1{FPU
+nb0fb5a24 2156,11;1}F7Float(bool*
+n338c0455 2158,12;1(FDDouble
+00068b
+Se4329577
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qobjectdefs_impl.h 20201027080211 55a4167f
+n834ea93a 88,8;QtPrivate::ApplyReturnValue<T>::ApplyReturnValue(void*)
+nd5865a0 91,4;1(B1operator,<T,U>(T&&,const ApplyReturnValue<U>&
+d1;1
+nd3d7663 96,4;)M3>(T,const ApplyReturnValue<void
+n422d15ab 145,10;1<B1FunctorCall<IndexesList<II...>,List<SignalArgs...>,R,Function>::call(Function&,void**
+n121eda35 151,10;1>"8SlotRet(Obj::*)(SlotArgs...)>::call(SlotRet(Obj::*)(SlotArgs...),Obj*
+nb2d6524c 157,10;1[|D const>::call(SlotRet(Obj::*)(SlotArgs...) const
+ne00e69c0 164,10;1]}Enoexcept>::call(SlotRet(Obj::*)(SlotArgs...) noexcep
+n2c2ebeb0 170,10;1{}Mconst noexcept>::call(SlotRet(Obj::*)(SlotArgs...) const
+n4aa5b072 184,10;1}GDionPointer<Ret(Obj::*)(Args...)>::call<SignalArgs,R>(Function
+nb434b37d 196,10;1(lh const
+nb95d8a2d 208,10;1)V9*)(Args...)>::call<SignalArgs,R>(Function,void
+need22ab9 222,10;1<V9Obj::*)(Args...) noexcept>::call<SignalArgs,R>(Function,Obj
+n8faade4 234,10;1>mqconst
+nef0ec225 246,10;1[V9*)(Args...) noexcept>::call<SignalArgs,R>(Function,void
+n6f1a86c 255,10;1]GEor<Function,int>::call<SignalArgs,R>(Function&
+n597c9b32 391,8;{B1QSlotObjectBase::QSlotObjectBase(ImplFn
+n218261dd 393,9;}S1ref(
+nca0140b 394,10;1(S4destroyIfLastR
+d1,1;
+nb85ae2e4 397,10;)S1compare(void**
+nbeaeb584 398,10;<T7all(QObject*,
+nf797aa1 400;>S1~QSlotObjectBase(
+n608cba78 411,10;1[M1<Func,Args,R>::impl(int,QSlotObjectBase*,QObject*,void**,bool*
+l3;1
+l3;1
+l3;1
+l3;
+l1
+na5f6f453 427,8;]b1QSlotObject(Func
+nb3870f3 436,10;1{C1FunctorSlotObject<Func,int,Args,R>::impl(int,QSlotObjectBase*,QObject*,void**,bool*
+l3;1
+l3;1
+l3;2
+l1;1
+l2
+n2eb7b9cd 451,8;}m1QFunctorSlotObject(Func
+0005ca
+S16d64442
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qobjectdefs.h 20201027080211 cba48927
+nfe5b9c3c 292,6;1QGenericArgument::QGenericArgument(const char*,const void*)
+n6a650f11 294,11;(I0data() const
+n562c6de2 295,16;)I8name
+n98f59036 305,6;2<80ReturnArgument::QGenericReturnArgument(const char*,void*)
+nb3a84f75 314,6;2QArgument<T>::QArgument(const char*,const T&)
+n77aa001f 322,6;2[B3&>::QArgument(const char*,
+nde523bd9 332,6;2]1OReturnArgument<T>::QReturn
+ncc362f15 414,16;12QMetaObject::invokeMethod(QObject*,const char*,QGenericReturnArgument,QGenericArgument,QGenericArgument,QGenericArgument,QGenericArgument,QGenericArgument,QGenericArgument,QGenericArgument,QGenericArgument,QGenericArgument,QGenericArgument)
+n415ce43f 431,16;12}m~t::ConnectionType,QGenericArgument,QGenericArgument,QGenericArgument,QGenericArgument,QGeneric
+nd787b427 448,16;11(m~GenericArgument,QGenericArgument,QGenericArgument,QGenericArgument,QGeneric
+n615af872 476;4)P1<Func>(typename QtPrivate::FunctionPointer<Func>::Object*,Func,Qt::ConnectionType,typename QtPrivate::FunctionPointer<Func>::ReturnType*
+nc047ba2d 488;3<^t
+n7eda94d0 500;3>WuQObject*,Func,Qt::ConnectionType
+n5ac253c9 511;2[kt
+n4e676cbd 522;2]k2Qt::ConnectionType,decltype(function())
+n2d0a6712 535;1{kM
+n4b80138f 621,8;}D2Connection::Connection(void
+nb44daa88 635;(P0operator RestrictedBool() const
+d,36
+c,36
+c,43
+n2f1c9551 638;)P0Connection(Connection&&)
+ne3d74d04 639,11;1<PEoperator=
+n6883c366 643,23;1>D0superClass() const
+000f13
+S313bf198
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qalgorithms.h 20201027080211 c2a1a6f1
+nebcc34ed 82,51;1qCopy<InputIterator,OutputIterator>(InputIterator,InputIterator,OutputIterator)
+d2;1
+n1b25f976 90,57;1(51Backward<BiIterator1,BiIterator2>(BiIterator1,BiIterator1,BiIterator2
+d2;1
+n1c8c26bd 98,42;1)1AEqual<InputIterator1,InputIterator2>(InputIterator1,InputIterator1,Input
+d2,5;1
+d1;1
+n3a4dfddd 107,41;1qFill<ForwardIterator,T>(ForwardIterator,ForwardIterator,const T&)
+d2,5;1
+nbbaffc9f 114,41;1>6AContainer,T>(Container&
+n4a0425a 120,50;1[3And<InputIterator,T>(InputIterator,InputIterator
+d2;1
+c,6
+c,19
+n6ef54605 128,70;1]6AContainer,T>(const Container&
+ne51749db 134,42;1qCount<InputIterator,T,Size>(InputIterator,InputIterator,const T&,Size&)
+d2,5;1
+d1;1
+n6642d6b5 142,42;1}7GContainer,T,Size>(const Container&
+n2fe55276 156,10;1qLess<T>::operator()(const T&,const T&) const
+n72fe428c 166,10;1)1eGreater
+n71b382f5 174,41;1qSort<RandomAccessIterator>(RandomAccessIterator,RandomAccessIterator)
+d2;1
+ncb0f7af6 181,41;1>Q1,LessThan>(RandomAccessIterator,RandomAccessIterator,LessThan
+d2;1
+n37a2030 188,41;1[61Container>(Container&
+d6;1
+nbd50336b 199,48;1qStableSort<RandomAccessIterator>(RandomAccessIterator,RandomAccessIterator)
+d2;1
+nffa3d81f 206,48;1{W1,LessThan>(RandomAccessIterator,RandomAccessIterator,LessThan
+d2;1
+n45a6e491 213,48;1}C1Container>(Container&
+d6;1
+n5c564cfe 224,78;1qLowerBound<RandomAccessIterator,T>(RandomAccessIterator,RandomAccessIterator,const T&)
+d9;1
+d3;1;4
+nde8771f9 247,78;1)Y1,LessThan>(RandomAccessIterator,RandomAccessIterator,const T&,LessThan
+n9a2f4759 253,91;1<C1Container,T>(const Container&,const T&
+n639b6d20 259,78;1>1AUpperBound<RandomAccessIterator,T>(RandomAccessIterator,RandomAccessIterator
+d7;1
+d3;1;3
+nc826bbff 280,78;1[Y1,LessThan>(RandomAccessIterator,RandomAccessIterator,const T&,LessThan
+nf54d523d 286,91;1]C1Container,T>(const Container&,const T&
+nda30b4db 292,80;1{1ABinaryFind<RandomAccessIterator,T>(RandomAccessIterator,RandomAccessIterator
+d5;1
+c,3
+c,12
+n5dfda01a 304,80;1}Y1,LessThan>(RandomAccessIterator,RandomAccessIterator,const T&,LessThan
+nc0953ea6 310,93;1(C1Container,T>(const Container&,const T&
+na41d339e 317,24;1qDeleteAll<ForwardIterator>(ForwardIterator,ForwardIterator)
+d2;1
+nd2b805aa 326,10;1<B1Container>(const Container&
+n3b81f971 340,55;1QAlgorithmsPrivate::qSortHelper<RandomAccessIterator,T,LessThan>(RandomAccessIterator,RandomAccessIterator,const T&,LessThan)
+d4;1
+d7;1
+d2;1
+d3;1
+d2;1
+d2;1
+d5;1
+d1;1
+c,6
+c,16
+d3;1
+c,6
+c,16
+d3;1;5
+d9;1
+na281cfea 393,41;1[s1>(RandomAccessIterator,RandomAccessIterator,const T&
+nf4fcc429 399,58;1]L1Reverse<RandomAccessIterator>(RandomAccessIterator,RandomAccessIterator
+d3;1
+ndaa6b40a 407,57;1{Mgotate<RandomAccessIterator>(RandomAccessIterator,
+n7e28c7fc 415,56;1}L1Merge<RandomAccessIterator,T,LessThan>(RandomAccessIterator,RandomAccessIterator,RandomAccessIterator,T&,LessThan
+d5;1
+c,3
+c,12
+d3;1
+d1;1
+d8;1;6
+n391a4720 450,62;1(LCStableSortHelper<RandomAccessIterator,T,LessThan>(RandomAccessIterator,RandomAccessIterator,const 
+d3;1
+nb87734c8 463,48;1)y1>(RandomAccessIterator,RandomAccessIterator,const T&
+n560bb048 469,78;1<L1LowerBoundHelper<RandomAccessIterator,T,LessThan>(RandomAccessIterator,RandomAccessIterator,const T&,LessThan
+d6;1
+d3;1;4
+n6455800d 490,78;1>L~UpperBoundHelper
+d6;1
+d3;1;3
+n762ac759 510,80;1[L~BinaryFindHelper
+d4;1
+c,3
+c,12
+n5dfb943 595,27;1]L1t_builtin_ctz(quint32
+nba46a1b3 602,27;1{WAl
+n35b4092 615,27;1}W1tzll(quint64
+n6c390dbe 623,27;1(WCl
+n5923b789 633,19;1)W1tzs(quint16
+n9422f41d 638,19;1<WBl
+n786b7a23 688,52;1qPopulationCount(quint32)
+n903932c7 701,52;1[M18
+n92eee59a 711,52;1]M116
+n464a4278 722,52;1{M164
+n93866975 737,52;1}H1long unsigned int
+nfc412ead 827,39;1qCountLeadingZeroBits(quint8)
+d3,6
+nfd6b8f57 839,39;1)R116
+d3,6
+n816402ec 852,39;1<R164
+d3,6
+n229297ff 867,39;1>M1unsigned long
+000226
+S6a40441d
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qiterator.h 20201027080211 7928b9a5
+n6d34788a 204,16;1QKeyValueIterator<Key,T,Iterator>::operator*() const
+na657ee5b 209;2(Z0pointer::pointer(value_type&&)
+n365bd318 219,11;1)i0operator*() const
+n6da9f41d 224,16;1<q8->
+n7a3a2dd8 229,7;1>ZI
+n43eb6908 233,10;operator==(QKeyValueIterator,QKeyValueIterator)
+ne24f435c 234,10;]8c!
+na8abb99a 236,24;QKeyValueIterator<Key,T,Iterator>::operator++()
+nc2407af2 237,23;}k1int
+n3740afb5 238,24;(h1--(
+n1af18e1d 239,23;)k1int
+n3a3e70de 240,8;<Z0base() const
+00008f
+Scaa1365
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qpair.h 20201027080211 c4e2a678
+ncf9bbc46 104,4;1swap<T1,T2>(QPair<T1,T2>&,QPair<T1,T2>&)
+000178
+S9490c2af
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qhashfunctions.h 20201027080211 c19d2da7
+n8d7fca35 108,31;1qHash(std::nullptr_t,uint)
+n927a5a69 113,26;1(56<T>(const T*
+n1040e1f3 117,29;2)G6&
+ne86620ac 146,10;2<56Range<InputIterator>(InputIterator,InputIterator
+nd234342f 153,10;2>AoCommutativ
+n103b5344 159,41;2[56<T1,T2>(const QPair<T1,T2>&
+n32f7cd07 167,41;2]JHstd::p
+000169
+Se9ce86b
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qcontainertools_impl.h 20201027080211 7ce5b81c
+n551f6cb 74,4;1QtPrivate::reserveIfForwardIterator<Container,InputIterator,IfIsNotForwardIterator<InputIterator>>(Container*,InputIterator,InputIterator)
+nb1c4caf 81,4;1(k9ForwardIterator,IfIsForwardIterator<ForwardIterator>>(Container*,ForwardIterator,Forward
+001407
+S80663320
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qvector.h 20201027080211 42eb473f
+na3e2109b 69,6;QVector<T>::QVector()
+n2da3bde7 73,6;(C9~
+d,17;
+ndd46234d 75;)C1QVector(QVector<T>&&
+n632c76c 76,11;1<CEoperator=
+n725db49d 78,4;>C2swap(QVector<T>
+nabb5a47d 83,8;[C1QVector(QArrayDataPointerRef<T>
+ndc92aeb3 86,10;]C0operator!=(const QVector<T>&) const
+nf07d97a3 88,9;{C7size(
+nacf46df8 90,10;}C8isEmpty
+nee265ece 94,9;(CAcapaci
+n4c86d17 96,10;1)C0squeeze()
+d2;1
+d1;1
+d6;3
+nb915a02c 113,10;<C0isDetached() const
+nfd5219b8 115,10;1>C0setSharable(bool)
+d2;1
+d2;1
+d3;1;4
+d1;1
+nba1cb917 132,10;[C0isSharedWith(const QVector<T>&) const
+n90ecb12 134,8;]C0data()
+n28e53bb0 135,13;{I0 const
+n7bbcba2 136,13;}CBconstD
+n4c384d47 144,10;(C0append(const QVector<T>&)
+n709448cb 153,10;)C1removeFirst(
+n62b5ba7 155,1;<C8tak
+nb8259136 156,1;>G4La
+n6ff77a3e 166,4;[C1removeAt(int
+n642500da 167,3;1]J1ll(const T&
+d3;1
+na688518e 180,4;1{IAOne
+d3;1
+n552a0e1c 188,3;}C0length() const
+n791e1b18 189,1;(C0takeAt(int)
+naf116d3d 190,4;1)C4move(int,
+d4;1
+d4;1;3
+n91a3399d 210,14;<C1begin(
+n60732cb3 211,20;>J0 const
+ncba8cd8d 212,20;[CDc
+nf3747af4 213,20;]DConstB
+na91ab39b 214,14;{C0end()
+n12eac932 215,20;}H0 const
+n15bc591 216,20;(CBc
+n3446be42 217,20;)DAonstE
+n75d5bcc8 228,16;<C0rbegin()
+nc977f47c 229,16;>D2end
+nf51e47ff 230,22;[D0begin() const
+ne2cf4530 231,22;]D8end
+n3a3677c5 232,22;{C8crbegin
+n66e8d4dc 233,22;}E8end
+n871928bd 235,14;(C0insert(iterator,const T&)
+n95ae5ced 238,14;)C1erase(iterator
+ne776f83d 241,9;<C0count() const
+nd3987dc5 242,8;>C0first()
+n755af255 243,13;[J0 const
+nb7f801a0 244,13;]CCconstF
+n3a676770 245,8;{C0last()
+n169957ec 246,13;}I0 const
+nf0d37a8c 247,13;(CBconstL
+n4750d98e 248,10;)C7startsWith(const T&
+d,42
+c,42
+c,54
+n5fa5e2cc 249,10;<CLend
+d,40
+c,40
+c,52
+n6f732c4 255,4;1>C0swapItemsAt(int,int)
+nb756dbc3 272,10;[C1push_back(const T&
+n1e9ccf09 273,4;]M2T&
+n443d115e 274,4;{H5front
+nca0eb2d4 275,10;}N2const T
+n1f2b7f2a 276,4;(D1op_back(
+ne0e23857 277,4;)G2front
+n5c8a33c1 278,10;1<C0empty() const
+n85d88901 280,8;>C0front()
+n7397bf8f 281,21;[J0 const
+n1b9fd957 282,15;]C0back()
+n30453a1b 283,21;{I0 const
+nfe5200f1 284,4;}C0shrink_to_fit()
+ndf615cc5 288,16;1(C0operator+(const QVector<T>&) const
+nc92296b 290,17;1)L0=(const T&)
+n17718b95 292,17;1<KA<<
+n88a358da 294,17;1>T2QVector<T>
+ned2d888e 296,17;1[K2+=(T&
+nd480e61d 298,17;1]K5<<
+nb611e1f7 306,22;1{C2fromStdVector(const std::vector<T>
+na9120a42 309,20;1}C0toStdVector() const
+n8797d824 315,4;(C0reallocData(const int)
+n1cb163a2 321,4;1)C0isValidIterator(const iterator&) const
+d3,6
+c,6
+c,25
+ne958c5fe 344,4;1<C0defaultConstruct(T*,T*)
+d2;1;5
+d1;1
+n20b73c6f 356,4;1>C6copyConstruct(const T*,const 
+d2;1;4
+d1;1
+ncccff55e 367,4;1[C6destruct(
+d2;1
+d1;1
+n71a39f74 377,6;1]C1QVector(const QVector<T>&
+d2;1;3
+d3;1;5
+d8;1
+n17b40d22 402,4;1{C1detach(
+d2;2
+d2;1;4
+neb9218c9 416,4;1}C1reserve(int
+d2;1
+d2;5
+c,3
+c2,2
+nd4a0dfc2 430,4;1(F6iz
+d2;1
+d2;1
+c,3
+c,24
+d1,33
+d3;1;3
+nde34012b 445,10;1)C1clear(
+d2;1
+nf3ffff06 453,13;1<C0at(int) const
+nb041d7ac 457,13;1>CBoperator[]
+n32a3ad75 461,8;1[R0
+nd80784f6 465,10;1]C1insert(int,const T&
+n9c152041 469,10;1{ND
+n26e6ca5c 473,10;1}N2T&
+nb11e949c 477,10;1(C1remove(int,int
+n3b0f8f11 481,10;1)M1
+n1ce72408 485,10;1<C1prepend(const T&
+n6ecd52f8 488,10;1>K2T&
+ne0070793 492,10;1[C2replace(int,const T
+nf2e48b69 500,11;1]C2operator=(const QVector<T>
+d2;1
+nd5706329 510;1{C1QVector(int
+d3;1;6
+n6b80179a 524;1}N1,const T&
+d3;1;8
+d5;1
+ndedd36fd 545;1(K1std::initializer_list<T>
+d2;1;8
+ne9fea3a9 560,11;1)CQoperator=
+n3dd9644d 573;2<C1QVector(InputIterator,InputIterator
+nc2813eb 581,4;1>C1freeData(Data*
+n521ffe20 593,4;1[C1reallocData(const int,const int,QArrayData::AllocationOptions
+d7;1;73
+d1;1;61
+c,3
+c,26
+d13,9
+d3;1;16
+c,3
+c,39
+c,49
+d2;2;5
+c,3
+c,13
+d2;1
+d3;1
+y3
+h,14;2
+d10;1
+d4;2
+d2;1;3
+d4;1
+y2
+h,14;2
+y7
+h,14;1
+d9;1;3
+d10;1
+d1;1
+d1;3;5
+c,3
+c,38
+c,48
+c,58
+nf0ab78a5 699,4;1]JY(
+d22;1;16
+c,3
+c,39
+c,49
+d2;2;5
+c,3
+c,13
+d2;1
+d3;1
+y3
+h,14;2
+y10
+h,14;1
+d7;1
+d1;3;5
+c,3
+c,38
+c,48
+c,58
+n80e8be13 773,21;1{C0value(int) const
+d2;1
+n4379e7fd 781,21;1}L7,const T&
+d2,6
+n21b56fb5 787,4;1(C0append(const T&)
+d3;1;11
+c,3
+c,18
+d2,33
+d1,8
+d2;1;3
+d6;1;3
+nbd440685 810,4;1)J2T&
+d3;1
+c,3
+c,18
+d1,33
+d1,8
+n284360dc 824,4;1<C1removeLast(
+d5;1
+d3;1
+n7027f6a1 837,28;1>C1insert(iterator,size_type,const T&
+d5;1
+d2;1
+c,3
+c,18
+d2;1;14
+d3;1
+d5;1
+d3;1
+d6;1
+na7056395 872,28;1[S2T&
+d5;1
+c,3
+c,18
+d2;1;14
+d5;1;6
+d2;1
+nc67ddbbd 902,28;1]C1erase(iterator,iterator
+d7;1
+d12;1
+d4;1;13
+d3;1
+d1;1
+d4;2
+nc7619a10 951,4;1{C0operator==(const QVector<T>&) const
+d2;1
+d2;1
+n4c9c597d 964,11;1}C0fill(const T&,int)
+d3,7
+d1;1
+d3;1
+nae83fd28 978,11;1(C1operator+=(const QVector&
+d2;1;3
+d5;1
+c,3
+c,18
+d1,33
+d1,8
+d3;1
+d4;1
+d1;1;3
+nc40ad2f3 1007,3;1)C0indexOf(const T&,int) const
+d2;1
+d2;1
+d3;1
+d1;1
+nbabef4f9 1022,3;1<CQlastI
+d2;1;2
+d2,4;1
+d2;1
+d3;1
+d1;1
+n44d56c4b 1040,4;1>C7contains(const T&
+nd2dfba15 1048,3;1[EGunt
+nfd5ada2c 1056,30;1]C7mid(int,int
+l4;2
+l1;1
+l2;1
+l2;1
+l2
+nd2a083d3 1082,4;2qHash<T>(const QVector<T>&,uint)
+n666a82af 1089,4;3operator<<T>(const QVector<T>&,const QVector<T>&)
+ne3db644a 1098,10;2(8e>
+nba00cf88 1105,10;2)8e<=
+n11dbefc6 1112,10;2<8f>
+00008f
+S2c534200
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qpoint.h 20201027080211 84033766
+ne4e3aeba 300,10;1QPointF::isNull() const
+d2,6
+c,6
+c,19
+000086
+Sd4391b2d
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qvector.h 20201027080211 42eb473f
+ne8a1efe1 1133,13;QStringView::toUcs4() const
+001aaf
+S12558c32
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qlist.h 20201027080211 a388fbd2
+ne34209ac 102,10;QListData::dispose()
+n6fd84538 115,9;(B0size() const
+n47f14de2 116,10;)B8isEmpty
+n7dbe63eb 117,12;<B7at(int
+n93272b79 118,12;>B7begin(
+n561fd10 119,12;[B8end
+n7cf968c 151,19;1]50<T>::Node::t()
+d1,29
+c,29
+c,52
+n7d6f74e8 160,6;{A3QLis
+n13cad160 164,6;1}G1QList<T>&&
+nfddafc5d 166,12;1(ACoperator=
+nc08db2dd 168,10;)A2swap(QList<T>
+n312b70ce 169,6;1<A1QList(std::initializer_list<T>
+n8631dba6 174,10;>A0operator!=(const QList<T>&) const
+n4bae4b49 176,9;[A7size(
+ne38a5bd 178,10;]A0detach()
+d,19;
+n4c5d238c 180,10;1{G2Shared
+d3;1
+c,3
+c,22
+n43736442 187,10;}A0isDetached() const
+n1f1b2ce9 189,10;1(A0setSharable(bool)
+d2;1
+d2;1
+d2;1
+na45e497e 199,10;)A0isSharedWith(const QList<T>&) const
+n47d2b01e 201,10;<C7Empty(
+nb24d5545 225,4;>A0swap(int,int)
+n1e8b0a33 244,6;[A1iterator::iterator(
+n336380c0 245,6;]T1Node*
+neb2277ff 249,6;{T1const iterator&
+na9393404 250,15;1}KHoperator=
+nc55a7100 253,8;(S0*() const
+n17a2a381 254,8;)S8->
+n959a055a 255,8;<S7[](difference_type
+n619c85bb 256,10;>S7==(const iterator&
+n229d70d 257,10;[SO!
+nc7c2717f 258,10;]SN<
+n151393dd 259,10;{TN=
+ne7ed2c1a 260,10;}SN>
+n9e2cff40 261,10;(TN=
+n5a5aaedf 263,10;1)SG==(const const_
+ndcd903aa 265,10;1<SU!
+ne78db917 267,10;1>ST<
+n75f8c01 269,10;1[TT=
+n1165a466 271,10;1]ST>
+n189a26cc 273,10;1{TT=
+n3e947a2b 276,15;}S0++()
+nfbca7a31 277,14;(V1int
+n86ef5033 278,15;)S1--(
+nc2c500d 279,14;<V1int
+n8686912d 280,15;>S1+=(difference_type
+n3502b923 281,15;[SI-
+nc2326921 282,14;]S0+(difference_type) const
+na9181080 283,14;{SN-
+na9d3989a 284,20;operator+(difference_type,iterator)
+nbbfa1760 285,9;QList<T>::iterator::operator-(iterator) const
+n6e9e9766 299,6;)A0const_iterator::const_iterator()
+n38ea3303 300,6;<f1Node*
+n5c7846c6 304,6;>f1const const_iterator&
+n4e4e0aad 305,21;1[QNoperator=
+n55494e33 311,6;]QAconst_iterator(const 
+nf854c84a 313,13;{Q0operator*() const
+n3b8400ea 314,13;}Y8->
+ncb0865c2 315,13;(Y7[](difference_type
+nda0e519b 316,10;)Y7==(const const_iterator&
+n52a910e5 317,10;<YU!
+n85606c94 318,10;>YT<
+nc6b60974 319,10;[ZT=
+n3079f3f6 320,10;]YT>
+n7a03415a 321,10;{ZT=
+n95b57bfb 322,21;}Y0++()
+n4fd8ca18 323,20;(b1int
+nd9f8423d 324,21;)Y1--(
+nc57154e6 325,20;<b1int
+n91c6201f 326,21;>Y1+=(difference_type
+nb5436ed9 327,21;[YI-
+ncf112397 328,20;]Y0+(difference_type) const
+nb0f2432f 329,20;{YN-
+na849a807 330,26;operator+(difference_type,const_iterator)
+nf03bb2c6 331,9;QList<T>::const_iterator::operator-(const_iterator) const
+n72fb76ff 338,14;)A0begin()
+nfebf9df6 339,20;<H0 const
+nf3bba882 340,20;>ADc
+n7e6caa3c 341,20;[BConstB
+nc0fe9681 342,14;]A0end()
+nece02c84 343,20;{F0 const
+n37ac2028 344,20;}ABc
+nb3039015 345,20;(BAonstE
+n48a44a14 346,16;)A0rbegin()
+n4b1354d2 347,16;<B2end
+n906db258 348,22;>B0begin() const
+n3369ca68 349,22;[B8end
+nd4bef6e4 350,22;]A8crbegin
+n39b217b 351,22;{C8end
+nb0f5fb3d 359,9;}B8ount
+neb49cf84 360,9;(A8length
+nb85c2869 361,8;)A0first()
+n5ef0b794 362,13;<A0constFirst() const
+n1d6493a4 363,13;>ACf
+n5557ae83 364,2;[A0last()
+nc0a91154 365,7;]G0 const
+nb1fafb5b 366,13;{ABconstL
+n28dd64cf 367,10;}A0removeFirst()
+n2a7d68f2 368,10;(G4La
+n6f3f545a 369,10;)A0startsWith(const T&) const
+d,42
+c,42
+c,54
+na7a2511a 370,10;<ALend
+d,40
+c,40
+c,52
+ndc928e6f 377,10;>A0push_back(const T&)
+nce20c754 378,10;[FAfront
+n1cddbf3a 379,8;]A1front(
+nec714ca6 380,13;{H0 const
+n97aedfca 381,8;}A0back()
+n97efe4d3 382,13;(G0 const
+n436a5fd2 383,10;)A0pop_front()
+nb0bc1f6f 384,10;<E2back
+nbb2208be 385,10;>A0empty() const
+n9873d425 397,14;1[A7operator+(const QList<T>&
+n402e08e0 399,15;1]J0=(const T&)
+n57e6f4e 401,15;1{IA<<
+n1d4d64f8 403,15;1}R2QList<T>
+n61de801b 416,20;1(A8fromStdList(const std::l
+n34379249 419,18;1)A0toStdList() const
+ndcc1637f 434,4;1<A7isValidIterator(const iterator&
+d3,6
+c,6
+c,29
+ne1d5544e 463,21;1>A0node_construct(Node*,const T&)
+d2;;1
+c,3
+c,26
+d1,4;;8
+n82dedcca 479,21;1[F1destruct(Node*
+d2;;1
+c,3
+c,26
+d1,4;
+nf5c47103 486,21;1]F6copy(Node*,Node*,
+d3;1;13
+c,3
+c,26
+d2;1
+y5
+h,14;1
+d1;1
+d5,5;1;13
+d2;1
+y5
+h,14;1
+d1;1
+d5;1
+c,3
+c,14
+nf182c943 521,21;1{FCdestruct(
+d2;1;2
+c,3
+c,26
+d1;
+d1,4;1
+d1;
+nb6f9094f 530,26;1}A1operator=(const QList<T>&
+d2;1
+nd3caafd1 539,32;1(A2insert(iterator,const T
+d6;1;3
+y6
+h,14;1
+n3877140e 558,32;1)A1erase(iterator
+d3;1
+nc5981a3e 570,13;1<A0at(int) const
+nbb1e21f4 574,13;1>ABoperator[]
+n4065298f 578,8;1[P0
+nc78c4590 582,10;1]A5removeAt
+d5;2
+c,3
+c,8
+nc261871d 597,7;1{A8tak
+nb7428508 602,7;1}E1First(
+n92413d72 605,7;1(E4La
+nace867b9 609,24;1)A1reserve(int
+d2;1
+d1;1;3
+nb9a70519 620,24;1<A1append(const T&
+d2;1;9
+y4
+h,14;1
+d5;1;9
+c,3
+c,26
+y4
+h,14;1
+y9
+h,14;1
+n9677c39f 654,10;1>AEpre
+d2;1;9
+y4
+h,14;1
+d5;1;9
+c,3
+c,26
+y4
+h,14;1
+y9
+h,14;1
+nda63afbf 688,10;1[A9insert(int,
+d5;1
+c,3
+c,8
+d3;1;9
+y4
+h,14;1
+d5;1;9
+c,3
+c,26
+y4
+h,14;1
+y9
+h,14;1
+neb25490f 728,10;1]AEreplace
+nd762de8f 736,10;1{A1swapItemsAt(int,int
+n770ce7d3 745,10;1}A9move
+ne80b2fa3 754,28;1(B0id(int,int) const
+l4;2
+l1;1
+l2;1
+l2;1
+l2
+d3;1
+y8
+h,14;2
+nd016b0ce 785,21;1)AAvalue(
+d2;1
+c,3
+c,8
+n3f8d24f7 794,21;1<J7,const T&
+d2,7
+c,8
+c,13
+n3c8feeb5 800,43;1>A0detach_helper_grow(int,int)
+y7
+h,14;1
+y8
+h,14;1
+d8;1
+nc2ab68a5 830,24;1[N4(
+y6
+h,14;1
+d6;1
+nd547bb62 847,24;1]O1
+n36168ee9 853,20;2{A1QList(const QList<T>&
+d3;1
+y7
+h,14;1
+nd58d32ce 871,20;1}A1~QList(
+d2;1
+n53965e 879;2(A1QList(InputIterator,InputIterator
+n758cb985 887,24;1)A0operator==(const QList<T>&) const
+d2;1
+d2;1
+n6bcad41a 897,10;1<C7_eq_impl(const QList&,QListData::NotArrayCompatibleLayout
+d5,5;1
+d1;1
+nbab6c3b2 910,10;1>jS
+n50d705fd 919,24;1[A0dealloc(QListData::Data*)
+nbe87d66b 928,24;1]A1clear(
+n465cbef8 934,23;1{A1removeAll(const T&
+d3;1
+d10;1
+d1;1;3
+nf7839d27 960,24;1}GAOne
+d3;1
+n22fa9577 971,46;2(A1erase(typename QList<T>::iterator,typename QList<T>::iterator
+d6;2
+d10,20;1
+nc00d231e 995,29;1)A1operator+=(const QList<T>&
+d2;1
+d1;1;3
+d3,7
+y6
+h,14;2
+nf3e23f00 1018,10;1<AHappend
+ndb891a2 1024,23;1>A0indexOf(const T&,int) const
+n98d4b8fd 1032,3;1QtPrivate::indexOf<T,U>(const QList<T>&,const U&,int)
+d4;1
+d2;1
+d3;1
+d1;1
+n734ed91f 1050,23;1QList<T>::lastIndexOf(const T&,int) const
+nfef129b2 1058,3;1QtPrivate::lastIndexOf<T,U>(const QList<T>&,const U&,int)
+d4;1;2
+d2,4;1
+d2;1
+d3;1
+d1;1
+n1217230c 1079,24;1QList<T>::contains(const T&) const
+n4e21a46f 1085,10;1(I7_impl(const T&,QListData::NotArrayCompatibleLayout
+d4,5;1
+d1;1
+nf67f0517 1096,10;1)iS
+n5d6d1270 1104,23;1<C7unt(const T&
+nf109919d 1110,9;1>F7_impl(const T&,QListData::NotArrayCompatibleLayout
+d5,5;1
+d1;1
+n1fc43aa7 1122,9;1[fS
+n8113c1f6 1130,30;1]A7toVector(
+n71e599b8 1136,8;1{A0fromVector(const QVector<T>&)
+nce564c0f 1142,28;1QVector<T>::toList() const
+n21de3f67 1148,10;1(C0fromList(const QList<T>&)
+n807f50d8 1157,4;2qHash<T>(const QList<T>&,uint)
+na0edf16d 1164,4;3operator<<T>(const QList<T>&,const QList<T>&)
+n8531fc46 1173,10;2>8a>
+n4c0f856f 1180,10;2[8a<=
+nd59964c7 1187,10;2]8b>
+00013a
+S1f02a455
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qbytearraylist.h 20201027080211 b0be94df
+n345fde08 76,16;1QListSpecialMethods<QByteArray>::join() const
+nbd1ff77b 78,16;1(c7const QByteArray&
+n9447787f 80,16;1)d7har
+nd5206fe3 83,9;1<X7indexOf(const char*,int
+n22b3cec4 88,5;>X0self()
+nf41aab17 89,10;[d0 const
+0000d8
+Sb817deda
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qregexp.h 20201027080211 c187982e
+ncf80ff47 76,8;QRegExp::operator=(QRegExp&&)
+nbd1b8058 77,4;(92swap(QRegExp
+nd1ed1a43 80,10;)90operator!=(const QRegExp&) const
+000096
+Sbcbde078
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qstringmatcher.h 20201027080211 5caf0844
+n5d1a0bd 74,25;QStringMatcher::caseSensitivity() const
+0008f8
+S7c61ff7d
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qstringlist.h 20201027080211 a058c9be
+n891f9d59 115,6;QStringList::QStringList()
+neaa0e8f3 116,14;(P1const QString&
+n7c269856 117,6;)W2List<QString>
+nae650b17 118,6;<P2QList<QString>&
+na9525ef0 119,6;>P1std::initializer_list<QString>
+n8ac64b63 121,6;1[O1<InputIterator,QtPrivate::IfIsInputIterator<InputIterator>>(InputIterator,InputIterator
+nb1d8bebe 124,12;1]D1operator=(const QList<QString>&
+n733a111f 126,12;1{N2QList<QString>&
+nb162b6d3 135,17;1}L0+(const QStringList&) const
+n4cfb590c 137,18;1(L0<<(const QString&)
+ncbc44037 139,18;1)b2List
+n2241d9a6 141,18;1<V2List<QString>
+ncfa30839 169,18;1QListSpecialMethods<QString>::self()
+ncefce82a 171,23;1[a0 const
+nfce8e3 216,10;1]V0ort(Qt::CaseSensitivity)
+n8113ec4c 221,9;1{U1removeDuplicates(
+n64c51dc5 227,13;1}U0join(const QString&) const
+nf9a09ebc 233,13;1(Z7QStringView
+n44f950c3 238,7;1)a7Latin1String
+n9b45add4 243,13;1<a7Char
+n433893ac 248,17;1>U7filter(QStringView,Qt::CaseSensitivity
+nab6d0ef0 254,17;1[bRconst QString&
+nf2613ac0 261,10;1]1gStringList::contains
+ne2f7f3e7 267,10;1{MRQLatin1String
+n86ea8000 272,10;1}NRStringView
+n5fb53462 277,18;1QListSpecialMethods<QString>::replaceInStrings(QStringView,QStringView,Qt::CaseSensitivity)
+n29e5cd6d 284,18;1)lLconst QString&,const QString&
+n4287a9af 290,18;1<laQStringView
+n37b3571d 296,18;1>lLconst QString&,QStringView
+n43a991a3 303,17;1operator+(const QList<QString>&,const QStringList&)
+ne3c4190c 310,9;1QStringList::indexOf(QStringView,int) const
+n42d85c53 315,9;1{MBLatin1String
+n7655604b 320,9;1}DBlastIndexOf(QStringView
+nf912df37 325,9;1(QBLatin1String
+n35017b05 331,18;1QListSpecialMethods<QString>::replaceInStrings(const QRegExp&,const QString&)
+n22f27892 337,17;1<U0filter(const QRegExp&) const
+na88961bc 342,9;1>17StringList::indexOf(const QRegExp&,int
+n38f5c296 347,9;1[DWlastI
+n3e56f29c 352,9;1]DJindexOf(
+nf4385d46 357,9;1{DQlastI
+ncc0249e3 364,18;1QListSpecialMethods<QString>::replaceInStrings(const QRegularExpression&,const QString&)
+n3ebf7ac4 370,17;1(U0filter(const QRegularExpression&) const
+nd6d15893 375,9;1)17StringList::indexOf(const QRegularExpression&,int
+nd371efd4 380,9;1<DhlastI
+nec499f0b 389,18;1>77View::split(QStringView,Qt::SplitBehavior,Qt::CaseSensitivity
+r7;
+nf2a5ec8d 401,18;1[KjChar
+r7;
+0005ef
+S3ba3541a
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qscopedpointer.h 20201027080211 b492bf88
+n9372239c 52,16;1QScopedPointerDeleter<T>::cleanup(T*)
+n9367e783 67,16;1(ENArray
+nfcf68563 81,16;)E2PodDeleter::cleanup(void
+d,38;
+nb1285d02 88,16;<E2ObjectDeleteLater<T>::cleanup(T
+d,35;
+n3222d467 100,8;1>E4<T,Cleanup>::QScopedPointer
+n4120c478 104,6;1[R1~QScopedPointer(
+na9ebffd 110,8;1]R0operator*() const
+n54d07279 116,2;1{Z8->
+n6094f5f0 121,4;1}Z8!
+n9a918123 132;1(Z8 RestrictedBool
+d2,6
+n92d7e4dd 138,2;1)R8data
+ne930c327 143,2;1<R8get
+n7384404a 148,4;1>R8isNull
+ncb5d8d92 153,4;1[R0reset(T*)
+d2;1
+n9ec1858d 162,2;1]R1take(
+n61eefa0d 169,4;1{R1swap(QScopedPointer<T,Cleanup>&
+n353db86b 184,10;1}0Roperator==<T,Cleanup>(const QScopedPointer<T,Cleanup>&,const 
+nf35ee584 190,10;1(8;!
+neadc3550 196,10;1)81==<T,Cleanup>(const QScopedPointer<T,Cleanup>&,std::nullptr_t
+n53c3147 202,10;1<M1std::nullptr_t,const QScopedPointer<T,Cleanup>&
+na0f24df0 208,10;1>81!=<T,Cleanup>(const QScopedPointer<T,Cleanup>&,std::nullptr_t
+n28cd780e 214,10;1[M1std::nullptr_t,const QScopedPointer<T,Cleanup>&
+ndc1bab1c 220,10;1]0Rswap<T,Cleanup>(QScopedPointer<T,Cleanup>&,
+n77499a8 229,6;QScopedArrayPointer<T,Cleanup>::QScopedArrayPointer()
+n5f974f87 232,8;2}p1<D,if_same_type<D>>(D*
+n7f4afee4 237,8;1(W1operator[](int
+n6cb9d891 242,13;1)l0 const
+nfce91af6 247,4;1<W0swap(QScopedArrayPointer&)
+n4d782e7b 251,14;>W1QScopedArrayPointer(void*
+nac9cda40 266,10;1swap<T,Cleanup>(QScopedArrayPointer<T,Cleanup>&,QScopedArrayPointer<T,Cleanup>&)
+000d21
+Sb29f882c
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qvarlengtharray.h 20201027080211 92809660
+n9b2dde34 64;QVarLengthArray<T,int>::QVarLengthArray()
+n4b194f17 68,6;2(e1const QVarLengthArray<T,Prealloc>&
+n5dda2cd5 74;2)e1std::initializer_list<T>
+nbbb91566 80,6;2<d1<InputIterator,QtPrivate::IfIsInputIterator<InputIterator>>(InputIterator,InputIterator
+n319569e6 87,6;1>O1~QVarLengthArray(
+d1;1
+d2;1
+d3;1
+n7e8092f9 96,34;1[O1operator=(const QVarLengthArray<T,Prealloc>&
+d2;1
+n6250ae2f 105,28;1]Y1std::initializer_list<T>
+n8680acde 113,10;1{O1removeLast(
+d2;1
+n4830d9eb 119,9;}O0size() const
+n70be1cf0 120,9;(O8count
+n4d5cab06 121,9;)O8length
+ne24ae396 122,8;<O0first()
+n71e47864 123,13;>V0 const
+n6d5475bf 124,2;[O0last()
+n219cdd32 125,7;]U0 const
+nc8bd493c 126,10;{O8isEmpty
+n35eb8e47 128,10;}O0clear()
+nb70e073d 131,9;(P0apacity() const
+n861cb7d8 138,8;1)O0operator[](int)
+n6d7033b4 142,13;1<d0 const
+nbce00b55 146,13;>OBat
+n322d6d25 151,10;1[P0ppend(const T&)
+d1;1;10
+d4;1;3
+d7;1;3
+nfecf5c65 171,4;1]V2T&
+d1;1
+d3;1;3
+n32fd6ac8 182,34;1{O2operator<<(const T
+n8337afd2 184,34;1}Z2T&
+n8635cfa6 186,34;1(W2+=(const T
+n11ca6f56 188,34;1)Z2T&
+n3762806a 201,8;<O1data(
+nd7bbb4e0 202,13;>U0 const
+n1c342d26 203,13;[OBconstD
+n5ae28e28 218,14;]O0begin()
+n661e4752 219,20;{V0 const
+n62244971 220,20;}ODc
+n6c241fb8 221,20;(PConstB
+n1adbf290 222,14;)O0end()
+n7ac4375c 223,20;<T0 const
+naaa948fe 224,20;>OBc
+n3a45f4d9 225,20;[PAonstE
+nb8948cb2 226,16;]O0rbegin()
+nadd6e812 227,16;{P2end
+n4846f5c9 228,22;}P0begin() const
+n166847c5 229,22;(P8end
+n4dde9cd9 230,22;)O8crbegin
+n2cde90ad 231,22;<Q8end
+n9fb460df 234,14;>O0insert(const_iterator,const T&)
+n8f184576 236,14;[O1erase(const_iterator
+n369e23b7 239,10;]P0mpty() const
+n86844590 240,10;{O0push_back(const T&)
+n1fd2aa12 241,4;}Y2T&
+nc8db815 242,10;(P1op_back(
+n246b66ec 243,8;)O2front
+n89b239b 244,13;<V0 const
+n21004fd4 245,8;>O0back()
+n9d306a01 246,13;[U0 const
+nf44386c9 247,4;]O0shrink_to_fit()
+n8e2a1244 261,4;1{O0isValidIterator(const const_iterator&) const
+d3,6
+c,6
+c,23
+n4bed114e 276,17;2}O0QVarLengthArray(int)
+d4;1;5
+d8;1
+d2;1
+n8f31ebfc 296,21;1(O5resize
+na4d68796 300,21;1)R6erv
+d1,1;
+n325d7bb6 304,20;1<O0indexOf(const T&,int) const
+d2;1
+d2;1
+d3;1
+d1;1
+n15696565 319,20;1>OQlastI
+d2;1;2
+d2,4;1
+d2;1
+d3;1
+d1;1
+ned3b9760 337,21;1[O7contains(const T&
+d4;1
+d1;1
+ned2c1b2c 349,24;1]O0append(const T*,int)
+d3;1
+d5;1
+d3;2;5
+d2;1
+nbcf4dcc2 371,21;1{O1squeeze(
+n46055101 375,24;1}O1realloc(int,int
+d8;1
+d1;1;7
+d11;1;18
+d3;1
+y5
+h,14;2
+d3;1
+d2;1
+c,3
+c,40
+d10;2
+d2;1
+d4;1
+c,3
+c,40
+d3;2;5
+d2;1
+n56818054 437,21;1(O0value(int) const
+d2;1
+n6cf92c0d 445,21;1)X7,const T&
+d2,6
+ne3993133 451,10;1<O0insert(int,T&&)
+n6ad0fa68 455,10;1>Z2const T
+n7fb680a7 459,10;1[ZD
+n13e5f4a7 463,10;1]O1remove(int,int
+ne6e1a16a 467,10;1{Y1
+n749448e3 471,10;1}O1prepend(T&&
+n1bb973ff 474,10;1(W2const T
+ncd005c72 478,10;1)O9replace(int,
+n60e9347b 486,65;1<O2insert(const_iterator,T&
+d6;1;14
+d5;1;6
+d2;1
+n992aacf3 515,65;1>k2size_type,const T
+d5;1
+d3;1;10
+d4;1
+d3;1
+d6;1
+n2eb41819 544,65;1[O1erase(const_iterator,const_iterator
+d8;1;9
+d4;1
+nd719ac19 568,4;1operator==<T,int,int>(const QVarLengthArray<T,Prealloc1>&,const QVarLengthArray<T,Prealloc2>&)
+d2;1
+n9d3e9a45 579,4;1{8[!
+nb11c25f3 585,4;3}8@<
+nc888c8bf 594,10;2(8@>
+n133d2a3d 601,10;2)8@<=
+n544f2bfb 608,10;2<8[>
+n481cc9c5 615,4;2qHash<T,int>(const QVarLengthArray<T,Prealloc>&,uint)
+0024ba
+S8bab060
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qmetatype.h 20201027080211 7b1ea5f4
+n659d94ec 250,2;1QtPrivate::convertImplicit<From,To>(const From&)
+nd0dcf22 260,8;1(B1AbstractDebugStreamFunction::AbstractDebugStreamFunction(Stream,Destroy
+n7ccebcf7 270;1)B1BuiltInDebugStreamFunction<T>::BuiltInDebugStreamFunction(
+na1a84bfb 272,10;1<g1stream(const AbstractDebugStreamFunction*,QDebug&,const void*
+n6431b419 278,10;1>g2destroy(AbstractDebugStreamFunction
+n7f3af8f2 290,8;1[B1AbstractComparatorFunction::AbstractComparatorFunction(LessThan,Equals,Destroy
+n894518de 301;1]B1BuiltInComparatorFunction<T>::BuiltInComparatorFunction(
+n4a27d1df 303,10;1{f1lessThan(const AbstractComparatorFunction*,const void*,const void*
+nfc684bb1 310,10;1}fxequals
+nc7ab2132 317,10;1(f2destroy(AbstractComparatorFunction
+ne7a3a903 326;1)I1EqualsComparatorFunction<T>::BuiltInEqualsComparatorFunction(
+n5e76a793 328,10;1<l1equals(const AbstractComparatorFunction*,const void*,const void*
+nb07084b1 335,10;1>l2destroy(AbstractComparatorFunction
+n970e7678 344,8;1[B1AbstractConverterFunction::AbstractConverterFunction(Converter
+nd33f3c63 353,8;2]B1ConverterMemberFunction<From,To>::ConverterMemberFunction(To(From::*)() const
+n240a61aa 357,10;1{j1convert(const AbstractConverterFunction*,const void*,void*
+n7abb781d 373,8;2}Y1Ok<From,To>::ConverterMemberFunctionOk(To(From::*)(bool*) const
+n4dec6c73 377,10;1(l1convert(const AbstractConverterFunction*,const void*,void*
+d8;1
+n999dc976 396,8;2)K1Functor<From,To,UnaryFunction>::ConverterFunctor(UnaryFunction
+nd8e6817a 400,10;1<q1convert(const AbstractConverterFunction*,const void*,void*
+n3bc92ebf 593,15;1QMetaType::fromType<T>()
+n14e2806d 596,10;1operator==(const QMetaType&,const QMetaType&)
+n657c21c1 599,10;1]8a!
+n38dec287 605,10;1QMetaType::registerComparators<T>()
+n11be69c0 615,10;1}J5EqualsComparator
+n46c41bb3 625,10;1(B5hasRegisteredComparators
+naab36455 634,10;1)B5registerDebugStreamOperator
+nbc2a12a4 644,10;1<BOhasRegistered
+n115d5705 653,10;1>B3registerConverter<From,To
+n47f701e5 668,10;1[c1To(From::*)() const
+n1cf377c5 681,10;1]o8bool*
+n19d251ae 694,10;1{a1,UnaryFunction>(UnaryFunction
+n3a0fa17a 712,10;1}B1hasRegisteredConverterFunction<From,To>(
+nc9ae6807 734,10;(B0isExtended(const ExtensionFlag) const
+n17357115 791;1QtPrivate::ConverterMemberFunction<From,To>::~ConverterMemberFunction()
+n9b8caa7 796;1<Y2Ok<From,To>::~ConverterMemberFunctionOk
+na60a0e4a 801;1>K2Functor<From,To,UnaryFunction>::~ConverterFunctor
+n3a4cba8d 816,10;1QtMetaTypePrivate::QMetaTypeFunctionHelper<T,bool>::Destruct(void*)
+nbfdf88b3 822,11;1]q6Construct(void*,const 
+d2;1
+nfcc21e83 829,10;1{qDSave(QDataStream&
+n59612156 834,10;1}q6Load(QDataStream&,
+nf0ac3221 843,10;(j6false>::Destruct(
+n1022c897 844,11;)r6Construct(void*,const 
+nb19d0034 846,10;<rDSave(QDataStream&
+n9820f6f5 847,10;>r6Load(QDataStream&,
+n73949dd7 857;6[J1VariantData::VariantData(const int,const void*,const uint
+n816bbfb6 865;1]o1VariantData&
+n766d5a9b 878,10;1{J1IteratorOwnerCommon<const_iterator>::assign(void**,const_iterator
+n9ae49a63 882,10;1}(1void*const*
+n5932e260 887,10;1(v1dvance(void**,int
+n2af985b6 893,10;1)u1destroy(void**
+n4f618623 898,10;1<u2equal(void*const*,void*const
+n4a033536 907,16;1>WC<const_iterator>::getData(
+n80f24d2f 912,16;1[w1const_iterator
+nc70e5372 928,16;1]X1std::vector<bool>::const_iterator>::getData(void*const*
+d2,6
+n19ce8e0e 934,16;1{/1const std::vector<bool>::const_iterator&
+d2,6
+nb9158d67 950,10;1}X1const value_type*>::assign(void**,const value_type_OR_Dummy*
+n60df9981 954,10;1(%2void*const
+n24f15696 959,10;1)s1dvance(void**,int
+n7e7ca41 966,10;1<r1destroy(void**
+n51fd0920 970,16;1>r2getData(void*const
+n16dbb7d8 975,16;1[z2const value_type_OR_Dummy
+ne964876 980,10;1]r2equal(void*const*,void*const
+n8acd4fe4 1013,10;1{J2ContainerCapabilitiesImpl<Container,decltype(std::declval<Container>().push_back(std::declval<typename Container::value_type>()))>::appendImpl(const void*,const void
+n599dc0c1 1031,10;1}tcQtPrivate::ContainerCapabilitiesMetaProgrammingHelper::void_t<decltype(std::declval<Container>().insert(std::declval<typename Container::value_type>())),decltype(std::declval<typename Container::value_type>()==std::declval<typename Container::value_type>())>
+n1438c782 1051,9;(S2API<T>::size(const T
+n85282372 1056,10;)W2QList<T>>::size(const QList<T>
+nb0372d75 1060,10;<X5Vector<T>>::size(const QVector
+ne6c86621 1064,10;>WAstd::vector<T>>::size(const std::v
+nc792e835 1068,10;[b5list<T>>::size(const std::list
+n98daf1b9 1101,18;]J1QSequentialIterableImpl::iteratorCapabilities(
+ndf307e0a 1102,4;{i2revision
+n22c9622f 1103,4;}i2containerCapabilities
+n99e63008 1122,9;1(i1sizeImpl<T>(const void*
+n5620bce0 1126,16;1)i1atImpl<T>(const void*,int
+n3b6777b1 1134,10;1<i1moveToBeginImpl<T>(const void*,void**
+na606f13d 1138,10;1>oREnd
+ncd2fa106 1142,10;1[o1Impl<Container>(const void*,void**,Position
+d2;1;3
+nd161fa79 1151,17;1]i1getImpl<T>(void*const*,int,uint
+n536118bc 1155,16;15{i1QSequentialIterableImpl<T>(const T*
+ne3a42699 1173;15}%1(
+nd3288ae9 1191,10;1(i2moveToBegin
+d1;1;3
+nb28dfc88 1197,10;1)o2End
+d1;1;3
+n98d11f0 1203,10;<i0equal(const QSequentialIterableImpl&) const
+n9f9df97 1204,30;1>i0advance(int)
+n42007eb2 1210,10;1[j1ppend(const void*
+d1;1
+n3824401a 1215,17;]i0getCurrent() const
+n4ed92249 1217,11;1{i7at(int
+n378e1657 1220,3;}i7size(
+nd4b1c0ee 1222,10;(i0destroyIter()
+nbd2126e9 1224,4;1)i1copy(const QSequentialIterableImpl&
+ne7cf57a4 1235,23;1<c0ConvertFunctor<From>::operator()(const From&) const
+n9d71c9ad 1246,31;1>J0AssociativeContainerAccessor<T,bool>::getKey(const typename T::const_iterator&)
+n62f3edb0 1251,34;1[yZValue
+nb76f8672 1263,31;1]JZStlStyleAssociativeContainerAccessor<T,true>::getKey
+n46e03b7b 1268,34;1{&ZValue
+n6b0bdf4e 1309,9;1}J1QAssociativeIterableImpl::sizeImpl<T>(const void*
+n343e6ead 1314,10;1(j2findImpl<T>(const void*,const void*,void*
+n7c762bcb 1321,10;1)j1advanceImpl<T>(void**,int
+nf5cc90c9 1326,10;1<j1beginImpl<T>(const void*,void**
+na8610c0b 1330,10;1>jRend
+nf420e8f9 1334,17;1[j1getKeyImpl<T>(void*const*,int,uint
+n2537e3ad 1338,17;1]mTValue
+na5ab94bc 1342,16;17{j1QAssociativeIterableImpl<T>(const T*
+n6420e3c4 1362;17}'1(
+nc184eaa4 1382,10;(j2begin
+n7f49f9aa 1383,10;)j2end
+n2546517f 1384,10;<k0qual(const QAssociativeIterableImpl&) const
+n34ce1621 1385,31;>j0advance(int)
+n87f660c7 1387,10;[j1destroyIter(
+n5f1e4535 1389,17;]j0getCurrentKey() const
+nce08e180 1390,17;{t8Value
+nccdb718a 1392,10;1}j0find(const VariantData&)
+n72b15e87 1395,3;(j0size() const
+n3a0e37b1 1397,4;1)j0copy(const QAssociativeIterableImpl&)
+na540a91b 1408,24;1<d0ConvertFunctor<From>::operator()(const From&) const
+nd4055a4c 1428,17;1>K0PairVariantInterfaceImpl::getFirstImpl<T>(const void*const*,int,uint)
+n87b0d60 1431,17;1[nZSecond
+na963a396 1435,16;8]k1QPairVariantInterfaceImpl<T>(const T*
+na6921228 1446;8{)1(
+n8c281bb6 1457,17;}k0first() const
+n58bf0c67 1458,17;(k8second
+nf9fdfa7d 1468,25;1)e7ConvertFunctor<QPair<T,U>>::operator()(const QPair<T,U>&
+n77b4d420 1477,25;1<tGstd::pair<T,U>>::operator()(const std::p
+nd7fca4c1 1580,29;QtPrivate::MetaObjectForType<T,Enable>::value()
+nc014dad7 1585,29;[TAvoid
+n82f5e29f 1590,29;]TAT*,typename std::enable_if<IsPointerToTypeDerivedFromQObject<T*>::Value>::type
+n8e1e7e2b 1595,29;{UH,typename std::enable_if<IsGadgetHelper<T>::IsGadgetOrDerivedFrom
+n23c6c6d 1600,29;}vtPointerTo
+n73f147a1 1605,29;(vHQEnumHelper<T>::Value
+nc3570e8c 1657,10;1)B1SequentialContainerConverterHelper<T,bool>::registerConverter(int
+n93ceeeaf 1666,10;1<BWValueTypeIsMetaType
+nda3e2886 1680,10;1>BWAssociativeContainerConverterHelper
+ndaa1a2f9 1689,10;1[MWValueTypeIsMetaType
+n32af7193 1698,10;1]BpKeyAnd
+nb11e4a70 1718,10;1{BWIsMetaTypePair
+n6fff2482 1733,10;1}DPPair<T
+n5f15bbbe 1749,10;(BQMetaTypeSmartPointerHelper<T,
+ndc2c6436 1825,8;1)B0QSmartPointerConvertFunctor<SmartPointer>::operator()(const SmartPointer&) const
+ne9b58062 1839,8;1<d8QWeakPointer<T>>::operator()(const QWeakPointer<T>
+naf87a2c5 1847,3;6qRegisterNormalizedMetaType<T>(const::QByteArray&,T*,typename QtPrivate::MetaTypeDefinedHelper<T,QMetaTypeId2<T>::Defined&&!QMetaTypeId2<T>::IsBuiltIn>::DefinedType)
+d10,18
+d1;1
+d5;1
+d10;1
+n39fe1d9c 1884,3;6[9~MetaType<T>(const char*,T*,typename QtPrivate
+nca981cb3 1901,4;5]H1StreamOperators<T>(const char*,T*
+n1fc2f7ea 1946,9;1QMetaTypeIdQObject<T*,QMetaType::PointerToQObject>::qt_metatype_id()
+d3;1
+neb7ce03f 1970,9;1}KK,QMetaType::IsGadge
+d3;1
+n6ab013cf 1991,9;1(KP*,QMetaType::PointerTo
+d3;1
+na9768fa4 2015,9;1)KJ,QMetaType::IsEnumeration
+d3;1
+n6f3d1666 2036,9;1qRegisterMetaTypeStreamOperators<T>()
+n802fd80 2186,9;1QtPrivate::SharedPointerMetaTypeIdHelper<T,bool>::qt_metatype_id()
+n2b392b10 2301,6;23QMetaType::QMetaType(const ExtensionFlag,const QMetaTypeInterface*,TypedConstructor,TypedDestructor,SaveOperator,LoadOperator,Constructor,Destructor,uint,uint,int,const QMetaObject*)
+d24;1
+na3b15654 2329,6;1]B1~QMetaType(
+d2;1
+neb2f9f00 2335,10;1{B0isValid() const
+n363d1cf7 2340,10;1}D9Registere
+nc27c7413 2345,9;1(C9
+n2b008f13 2350,11;1)B7create(const void*
+nf4d353cc 2356,10;1<BCdestroy(
+n86236070 2362,11;1>BCconstruct(void*,const 
+d2;1
+n6983c6fb 2369,10;1[BCdestruct(
+d2;1
+d2;1
+n75047e9c 2378,9;1]B7sizeOf(
+d2;1
+nbe1d7385 2385,26;1{B8flags
+d2;1
+n1cdd893d 2392,23;1}B8metaObject
+d2;1
+n9689fed1 2411,10;1QtPrivate::IsMetaTypePair<T,true>::registerConverter(int)
+d3;1
+n6de6ab4f 2428,10;1)BWValueTypeIsMetaType
+d3;1
+ne567cd6 2445,10;1<BpAssociative
+d3;1
+00017c
+S2f286291
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qobject_impl.h 20201027080211 8e3e88b9
+nedc255f5 71,16;QtPrivate::ConnectionTypes<ArgList,bool>::types()
+n7e5cc7b 73,16;(RAList<>,true
+n5f24314f 75,16;)WGArgs...
+n334db117 83,10;1<B1QStaticSlotObject<Func,Args,R>::impl(int,QSlotObjectBase*,QObject*,void**,bool*
+l3;1
+l3;1
+l3;2
+l1;1
+l2
+n4e807838 98,8;>h1QStaticSlotObject(Func
+00077b
+S889429b2
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qobject.h 20201027080211 5e050e1
+n387f1b8d 153,10;QObject::isWidgetType() const
+n21d24b3 154,10;(DCndow
+na2dc2877 156,10;)98signalsBlocked
+n6651ef6d 165,3;1<A0tartTimer(std::chrono::milliseconds,Qt::TimerType)
+nfbe49f44 173,7;1>90findChild<T>(const QString&,Qt::FindChildOptions) const
+n16e7101e 180,14;1[Ikren
+n850f2131 193,14;1]WTRegExp
+na9e4ddab 206,14;1{ZTularExpression
+n472a253f 216,23;}97children(
+n26db2bfd 242,35;3(A0onnect<Func1,Func2>(const typename QtPrivate::FunctionPointer<Func1>::Object*,Func1,const typename QtPrivate::FunctionPointer<Func2>::Object*,Func2,Qt::ConnectionType)
+d19;1
+c,3
+c,31
+nef0122d8 274;1)~1Func2
+n8d68efea 283;2<~1const QObject*,Func2,Qt::ConnectionType
+d18;1
+c,3
+c,31
+n8df3cbcb 314;1>~1Func2
+nb538514f 322;2[~1const QObject*,Func2,Qt::ConnectionType
+d8,26
+d10;1
+c,3
+c,31
+nca06d12a 355,10;2]90disconnect(const char*,const QObject*,const char*) const
+n9e153d03 358,10;1{QR
+nda536bc9 367,16;2}J0<Func1,Func2>(const typename QtPrivate::FunctionPointer<Func1>::Object*,Func1,const typename QtPrivate::FunctionPointer<Func2>::Object*,Func2)
+na072abbf 384,16;2(P1>(const typename QtPrivate::FunctionPointer<Func1>::Object*,Func1,const QObject*,void**
+n50e88011 425,14;)90parent() const
+n419317f2 427,10;1<97inherits(const char*
+na2e58589 481,29;2>97connect(const QObject*,const char*,const char*,Qt::ConnectionType
+n3459fd58 485,23;1qt_getQtMetaObject()
+n54224d60 519,7;1qobject_cast<T>(QObject*)
+nb568b6b 528,7;1{G9const 
+nb8e698a1 537,32;1}81interface_iid<T>(
+n41726ec1 576;4QSignalBlocker::QSignalBlocker(QObject*)
+d2,10
+c,10
+c,13
+nd00d74d9 582;4)c1&
+nb770eaaf 588;4<W2SignalBlocker&
+n179cc710 596,15;1>GIoperator=
+d2;3
+d3;1
+c,3
+c,20
+c,34
+nca6ddc50 612;1[G1~QSignalBlocker(
+d2;1
+c,3
+c,8
+na30fe37f 618,4;1]G2reblock
+d2;
+ndd81732b 624,4;1{G7un
+d2;
+ne5b3c1da 631,14;QtPrivate::deref_for_methodcall(QObject&)
+n3be33ee3 632,14;(d1*
+000250
+Sa9d34d9f
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qcoreevent.h 20201027080211 71ad0cef
+n806eff63 301,10;QEvent::type() const
+n50ba50f5 302,10;(88spontaneous
+nbe91d51b 304,10;)90etAccepted(bool)
+n5c599297 305,10;<80isAccepted() const
+nffd74bf5 307,10;>80accept()
+n417ee2e5 308,10;[82ignore
+n3c0a0cd9 334,4;]82setSpontaneous
+n53a79554 342,3;QTimerEvent::timerId() const
+nf593c0f 354,8;}19ChildEvent::chil
+n38b14fd1 355,4;(D9adde
+nb0bd9521 356,4;)DApolish
+n9fe9adcb 357,4;<DAremov
+n8aa6631b 368,16;>18DynamicPropertyChangeEvent::propertyName
+n6c372271 379,3;[28eferredDeleteEvent::loopLevel
+00008f
+Sb932cda4
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qcoreapplication.h 20201027080211 192f358d
+nf8c91454 116,23;QCoreApplication::instance()
+00026a
+Sd7b66780
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qsize.h 20201027080211 8dfc0cf1
+n6927f249 151,10;1QSize::scale(int,int,Qt::AspectRatioMode)
+nddd92059 154,10;1(DLconst QSize&
+n7be259db 157,11;1)C0d(int,int,Qt::AspectRatioMode) const
+n62d126b1 193,12;1<70operator/=(qreal)
+n9055ee7d 200,16;1>06operator/(const QSize&,
+n2850a102 302,10;1QSizeF::isNull() const
+d1,7
+c,7
+c,20
+na3fac799 326,10;1]80scale(qreal,qreal,Qt::AspectRatioMode)
+na3497317 329,10;1{ELconst QSizeF&
+nc5cfa299 332,12;1}D0d(qreal,qreal,Qt::AspectRatioMode) const
+n1ba48b3 368,13;1(80operator/=(qreal)
+n916362d6 375,17;1)06operator/(const QSizeF&,
+00013d
+S5b840eb7
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qcursor.h 20201027080211 d85d138e
+ne2415218 89;QCursor::QCursor(QCursor&&)
+nba2d461f 90,14;1(9Boperator=
+nf59b725f 93,4;)92swap(QCursor
+n218108bc 120,16;<A2etPos(const QPoint
+nb66f5cad 121,16;>GEQScreen*,
+nd7700884 130,10;operator!=(const QCursor&,const QCursor&)
+001ad4
+Sb98a6227
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qmap.h 20201027080211 25b566c9
+n741d7e95 66,28;1qMapLessThanKey<Key>(const Key&,const Key&)
+n242eb8a1 71,28;1(G1Ptr>(const Ptr*,const Ptr*
+ndf4380de 89,13;QMapNodeBase::nextNode()
+n9d65a3b2 91,13;<E6previous
+n63d33c4d 93,5;>E0color() const
+ne1fd5914 94,4;[E0setColor(Color)
+d,21;;
+n1633290e 95,13;]E0parent() const
+nfd62c4cf 96,4;{E0setParent(QMapNodeBase*)
+n4092b4b4 100;}E1callDestructorIfNecessary<T>(T&
+ne22c4874 103;(k0
+ne7474d97 112,15;)80<Key,T>::leftNode() const
+n5057b027 113,15;<HDrigh
+n9f8eab98 115,20;>HDnex
+nd61d1f43 116,20;[HCprevious
+n8239415b 117,15;]H0nextNode()
+n8a68aec0 118,15;{H6previous
+nd6c86afc 122,4;1}H3destroySubTre
+n80191f98 133,4;(I1oDestroySubTree(std::false_type
+n8f8bdd1c 134,4;1)d7tru
+d2;1
+d2;1
+n3e39b8a6 147,22;1<H1lowerBound(const Key&
+d4;1
+d1;1;4
+nca8b4d7d 163,22;1>HJupp
+d4;1
+d1;1;4
+nbf659b59 207,5;[40Data<Key,T>::root() const
+ncebe9f6a 211,10;]H8end
+nbccd340e 212,5;{M0
+n89d52eb3 213,10;}H0begin() const
+d,23;
+nb3a63722 214,5;(O0
+d,13;
+na810ec3e 220,5;1)H1createNode(const Key&,const T&,Node*,bool
+y8
+h,14;1
+y4
+h,14;1
+n1c0ef432 239,15;1<N1(
+n4751289e 243,4;1>H2destroy
+d1;1
+n89b56848 253,16;1[40Node<Key,T>::copy(QMapData<Key,T>*) const
+d4;1;4
+d6;1;4
+nb527909a 273,4;1]40Data<Key,T>::deleteNode(QMapNode<Key,T>*)
+n28ada245 281,16;1{H0findNode(const Key&) const
+d2;1
+d2;1
+c,3
+c,7
+nc92b10a8 293,4;1}H0nodeRange(const Key&,QMapNode<Key,T>**,QMapNode<Key,T>**)
+d4;1
+d1;1;3
+d3,5;1;3
+d3,11
+d1;1
+d2,10
+d1;1
+nc71ccaec 325,6;(41<Key,T>::QMap(
+nd27d3aad 326,6;2)I1std::initializer_list<std::pair<Key,T>>
+d3,83;1
+na7ea5f0f 334,6;<D1~QMap(
+d,14;
+n735f829a 337,6;2>D1QMap(QMap<Key,T>&&
+n5e9b68f9 344,18;1[DFoperator=
+n46f5c93f 346,10;]D2swap(QMap<Key,T>
+n48f44dfc 351,10;{D0operator!=(const QMap<Key,T>&) const
+n1b833cfe 353,9;}D7size(
+ne9fb99e2 355,10;(D8isEmpty
+nf913e3ef 357,10;)D0detach()
+d,19;
+n8e5b5c94 358,10;<D0isDetached() const
+n3c67de29 360,10;1>D0setSharable(bool)
+d2;1
+d2;1
+n645d739e 370,10;[D0isSharedWith(const QMap<Key,T>&) const
+nddaedbe3 393,15;]D7firstKey(
+n4003b013 394,15;{DDla
+nc9b64c41 396,8;}D0first()
+n4482b7b5 397,13;(K0 const
+n204956f4 398,8;)D0last()
+n99199516 399,13;<J0 const
+nf37f75e2 415,6;>D0iterator::iterator()
+n3f9ad6ca 416,6;[W1Node*
+n7976074b 418,15;]N0key() const
+n76d1004f 419,8;{N8value
+n48948600 420,8;}N8operator*
+n51c7efb0 421,8;(V8->
+n4ff64adf 422,10;)V7==(const iterator&
+n6acb1551 423,10;<VO!
+ndd5445ea 425,15;1>V0++()
+nbe9845ad 429,14;1[Y1int
+nf6701c52 434,15;1]V1--(
+n4c4c4152 438,14;1{Y1int
+nba1731e9 443,14;1}V0+(int) const
+d1,17;;
+d,24;
+d,42;
+nb20ae3cd 445,14;(VB-
+n8206217e 446,15;)V0+=(int)
+na88145ff 447,15;<V6-
+n934137bb 448,20;operator+(int,iterator)
+nbe250fb5 452,10;1QMap<Key,T>::iterator::operator==(const const_iterator&) const
+n27cc73dc 454,10;1]VU!
+n60b045ed 475,6;{D0const_iterator::const_iterator(const Node*)
+nb915543d 479,6;2}o1iterator&
+n23188854 483,15;(T0key() const
+na2d6081c 484,13;)T8value
+n71c6f53c 485,13;<T8operator*
+na9dcf0bd 486,13;>b8->
+ndf354aff 490,21;1[b0++()
+n2a6363a6 494,20;1]e1int
+n4f189797 499,21;1{b1--(
+n78e2afe4 503,20;1}e1int
+n9f42f683 508,20;1(b0+(int) const
+d1,23;;
+d,30;
+d,48;
+n4466a8e6 510,20;)bB-
+n1b2d673c 511,21;<b0+=(int)
+n589996b1 512,21;>b6-
+nb7c5d813 513,26;operator+(int,const_iterator)
+ne65b16e1 537,8;]0FQMap<Key,T>::key_iterator::key_iterator(
+nc67f8e9 539,9;{R0operator*() const
+n467a1702 540,9;}Z8->
+na86db2c1 541,4;(Z7==(key_iterator
+n93bdcf37 542,4;)ZL!
+naf10d734 544,19;<Z0++()
+n3c17138 545,18;>c1int
+nbd5425e8 546,19;[Z1--(
+nd432e0f1 547,18;]c1int
+na9e2ee5d 548,14;{R0base() const
+n821f603b 555,14;}D0begin()
+nb23d8935 556,20;(K0 const
+n1addb684 557,20;)DCconstB
+n95371eba 558,20;<ECb
+n61ac5c65 559,14;>D0end()
+naa5136a 560,20;[I0 const
+n36c5cff9 561,20;]DAconstE
+nca8022bb 562,20;{EAe
+n567e30eb 563,18;}D8keyBegin
+n300d66b4 564,18;(G8End
+n86fea452 565,24;)G0ValueBegin()
+n2b9c1c1c 566,24;<L2End
+nb9d38093 567,30;>L0Begin() const
+naf74c5c6 568,30;[DKconstK
+neb305a39 569,30;]D8keyValueEnd
+naa1466f0 570,30;{DIconstK
+ne2d73b4d 576,9;}F8unt
+n7b4871f8 598,10;(D8empty
+nbf880b07 608,4;1)D7isValidIterator(const const_iterator&
+d4;1
+n1f0c6bf6 625,6;1<D0QMap(const QMap<Key,T>&)
+d2;1;3
+d4;1
+n1099ed0b 640,29;1>DKoperator=
+d2;1
+n98b9271d 650,21;1[D1clear(
+nbfb293e3 659,23;1]D0value(const Key&,const T&) const
+d3,6
+nda13b33 668,23;1{D8operator[](const Key
+nbf004283 674,19;1}Z0
+d4;1
+n53d74b38 684,20;1(D0count(const Key&) const
+d9;1
+nae1fffdb 701,21;1)FIntains
+n6782e60f 707,46;1<D0insert(const Key&,const T&)
+d7;1
+d2;1;5
+d9;1
+c,3
+c,13
+ncb2e70f3 734,29;1>PK_iterator,
+d2;1
+d5;2;20
+d3;1
+d1;1
+d3;1
+d14;1
+d3;3;11
+d3;1
+d9;1
+d4;1
+d6;1
+d4;1
+n884da236 802,21;1[P2 QMap<Key,T>
+d2;1
+d8;2
+d5;1
+d2;1;5
+d9;1;4
+c,3
+c,13
+d7;3
+d3;1
+c,6
+c,20
+n8db95395 846,52;1]D0constFind(const Key&) const
+d3,21
+ne3ff24a7 853,52;1{DLf
+ne2243067 859,46;1}T0
+d4,15
+n44ae04e3 867,66;1(DCequal_range
+n614f4686 877;1)a0 const
+ncaf75beb 907,23;1<D0remove(const Key&)
+d4;1
+n8d46c5e3 919,21;1>DDtak
+d5;1
+n8ff71d4d 933,49;1[D1erase(iterator
+d2;1
+d5;1
+d5;1
+d2;1
+d8;1
+n93ea4ae9 968,24;1]D1detach_helper(
+d3;1
+d4;1
+ndb0aaaa2 982,30;1{D0keys() const
+d5;1
+n3f0e0ec9 995,30;1}I7const T&
+d4;1
+d1;1
+n732ffa31 1008,28;1(G8(const T&,const Key
+d3;1
+d1;1
+n926378c5 1021,28;1)D7values(
+d5;1
+n7cd97938 1034,52;1<D7lowerBound(const Key&
+d2,8
+d1;1
+nf487bb2f 1043,46;1>Z0
+d3,8
+d1;1
+n1d5480e7 1054;1[D0upperBound(const Key&) const
+d2,8
+d1;1
+n4cb575d2 1063,46;1]Z0
+d3,8
+d1;1
+n4ccaa5c4 1073,24;1{D0operator==(const QMap<Key,T>&) const
+d2;1
+d2;1
+d6;1
+d1;1
+c,3
+c,32
+c,70
+ne451e35c 1093,20;1}D0QMap(const std::map<Key,T>&)
+d4;1
+n2ea3165f 1104,35;1(D0toStdMap() const
+d4;1
+nf567379a 1119;QMultiMap<Key,T>::QMultiMap()
+ne0418c73 1120,6;1<S1std::initializer_list<std::pair<Key,T>>
+d2,83;1
+nf4ca7fe0 1125;>S1const QMap<Key,T>&
+nec6dddb9 1126;[S2QMap<Key,T>&
+nc831c7b4 1127,4;]I2swap(QMultiMap<Key,T>
+n377a9b8e 1132,35;1{I2replace(const Key&,const T
+n1caf8932 1141,16;1}I2operator+=(const QMultiMap
+n66e8d58e 1143,15;1(R0(const QMultiMap&) const
+n6c7ab2ac 1164,29;1)I0find(const Key&,const T&)
+d3;1
+c,6
+c,14
+d1;1
+n93ecdafe 1174,35;1<h0 const
+d3;1
+c,6
+c,14
+d1;1
+n88d10cf2 1184,35;1>IUconstF
+nc906dd1e 1192,30;1[I7uniqueKeys(
+d5;1
+d5;1
+d2,1
+n8ae6e862 1212,28;1]I7values(const Key&
+d4;1
+d5,1
+c,7
+c,29
+n689a60a9 1227,46;2{I0insert(const Key&,const T&)
+d7;1
+d3,2
+n8c2ed853 1245,29;2}PKtypename QMap<Key,T>::const_iterator,
+d3;1
+d5;2;16
+d3;1
+d1;1
+d3;1
+d10;1
+d3;2;5
+d6;1
+d4;1
+d4;1
+n62313d00 1298,34;1(I2unite(const QMultiMap<Key,T>
+d5;1
+nb8ba918f 1312,21;1)I0contains(const Key&,const T&) const
+n4daf201c 1318,20;1<I0remove(const Key&,const T&)
+d5;1
+c,6
+c,14
+d1;1;4
+n282dc9ff 1335,20;1>I0count(const Key&,const T&) const
+d5;1
+c,6
+c,14
+d1;1
+n6c3fd449 1350,10;1[27ap<Key,T>::uniqueKeys(
+ne971514e 1356,8;1]D7values(const Key&
+n33f2b58e 1362,29;1{D0insertMulti(const Key&,const T&)
+ne0576e3d 1368,29;1}UK_iterator,
+n5e6c4903 1374,12;1(D2unite(const QMap<Key,T>
+001dc3
+Se37e31b3
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qhash.h 20201027080211 b64fc585
+n8237b033 101,10;1QHashData::willGrow()
+d2;1;4
+nc128ac3c 111,10;1(B2hasShrunk
+d2;1
+c,3
+c,26
+y3
+h,31;
+n206e7bf5 122,22;1)B2firstNode
+d5;1
+d1;1
+ned51d84f 154,6;1<51Node<Key,T>::QHashNode(const Key&,const T&,uint,QHashNode*
+nda06c01b 156,10;>I0same_key(uint,const Key&) const
+d,52
+c,52
+c,59
+n7cb89e67 173,6;1[E0QHashDummyValue>::QHashNode(const Key&,const QHashDummyValue&,uint,QHashNode*)
+ne6a26da6 175,10;]W0same_key(uint,const Key&) const
+d,52
+c,52
+c,59
+ndb9083cf 234,17;1{50<Key,T>::concrete(QHashData::Node*)
+n90631af1 238,15;}E1alignOfNode(
+nc404497b 241,6;(E2QHash
+nee7757be 242,6;2)K1std::initializer_list<std::pair<Key,T>>
+d4,83;1
+nf2d25378 249;<K1const QHash&
+d,48;
+nc5431596 250;>E1~QHash(
+d,9;
+n60d59c27 253;[E1QHash(QHash&&
+n10f7f68e 254,6;1]E9operator=
+n34e824e1 261;2{E1QHash<InputIterator,QtPrivate::IfAssociativeIteratorHasKeyAndValue<InputIterator>>(InputIterator,InputIterator
+d4,5;1
+nb4577843 270;2}'jFirstAndSecond
+d4,5;1
+nffd03a27 278,4;(E1swap(QHash&
+n7c7b440f 281,4;)E0operator!=(const QHash&) const
+n4411bd43 283,9;<E7size(
+nfdbbaf37 285,10;>E8isEmpty
+n70cc7035 287,9;[EAcapaci
+n96d9fd7a 289,10;]E0squeeze()
+ne458af01 291,10;{E2detach
+d,19;
+n8aa8fa12 292,10;}E0isDetached() const
+n42e9bc4d 294,10;(E0setSharable(bool)
+d,36;
+d,58;
+n82ed69d7 296,4;)E0isSharedWith(const QHash&) const
+n2126de58 340,6;<F0terator::iterator()
+naed89335 341,14;>X1void*
+n138560ca 343,15;[O0key() const
+n5acde610 344,8;]O8value
+n87e3f9c0 345,8;{O8operator*
+nc077e666 346,8;}W8->
+nba08493 347,10;(W7==(const iterator&
+n2e9ddb1d 348,10;)WO!
+nde2d9450 350,15;1<W0++()
+n349c16e9 354,14;1>Z1int
+n543a1a4b 360,41;1[W1--(
+n67ce019f 365,40;1]Z1int
+n4da83f1 371,40;1{W0+(int) const
+d1,17;;
+d,24;
+d,42;
+n9e1dd25b 373,40;}WB-
+n9974d1ef 374,41;(W0+=(int)
+n8ac4d13 375,41;)W6-
+n326f6b88 376,46;operator+(int,iterator)
+n95a02169 381,10;1QHash<Key,T>::iterator::operator==(const const_iterator&) const
+nc495d00 383,10;1[WU!
+n2feac4bf 409,14;1]E0const_iterator::const_iterator(void*)
+n112aff6d 414,6;2{j1const iterator&
+ndb383f93 418,15;}U0key() const
+naffd0882 419,13;(U8value
+nfbdd7f10 420,13;)U8operator*
+n5b1cfd8a 421,13;<c8->
+nff09a6b5 425,21;1>c0++()
+nbd6b6df8 429,20;1[f1int
+n9604e20 435,47;1]c1--(
+n1ac1200e 440,46;1{f1int
+neb418c6a 446,46;1}c0+(int) const
+d1,23;;
+d,30;
+d,48;
+n37c1d1c7 448,46;(cB-
+n35c539a4 449,47;)c0+=(int)
+ndbab1ff 450,47;<c6-
+n5dec7069 451,52;1operator+(int,const_iterator)
+n6b890c8a 478,8;[0FQHash<Key,T>::key_iterator::key_iterator(
+n8945e6f 480,9;]S0operator*() const
+nad62f890 481,9;{a8->
+n875631d6 482,4;}a7==(key_iterator
+nbc864c20 483,4;(aL!
+n440838a6 485,19;)a0++()
+n9e4a7a00 486,18;<d1int
+n611c3a6d 488,45;1>a1--(
+n6b9e99ea 493,44;[d1int
+ne9f8d85f 495,14;]S0base() const
+nd4113892 502,14;{E0begin()
+ndf5389e5 503,20;}L0 const
+ne4551bea 504,20;(EDc
+ndd21e940 505,20;)FConstB
+n979710b4 506,14;<E0end()
+n3b52444a 507,20;>J0 const
+n74ca3bd2 508,20;[EBc
+na7902ab8 509,20;]FAonstE
+n33c1e254 510,18;{E8keyBegin
+nd0af9668 511,18;}H8End
+n40296f71 512,24;(H0ValueBegin()
+n92067176 513,24;)M2End
+nbdeb01cb 514,30;<M0Begin() const
+n215bac5c 515,30;>EKconstK
+nd645e291 516,30;[E8keyValueEnd
+nf0b149a6 517,30;]EIconstK
+n62d1dd62 521,8;{E0erase(iterator)
+na365f1ca 527,9;}E0count() const
+neb375152 544,10;(E8empty
+n3f781484 562,4;1)E7isValidIterator(const iterator&
+n4a9b4448 564,4;1<aGconst_
+n9f94d113 566,4;1>L7Node(QHashData::Node*
+d3;1
+nd0403047 583,21;1[E0deleteNode(Node*)
+n6ea79094 590,21;1]O62(QHashData::
+nc35af9c5 600,21;1{F2uplicateNode(QHashData::Node*,void
+n7e33fffa 608;1}E2createNode(uint,const Key&,const T&,Node*
+n5a23cbb7 617,24;1(E2freeData(QHashData
+n3d454d60 623,21;1)E1clear(
+n34d0396d 629,24;1<E3detach_helpe
+d3;1
+na8b9af64 638,30;1>E1operator=(const QHash&
+d2;1
+d3;1
+d3;1
+n878d2467 653,23;1[E0value(const Key&) const
+d3;1;3
+c,3
+c,15
+ne2778c00 664,23;1]U8,const T
+d3;1;3
+c,3
+c,15
+n6c3370f9 675,30;1{E7keys(
+d5;1
+n4220cb66 688,30;1}J7const T&
+d4;1
+d1;1
+ne3f5f897 701,28;1(HG
+na177ad 707,28;1)Q8,const Key
+d3;1
+d1;1
+n1d81ef06 720,28;1<E7values(
+d5;1
+n9d20f0f5 733,23;1>E7count(const Key&
+d4;1
+d3,1
+c,7
+c,29
+n911947d4 746,23;1[EIoperator[]
+n757028d8 752,19;1]a0
+d6;1
+d1;1
+nfdfeff27 767,47;2{E2insert(const Key&,const T
+d7;1
+d1;1
+d5;1
+nd274c6a4 786,21;1}R2QHash
+d2;1
+d7;1
+d3;1;5
+d1;1
+d4;1
+ncd8bea27 811,23;1(E2remove(const Key
+d2;1
+d6;1
+d4,12
+c,12
+c,21
+d4,1
+n2408144f 834,21;1)EDtak
+d2;1
+d5;1
+nf2d4fc18 854,50;1<E1erase(const_iterator
+d4;1
+d3;2
+d5;1
+d6;1
+d11;1
+n19f5bd40 892,21;1>E1reserve(int
+n81c427df 899,53;1[E0find(const Key&) const
+n4612c0f2 905,53;1]ELconstF
+n3a40bc5f 911,47;1{E0find(const Key&)
+n2893517b 918,21;1}E0contains(const Key&) const
+nca17b4c4 924,48;1(E7findNode(const Key&,uint
+d4;1;6
+d3;1
+c,6
+c,16
+n3747ea0b 940,48;2)c7*
+d5;1
+c,3
+c,18
+d2;1
+ne5693eb 954,24;1<E7operator==(const QHash&
+d2;1
+d2;1
+d5;3
+d9,1
+d4;1
+d4;1
+nb6132315 988,68;1>E0equal_range(const Key&)
+nb743f426 996,80;1[b0 const
+d5;5
+d5;1
+c,6
+c,21
+n6fe8c394 1023;QMultiHash<Key,T>::QMultiHash()
+n99db730c 1024,6;1{U1std::initializer_list<std::pair<Key,T>>
+d3,83;1
+n685d0ca6 1035;1}T1<InputIterator,QtPrivate::IfAssociativeIteratorHasKeyAndValue<InputIterator>>(InputIterator,InputIterator
+d3,5;1
+nd077974d 1043;1(;jFirstAndSecond
+d3,5;1
+n5f1d025e 1053;)T1(const QHash<Key,T>&
+ndf9b6e98 1054;<U2QHash<Key,T>&
+n9d54cef7 1055,4;>J2swap(QMultiHash
+n9c65f695 1057,36;1[J2replace(const Key&,const T
+nf654891 1064,17;1]J2operator+=(const QMultiHash
+nad0c0c64 1066,16;1{S0(const QMultiHash&) const
+nc0ea4044 1094,30;1}J0find(const Key&,const T&)
+d3;1
+c,6
+c,14
+d1;1
+n60fda23 1104,36;1(i0 const
+d3;1
+c,6
+c,14
+d1;1
+na8e0455c 1114,36;1)JUconstF
+na1dcadd 1122,47;1<J0insert(const Key&,const T&)
+n3581c993 1133,35;1>J2unite(const QMultiHash
+d2;1;4
+d6;1
+n481d8931 1166,21;1[J0contains(const Key&,const T&) const
+n7595a8b7 1172,20;1]J0remove(const Key&,const T&)
+d5;1
+c,6
+c,14
+d1;1;4
+n332867bd 1189,20;1{J0count(const Key&,const T&) const
+d5;1
+c,6
+c,14
+d1;1
+n35cc67a3 1203,30;1}J7uniqueKeys(
+d5;1
+d5;1
+d2,1
+nd5a20a59 1225,50;1QHash<Key,T>::insertMulti(const Key&,const T&)
+n4c81991a 1230,33;1)E2unite(const QHash
+n6b04c43 1235,28;1<E0values(const Key&) const
+nf700b5ff 1241,30;1>E7uniqueKeys(
+n4f701bdd 1248,28;1[17MultiHash<Key,T>::values(const Key&
+d4;1
+d3,1
+c,7
+c,35
+n4b399baa 1268,10;]17HashIterator<Key,T>::item_exists(
+neb9f223 1271,6;2{M0QHashIterator(const QHash<Key,T>&)
+n1fefc1e7 1275,20;1}MLoperator=
+n30347fe 1282,10;1(M1toFront(
+ne5f311b 1287,10;1)O2Back
+necd45e61 1292,10;<M0hasNext() const
+n8be5d44a 1293,10;1>M0next()
+nc903483c 1298,10;[M0peekNext() const
+n91c401cf 1299,13;1]M8value
+nc7a82d52 1304,15;1{M8key
+n34e362fb 1309,10;1}M0findNext(const T&)
+d2;1
+d1;1
+n2b689357 1317,36;(M0hasPrevious() const
+n7c0f0818 1318,36;1)M0previous()
+n26d38c3e 1323,36;1<N0eekPrevious() const
+ndaeacc06 1328,36;1>M0findPrevious(const T&)
+d2;1
+d1;1
+nfb416728 1347,10;QMutableHashIterator<Key,T>::item_exists() const
+n20ae1275 1350,6;1]T0QMutableHashIterator(QHash<Key,T>&)
+n87ba2bdb 1355,27;1{TFoperator=
+n29dff8c9 1362,10;1}T1toFront(
+n3409bd86 1367,10;1(V2Back
+nd7380b02 1372,10;)T0hasNext() const
+nb69428f1 1373,10;1<T0next()
+n8ebf40ff 1378,10;>T0peekNext() const
+ncc167c0b 1379,10;1[T0remove()
+d2;1
+n91704bd7 1386,10;1]T1setValue(const T&
+d2;1
+n39476b10 1391,8;1{T1value(
+n4cf618b8 1396,13;1}a0 const
+nc1f8e584 1401,15;1(T8key
+n38f7adba 1406,10;1)T0findNext(const T&)
+d2;1
+d1;1
+n91523e01 1414,36;<T0hasPrevious() const
+n3ce6bc71 1415,36;1>T0previous()
+naf59a464 1420,36;1[U0eekPrevious() const
+n2b965491 1425,36;1]T0findPrevious(const T&)
+d2;1
+d1;1
+n7cf77c9b 1438,4;2qHash<Key,T>(const QHash<Key,T>&,uint)
+d4,37;1
+n68992de8 1451,10;2}KIMulti
+0007db
+Sdf44f002
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qvariant.h 20201027080211 5266dd72
+nbdc55904 105,16;1QtPrivate::ObjectInvoker<Derived,Argument,ReturnType>::invoke(Argument)
+nd296149a 114,16;1(BsMetaType
+n42a84da1 208;QVariant::QVariant()
+ne3858aa0 276,6;1<J1QVariant&&
+ndb158e0e 278,15;1>ACoperator=
+n8fec40b5 281,10;[A2swap(QVariant
+n493b2510 360,16;]A0data() const
+n8e044997 366,7;1{A8value<T>
+naf5d0fea 370,20;1}A0fromValue<T>(const T&)
+n52012fea 384,4;1(A0canConvert<T>() const
+nea7a0e5f 390,6;)A0PrivateShared::PrivateShared(void*)
+n645da259 396,6;1<H1::Private(
+n2ae20980 400,14;2>R1uint
+n75a3ebda 405;3[R1const Private&
+n24bb82ed 462,10;1]A0operator==(const QVariant&) const
+na539befb 464,10;1{IO!
+n7eba686a 467,23;1}IN<
+n7bf5a85f 469,23;1(JN=
+n3bfda54c 471,23;1)IN>
+n74f44bf1 473,23;1<JN=
+n7277c7fb 523,14;>A0data_ptr()
+nb8bd46bc 524,19;[K0 const
+nf8caf389 530,14;1qVariantFromValue<T>(const T&)
+n4abb0dbe 537,10;1{89SetValue<T>(QVariant&,
+nebddac2 544,14;1QVariant::fromValue(const QVariant&)
+n27fc330 557,10;(A0isValid() const
+nf010c615 560,10;1)A0setValue<T>(const T&)
+d4;1;8
+c,3
+c,18
+c,33
+c,61
+d3,27
+d1;1
+n2021e2b6 577,10;1<I2(const QVariant
+n4e1f345d 589,10;1>A0isDetached() const
+d1,7
+c,7
+c,21
+n324d194f 604,6;1[80ComparisonHelper::QVariantComparisonHelper(const QVariant&)
+nb6f58254 611,10;1operator==(const QVariant&,const QVariantComparisonHelper&)
+n593d0d5 616,10;1{8o!
+nb7c5d813 657,26;}81+(int,const_iterator
+nb7c5d813 715,26;(T0
+nafac9f90 740,7;1QtPrivate::QVariantValueHelper<T>::metaType(const QVariant&)
+d3;1
+d3;1
+n3d27fbf6 751,7;1<ZHobject
+d2,22
+n43e63fea 768,25;1>UHInterface<QSequentialIterable>::invoke
+d3;1
+d3;1
+d4;1
+nba57a20c 788,26;1[fYAssociative
+d3;1
+d3;1
+ne3f0190c 803,18;1]fQVariantList
+d3;2
+c,3
+c,39
+c1,1
+c,110
+d4,70;1
+n74e8658e 821,18;1{mQHash
+d3;1
+c,3
+c,40
+c,152
+d4,71;1
+n7437e736 838,17;1}mQMap
+d3;1
+c,3
+c,41
+c,151
+d3,71;1
+nc38640d4 854,30;1(fQPair<QVariant,QVariant>
+d4;1
+c,3
+c,114
+d4;1
+d5;1
+n7e294233 877,26;1)0Hqvariant_cast<T>
+ne6872d0b 882,24;1<EIQVariant
+d2;1
+000b3d
+Sc2728116
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qshareddata.h 20201027080211 839be2da
+na09d9721 64,6;QSharedData::QSharedData()
+n7f6b2da7 65,6;(P1const QSharedData&
+n679d78b3 78,10;)B1Pointer<T>::detach(
+d,19;
+c,22
+c,25
+nc2611bb8 79,8;<N2operator*
+n9d94ba45 80,13;>Y0 const
+n8e68944 81,8;[V0->()
+nc28279a0 82,13;]Z0 const
+na11356b7 83,6;{V0 T*()
+n1a60ee07 84,6;}W0const T*() const
+nfe07efba 85,8;(N0data()
+nfa739801 86,13;)T0 const
+n5797c36a 87,13;<NBconstD
+n363e1b5a 89,10;>N7operator==(const QSharedDataPointer<T>&
+na1d1eec1 90,10;[Vb!
+n19b47da8 92,6;]N0QSharedDataPointer()
+n2414be1b 93,6;{NK~
+d,28;
+c,31
+c,34
+n765a723d 96,6;}N1QSharedDataPointer(const QSharedDataPointer<T>&
+d,62;
+n25951727 97,28;1(NUoperator=
+d1;1
+d1;1
+d4;1
+c,3
+c,8
+nb61ec143 108,25;1)X1T*
+d1;1
+d1;1
+d4;1
+c,3
+c,8
+n169782de 119;<N1QSharedDataPointer(QSharedDataPointer&&
+nbfe1e47b 120,28;1>N3operator=(QSharedDataPointer<T>
+nc7765b34 127,10;[V0!() const
+nd4aa62cb 129,10;1]N0swap(QSharedDataPointer&)
+nd2a0fe2b 141,26;1operator==<T>(std::nullptr_t,const QSharedDataPointer<T>&)
+n332c4d51 147,26;1}E1const QSharedDataPointer<T>&,std::nullptr_t
+n78ecba12 159,8;QExplicitlySharedDataPointer<T>::operator*() const
+n523c52be 160,8;)f0->()
+ne6908c7e 161,8;<j0 const
+n282c2526 162,8;>X8data
+na0883618 163,13;[XBconstD
+n43e3b88 164,8;]X0take()
+n87d79215 166,10;{X2detach
+d,19;
+c,22
+c,25
+nb37ffe48 168,10;1}X2reset
+d2;1
+c,3
+c,6
+n5c8c1a9f 176,6;(X0operator bool() const
+n79a7c8b7 178,10;)f7==(const QExplicitlySharedDataPointer<T>&
+n9aacd8cc 179,10;<fl!
+n620007cd 180,10;>f7==(const T*
+n30dd8908 181,10;[fH!
+n3b9af80b 183,6;]X0QExplicitlySharedDataPointer()
+n5e8c34a0 184,6;{XU~
+d,38;
+c,41
+c,44
+n473229ef 187,6;}X1QExplicitlySharedDataPointer(const QExplicitlySharedDataPointer<T>&
+d,82;
+n8657c710 190,6;6(z3<X>(const QExplicitlySharedDataPointer<X
+d7;1
+nb2edb7ef 201,38;1)X3operator=(const QExplicitlySharedDataPointer<T
+d1;1
+d1;1
+d4;1
+c,3
+c,8
+nda12f55a 212,35;1<h1T*
+d1;1
+d1;1
+d4;1
+c,3
+c,8
+n74abae22 223,6;>X1QExplicitlySharedDataPointer(QExplicitlySharedDataPointer&&
+n1495ffa9 224,38;1[X3operator=(QExplicitlySharedDataPointer<T>
+n33ab3a61 231,10;]f0!() const
+nbe09054f 233,10;1{X0swap(QExplicitlySharedDataPointer&)
+nf076930d 246,17;2QSharedDataPointer<T>::QSharedDataPointer(T*)
+d2,1;
+nf365d9a4 251,19;1(N1clone(
+nd6fea02b 257,24;1)N2detach_helper
+d4;1
+n7b24d261 267,19;1QExplicitlySharedDataPointer<T>::clone()
+na8384704 273,24;1>X2detach_helper
+d4;1
+n9d61df3b 283,17;2[X1QExplicitlySharedDataPointer(T*
+d2,1;
+nd8755b32 287,26;1operator==<T>(std::nullptr_t,const QExplicitlySharedDataPointer<T>&)
+n8e06a3e4 293,26;1{E1const QExplicitlySharedDataPointer<T>&,std::nullptr_t
+nbca696e4 300,21;1swap<T>(QSharedDataPointer<T>&,QSharedDataPointer<T>&)
+n3c6b10e4 304,21;1(9MExplicitlySharedDataPointer<T>&,QExplicitly
+n1a439c3 308,21;1qHash<T>(const QSharedDataPointer<T>&,uint)
+nc8bfd985 313,21;1<GRExplicitly
+000269
+S2ea182be
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qlocale.h 20201027080211 615d051f
+n85e3abd1 1001,8;QLocale::operator=(QLocale&&)
+nab313a17 1005,4;(92swap(QLocale
+n9d5e3b10 1147,13;1)90toCurrencyString(float,const QString&) const
+n3dada0ea 1149,13;1<k7,int
+n9ed01d 1168,13;>90c()
+n133a59f5 1196,13;1[90toString(long) const
+n6c92e713 1198,13;1]IBu
+n109fffb7 1200,13;1{I7short
+n1f54b95d 1202,13;1}ICu
+n9c2fd735 1204,13;1(I8in
+n528494aa 1206,13;1)IAu
+nf2991382 1208,13;1<IAfloat,char,
+n729f83eb 1211,13;1>B7CurrencyString(short,const QString&
+n1ddd94d2 1213,13;1[QRu
+ncdc92719 1215,13;1]QNin
+n521d83f 1217,13;1{QPu
+0000b0
+S62f8a906
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qguiapplication.h 20201027080211 8b1796bc
+n834ac115 141,16;QGuiApplication::isRightToLeft()
+nae57c58e 142,16;(J3LeftToRigh
+0000ae
+Sb620340b
+src c:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qapplication.h 20201027080211 8f07195a
+na23cff7a 140,20;QApplication::widgetAt(int,int)
+n2bdf2aa4 142,20;(EBtopLevel
+0001f5
+S900de6c2
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qrect.h 20201027080211 9000bbc
+n6e86c2f1 422,10;1QRect::contains(int,int,bool) const
+n78240594 427,10;1(N7
+n67c81be0 432,12;1)70operator|=(const QRect&)
+ncdf73037 438,12;1<FF&
+ne0ec56ef 444,11;1>70intersected(const QRect&) const
+n2a7b29d 449,11;1[7Nuni
+n32d9a332 833,10;1]57F::contains(qreal,qreal
+nbd7cc675 838,13;1{80operator|=(const QRectF&)
+n34e66628 844,13;1}GG&
+n9af87e9f 850,12;1(80intersected(const QRectF&) const
+n6d85492a 855,12;1)8Ouni
+000212
+S29944f5c
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qpaintdevice.h 20201027080211 50f083ce
+nb26789ae 78,3;QPaintDevice::width() const
+ndb5a5817 79,3;(E8height
+n5516a73d 80,3;)E8widthMM
+n22dc2c82 81,3;<EAheight
+n2ce0b278 82,3;>E8logicalDpiX
+n158629eb 83,3;[O8Y
+n32345354 84,3;]E8physicalDpiX
+ncdc7f690 85,3;{P8Y
+n673be31e 86,3;}E8devicePixelRatio
+nf37e334f 87,5;(U8F
+n1215663a 88,3;)E8colorCount
+n12933d04 89,3;<E8depth
+nd6edfa0d 91,17;>G0vicePixelRatioFScale()
+n8505fd93 116,9;1[H0Type() const
+n227ee97c 119,10;1]E9paintingActiv
+000084
+Sb1c06794
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qrgb.h 20201027080211 c27c5fd0
+ne9b49996 96,10;1qUnpremultiply(QRgb)
+d4;1
+d2;1
+0000ee
+Saf2196f6
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qrgba64.h 20201027080211 9688265b
+n2609cea 110,4;QRgba64::setRed(quint16)
+n4c320d41 111,4;(C9Green
+n239335f1 112,4;)C9Blue
+n43de5524 113,4;<C9Alpha
+n1f560d8 184,7;1>91operator=(quint64
+000171
+S555240f9
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qcolor.h 20201027080211 226d78eb
+n51225f3 86,6;QColor::QColor(const char*)
+n7e591e16 96,7;1(81operator=(QColor&&
+ne3196b9 117,10;1)80spec() const
+n47993db8 265;<80CT::CT()
+na21554de 321,6;1>81QColor(QLatin1String
+n9182c202 324,6;1[G1StringView
+n28e88249 328,6;1]F1const QString&
+n8fe7ee09 332,10;1{80isValid() const
+000438
+S64535866
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qpolygon.h 20201027080211 23bf97e2
+nd04846f8 59,6;QPolygon::QPolygon()
+n1374afd7 60,6;(AA~
+n3c907fd9 62,18;)A1QPolygon(const QVector<QPoint>&
+n5fca5ed0 63,12;<J2QVector<QPoint>&
+n1ac910c3 66;>J2const QPolygon
+n975131ea 67;[J2QPolygon&
+n573e315 68,9;]ACoperator=
+n35a8f593 69,9;{K2const QPolygon
+n160569f4 70,4;}AAswap(
+n1ddf054d 102,6;(A1QPolygon(int
+nb0c9335d 120,10;1)A1setPoint(int,const QPoint&
+nfdaa5d43 123,10;1<N1int,int
+neafffb78 126,12;1>A0point(int) const
+n8ffbac24 129,10;1[A0translate(const QPoint&)
+neb977596 132,14;1]J0d(const QPoint&) const
+n69326b72 140,6;{80F::QPolygonF()
+nadd74446 141,6;}BB~
+n20823989 143,18;(B1QPolygonF(const QVector<QPointF>&
+nfca89186 144,12;)L2QVector<QPointF>&
+nad8ec27f 147,6;<L2const QPolygonF
+na1849694 148;>L2QPolygonF&
+nfd5998b2 149,10;[BDoperator=
+n15a9b02 150,10;]L2const QPolygonF
+na671e2a2 151,10;{BBswap(
+nc497fedc 163,4;}B0isClosed() const
+d,26
+c,26
+c,38
+nf9f01cb7 177,6;(B0QPolygonF(int)
+nf5ed6a2c 191,10;1)B1translate(qreal,qreal
+n2f5daf89 194,15;1<K0d(qreal,qreal) const
+000090
+S9ee99d44
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qiodevice.h 20201027080211 9775dd50
+n1bae89e4 136,12;1QIODevice::write(const QByteArray&)
+0006d8
+S58da2fa3
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qdatastream.h 20201027080211 ae3d2d4a
+n15b0aa44 170,12;QDataStream::operator>>(std::nullptr_t&)
+n187ab618 186,12;(L1<<(std::nullptr_t
+nd821aa1 227,6;1QtPrivate::StreamStateSaver::StreamStateSaver(QDataStream*)
+d2;1
+c,3
+c,17
+n804f5a15 232,6;1<T1~StreamStateSaver(
+d2;1
+n61c53c34 246,12;1>B1readArrayBasedContainer<Container>(QDataStream&,Container&
+d8,15;1
+d3;1
+nd48ddee2 268,12;1[FoList
+d7,15;1
+d3;1
+n73636ff3 296,12;1]FjAssociative
+d7,15;1
+d4;1
+n4d941e4d 318,12;1{BBwriteSequentialContainer<Container>(QDataStream&,const 
+r4;
+n98b6156a 328,12;1}GpAssociative
+d9;3
+n71c63d97 368,16;1QDataStream::device() const
+ncd35e669 371,28;1)D8byteOrder
+nfd8805bc 374,9;1<D8version
+n1678fdc1 377,10;1>D0setVersion(int)
+ndd22b1d5 380,18;1[D1operator>>(quint8&
+n411aa819 383,18;1]T216
+nfa2a1737 386,18;1{T232
+n28c2de63 389,18;1}T264
+n4fec2afb 392,18;1(L1<<(quint8
+nc1cef605 395,18;1)T116
+n8db30786 398,18;1<T132
+n8c24c4e5 401,18;1>T164
+ne53fb873 405,18;1operator<<<Enum>(QDataStream&,QFlags<Enum>)
+n12be4ec0 409,18;1]81>><Enum>(QDataStream&,QFlags<Enum>&
+n2b9d12b2 414;1{82<<<T>(QDataStream&,const T
+n7a4b1f4d 419;1}83>><T>(QDataStream&,
+n8d5049a0 423,18;1(R2QList<T>
+n6eb38825 429,18;1)8A<<<T>(QDataStream&,const 
+ncfd14f90 435,18;1<85>><T>(QDataStream&,QVector
+n7fc58a25 441,18;1>8C<<<T>(QDataStream&,const 
+na0741e18 447,18;1[85>><T>(QDataStream&,QSet
+n69bddf62 453,18;1]89<<<T>(QDataStream&,const 
+n81eb3a65 459,18;1{84>><Key,T>(QDataStream&,QHash<Key,
+n48d90891 465,18;1}8E<<<Key,T>(QDataStream&,const 
+naad7de13 471,18;1(89>><Key,T>(QDataStream&,QMap
+n1ef532 477,18;1)8D<<<Key,T>(QDataStream&,const 
+n696cc12b 484,18;1<83>><T1,T2>(QDataStream&,QPair<T1,T2
+n22feaed 491,18;1>8E<<<T1,T2>(QDataStream&,const 
+0001d8
+Sf6761144
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qregion.h 20201027080211 b6cc38d0
+n133a0e2d 72;1QRegion::QRegion(QRegion&&)
+nb2ff7ffe 77,14;1(9Boperator=
+ne7851527 79,10;)92swap(QRegion
+n21f9bdb7 87,14;<90cbegin() const
+n9dc3ba6b 89,14;>A8end
+n5cff3abc 90,22;[98rbegin
+nfa6d26f1 91,22;]9Ec
+n2b8d4a4e 92,22;{98rend
+n9038d59f 93,22;}9Cc
+n290fa2d8 99,10;(90translate(const QPoint&)
+n4cc9f5b1 101,30;)I0d(const QPoint&) const
+nc5f381e5 156,10;<98operator!=(const QRegion
+00024a
+S41a1df8
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qline.h 20201027080211 4084df2f
+nafa32994 149,10;1QLine::translate(const QPoint&)
+n579be95d 155,10;1(H1int,int
+nb0a30bfc 175,10;1)71setP1(const QPoint&
+n1a62ab34 180,10;1<BF2
+nd02da3cb 185,10;1>BEoints(const QPoint&,
+n42917ac3 191,10;1[A1Line(int,int,int,int
+n56c105b5 353,10;1]51F::translate(const QPointF&
+na4492605 359,10;1{I1qreal,qreal
+n564c7b41 379,10;1}86setLength(
+d2;1
+n8436917a 400,10;1(B1P1(const QPointF&
+n8cf1e211 405,10;1)CG2
+nfa693086 410,10;1<CFoints(const QPointF&,
+n733d82e2 416,10;1>B1Line(qreal,qreal,qreal,qreal
+000369
+S292164f3
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qmatrix.h 20201027080211 44b30a54
+nb1c902d9 60,14;QMatrix::QMatrix(Qt::Initialization)
+n17e467d2 67,8;1(91operator=(QMatrix&&
+nf1782e4 70;1)9BQMatrix
+ne32e6347 78,5;<90m11() const
+n88ed0de0 79,5;>B82
+na7aec9b1 80,5;[A821
+ncc6da716 81,5;]B82
+n9c7be848 82,5;{98dx
+na27f4c55 83,5;}A8y
+nd1790658 108,4;(98isInvertible
+n3287f3d4 109,5;)98determinant
+n7bc26912 122,6;6<90QMatrix(bool)
+n40bbb0db 129,6;6>H5qreal,qreal,qreal,qreal,qreal,qreal,
+nfc090e50 146,12;1operator*(const QPoint&,const QMatrix&)
+n50d1627b 148,13;1]MHF
+ndaa29c 150,12;1{HILine
+n62a77151 152,11;1}LH
+n518a5240 154,14;1(HHPolygon
+naf1c8a98 156,15;1)OHF
+nc9e0c3a7 158,13;1<HHRegion
+nba77a0e4 162,10;1QMatrix::isIdentity() const
+d2,6
+c,6
+c,28
+c,50
+c1,2
+c,22
+c,41
+n58602f6e 168,10;1qFuzzyCompare(const QMatrix&,const QMatrix&)
+d2,6
+c,6
+c1,2
+c1,2
+c1,2
+c1,2
+c1,2
+0005a0
+S6e36f048
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qtransform.h 20201027080211 d7f9320a
+nb4791e58 68,14;QTransform::QTransform(Qt::Initialization)
+n4dd16abf 81,11;1(C1operator=(QTransform&&
+n30cdced1 84;2)CEQTransform
+n5993ae26 87;2<N2const QTransform
+nf84d94a1 175,6;10>N1qreal,qreal,qreal,qreal,qreal,qreal,qreal,qreal,qreal,bool
+nc8849e15 187,6;8[N5
+ne79dfb5f 215,36;1]C0inline_type() const
+d2;1
+nbdc419f2 222,10;1{D9sAffin
+n406a8a3d 226,10;1}E8Identity
+ne5d4a764 231,10;1(F8nvertible
+n1327c220 236,10;1)E8Scaling
+n549fe5ef 240,10;1<EBRotat
+n821d0c01 245,10;1>EDTransl
+nca800e4c 250,11;1[C8determinant
+ne30742e 256,11;1]F8
+n941d52e1 261,11;1{C8m11
+n4a0d4865 265,11;1}E82
+na5a69317 269,11;1(E83
+na9123d02 273,11;1)D821
+n77022786 277,11;1<E82
+nce8d3193 281,11;1>E83
+n51f70e9f 285,11;1[D831
+nbdbb9447 289,11;1]E82
+ne86bafef 293,11;1{E83
+n8166640e 297,11;1}C8dx
+nf537d88a 301,11;1(D8y
+nc6ac87e5 311,17;1)C0operator*=(qreal)
+d2;1
+d11;1
+n7986eca0 328,17;1<K8/
+d2;1
+n617b887d 335,17;1>K8+
+d2;1
+n838be0cf 351,17;1[K8-
+d2;1
+nfac42e46 370,10;1qFuzzyCompare(const QTransform&,const QTransform&)
+d2,6
+c,6
+c1,2
+c1,2
+c1,2
+c1,2
+c1,2
+c1,2
+c1,2
+c1,2
+n519f2ea8 396,12;1{0Koperator*(const QPoint
+n4e8dfe1c 398,13;1}MKF
+n197c5a00 400,12;1(HLLine
+nff74eb3f 402,11;1)LK
+n2d76adaf 404,14;1<HKPolygon
+na54c9418 406,15;1>OKF
+nb4e9a48e 408,13;1[HKRegion
+n15322d80 411,16;1]H1Transform&,qreal
+n3871f182 413,16;1{8P/
+nb458e69c 415,16;1}8P+
+n7e657a0d 417,16;1(8P-
+00012b
+Sd6afd60d
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qpixelformat.h 20201027080211 398c8956
+n5c2fc43 387,18;7qPixelFormatYuv(QPixelFormat::YUVLayout,uchar,QPixelFormat::AlphaUsage,QPixelFormat::AlphaPosition,QPixelFormat::AlphaPremultiplied,QPixelFormat::TypeInterpretation,QPixelFormat::ByteOrder)
+0003ad
+S5b9ece5b
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qimage.h 20201027080211 8c10abf5
+n1b4fb78b 155,6;2QImage::QImage(QImage&&)
+nfb8217e7 161,13;1(8Aoperator=
+n5b787f2c 163,10;1)82swap(QImage
+ne4d6c08c 177,12;1<80copy(int,int,int,int) const
+ndedfd00 183,38;1>A0nvertToFormat(Format,Qt::ImageConversionFlags) const&
+nb5066675 185,38;1[u1&
+d2;1;3
+n3bc1cf09 279,12;2]80scaled(int,int,Qt::AspectRatioMode,Qt::TransformationMode) const
+naa8f1a64 295,6;1{80mirrored(bool,bool) const&
+n3958b971 297,8;1}R1&
+nb644e091 299,6;1(81rgbSwapped() const
+n85c37400 301,8;1)K1&
+nb6716218 319,10;1<80loadFromData(const QByteArray&,const char*)
+n176cc6ec 326,18;1>8cf
+n6203ca75 392,14;[81data_ptr(
+n2a6548e1 399,10;]80valid(const QPoint&) const
+n2209ab81 400,9;{8LpixelIndex
+n2a79aded 401,10;}DL
+n967cc7a3 402,10;(80setPixel(const QPoint&,uint)
+n591839cc 403,12;)80pixelColor(const QPoint&) const
+nab4ca706 404,10;<80setPixelColor(const QPoint&,const QColor&)
+0018d0
+Sc2d85f5
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qsharedpointer_impl.h 20201027080211 93fdb23f
+n60096b8b 110,10;1QtSharedPointer::executeDeleter<T,Klass,RetVal>(T*,RetVal(Klass::*)())
+d1,1;
+n2efeb40f 113,10;1(Y1Deleter>(T*,Deleter
+n800efda0 140,6;2)H1ExternalRefCountData::ExternalRefCountData(DestroyerFn
+n32b9fb93 146,6;<y2Qt::Initializatio
+n554e7edb 147;>d1~ExternalRefCountData(
+n899a8bff 149,4;[d2destroy
+ndbfeb071 156,10;]d1checkQObjectShared(...
+nf8c2550f 157,10;{dIset
+nc1e3d3b0 159,10;}d1operator delete(void*
+n28ca533 160,10;(y6,
+n1d6b6ed5 170;)H1CustomDeleter<T,Deleter>::CustomDeleter(T*,Deleter
+n62bae209 171,4;<h1execute(
+n7c6f69cf 186;>X1NormalDeleter>::CustomDeleter(T*,NormalDeleter
+n8ebca569 187,4;[n1execute(
+n6ae06c48 202,16;1]H1ExternalRefCountWithCustomDeleter<T,Deleter>::deleter(ExternalRefCountData*
+n2869dacd 210,10;1{!TsafetyCheckD
+n308588b6 216,17;1}!1create(T*,Deleter,DestroyerFn
+n753f2bd7 244,10;1(c1ontiguousData<T>::deleter(ExternalRefCountData*
+nc7051882 251,10;1)uTsafetyCheckD
+n8cd9f1a3 256,10;<uUno
+n47e7cfa3 258,33;1>u1create(NoCVType**,DestroyerFn
+n94d455d9 301,2;QSharedPointer<T>::data() const
+n7fe08de 302,2;]J8get
+nde4b1117 303,4;{J8isNull
+n3ef57bce 304;}J9operator RestrictedBoo
+d,44
+n9bbf46dc 305,4;(R8!
+nf02dfc60 306,2;)R8*
+n3c07dba4 307,2;<R8->
+n37f0dee0 310;>J0~QSharedPointer()
+n87744fa6 315,14;1[J1QSharedPointer<X,IfCompatible<X>>(X*
+nc9ebcf64 319,6;1]a1Deleter,IfCompatible<X>>(X*,Deleter
+nd321abb6 323;1{Y9Deleter>(std::nullptr_t
+n225e29d8 326;1}X1(const QSharedPointer&
+d1,1;
+n9176ff66 328,15;1(JNoperator=
+n7765f131 334;2)J2QSharedPointer(QSharedPointer&
+neac3d849 340,15;1<JIoperator=
+n3105a6ee 348;2>J3QSharedPointer<X,IfCompatible<X>>(QSharedPointer<X>
+nb043f9dd 356,15;1[Jeoperator=
+n7888de6e 364;1]J2QSharedPointer<X,IfCompatible<X>>(const QSharedPointer<X>
+d1,1;
+nb2feedce 368,21;1{Jjoperator=
+nca6ffb02 376,6;1}JCQSharedPointer<X,IfCompatible<X>>(const QWeak
+nd72aa21a 380,24;1(Jhoperator=
+ndfbc17ee 383,10;1)J2swap(QSharedPointer
+n41f42cce 386,10;<J1reset(
+n1890b5ca 387,10;1>P1T*
+na1a7d7c2 390,10;1[O1<Deleter>(T*,Deleter
+n6ea78235 394,17;1]J0staticCast<X>() const
+n43e8a123 400,17;1{JHdynam
+nc2ef8b9e 406,17;1}JFconst
+n87dab71b 413,17;1(JGobjec
+n232b5b77 419,10;)J0clear()
+n6dde13ff 424,20;1<K1reate<Args>(Args&&...
+n986bb59f 450,8;>J1QSharedPointer(Qt::Initialization
+n5cc659e9 452,4;1[J1deref(
+n13614247 454,10;1]P1Data*
+d2;
+d1;1
+d3;1
+nb6ad279c 465,10;1{J2enableSharedFromThis<X>(const QEnableSharedFromThis<X>
+n5944fbe1 470,10;}d1(...
+n92e6a7ef 473,10;1(J1internalConstruct<X,Deleter>(X*,Deleter
+n72cb609c 490,4;1)R1Swap(QSharedPointer&
+n36d1cfc4 503,4;<J0ref() const
+nc91d3f97 505,10;1>J0internalSet(Data*,T*)
+d2;3
+d4;2
+d2;1
+d5;1;3
+d10;1
+c,3
+c,7
+na0efb253 556,4;QWeakPointer<T>::isNull() const
+d,32
+c,32
+c,44
+c,75
+n37276ff3 557;]H9operator RestrictedBoo
+d,44
+nec7ca601 558,4;{P8!
+nca98b4b1 562,2;}H8data
+nd00a393b 565,6;(H0QWeakPointer()
+n3038c038 566,6;)HE~
+d,22;
+c,25
+c,28
+n3e1679ac 583;1<H1QWeakPointer(const QWeakPointer&
+d1,1;
+n6f1e943d 585;2>U2QWeakPointer&
+n3e26a87f 591,13;1[HGoperator=
+n7e5b8c8d 593,13;1]R2const QWeakPointer
+n33cd52c0 600,4;1{HEswap(
+n6cad2341 606,6;1}H2QWeakPointer(const QSharedPointer<T>
+d1,1;
+n983f4931 608,19;1(HQoperator=
+nf8f55ad5 615,6;1)H3QWeakPointer<X,IfCompatible<X>>(const QWeakPointer<X
+nd19c45d3 619,19;1<Hhoperator=
+nbd6572ef 628,4;1>Q0=<X>(const QWeakPointer<X>&) const
+d1,7
+c,7
+c,15
+nf66c64b6 632,4;1[PY!
+nf0280c5c 636,6;1]H0QWeakPointer<X,IfCompatible<X>>(const QSharedPointer<X>&)
+n808465a1 640,19;1{Hjoperator=
+ndc02871f 647,4;1}Q0=<X>(const QSharedPointer<X>&) const
+n8c5f4706 651,4;1(Pa!
+n9fd90e72 654,10;)H0clear()
+n544efe81 656,23;<H0toStrongRef() const
+n7d4df3e2 658,23;>H8lock
+n1ca03ced 674,19;1[H0assign<X>(X*)
+n5417bc01 679,6;1]H1QWeakPointer<X,IfCompatible<X>>(X*,bool
+d,33
+n520fe076 683,10;1{H1internalSet(Data*,T*
+d2;
+d1;1
+d2;1
+c,3
+c,6
+n4d56fa73 696,8;1}P0Data() const
+d2,6
+c,6
+c,18
+nab75cbf1 708,8;QtPrivate::EnableInternalData::internalData<T>(const QWeakPointer<T>&)
+na2b4dc2d 721;QEnableSharedFromThis<T>::QEnableSharedFromThis(const QEnableSharedFromThis&)
+n826a0193 722,22;<QUoperator=
+n75001b9d 725,23;>Q1sharedFromThis(
+n7c3b7621 726,28;[g0 const
+n976accee 735,10;1]Q7initializeFromSharedPointer<X>(const QSharedPointer<X>&
+n888b3c5c 747,4;1operator==<T,X>(const QSharedPointer<T>&,const QSharedPointer<X>&)
+nefe8f9a7 752,4;1}8v!
+n67473acd 758,4;1(81==<T,X>(const QSharedPointer<T>&,const X*
+n632eb1d5 763,4;1)M1T*,const QSharedPointer<X>&
+ne0179a30 768,4;1<81!=<T,X>(const QSharedPointer<T>&,const X*
+n422ebd76 773,4;1>M1T*,const QSharedPointer<X>&
+n9af4fce7 779,4;1[8C==<T,X>(const QSharedPointer<T>&,const QWeak
+nf4ddfd9c 784,4;1]8t!
+ncc4d433c 790,10;1{81==<T>(const QSharedPointer<T>&,std::nullptr_t
+nd3081a1c 796,10;1}8j!
+n4137dbd5 802,10;1(81==<T>(std::nullptr_t,const QSharedPointer<T>&
+n648c2c1b 808,10;1)8j!
+ndd71c27d 814,10;1<81==<T>(const QWeakPointer<T>&,std::nullptr_t
+n6678724 820,10;1>8h!
+n9a5e6f0d 826,10;1[81==<T>(std::nullptr_t,const QWeakPointer<T>&
+n96d66e6c 832,10;1]8h!
+na5cf27cc 841,59;1{83-<T,X>(const QSharedPointer<T>&,const QSharedPointer<X
+n6c81a05f 846,59;1}e1X*
+nfdc22171 851,59;1(F1T*,const QSharedPointer<X>&
+nd448460a 860,21;1)8Q<<T,X>(const QSharedPointer<T>&
+n581a2bfa 866,21;1<e1X*
+na415a326 872,21;1>F1T*,const QSharedPointer<X>&
+n128b3a5a 882,21;1qHash<T>(const QSharedPointer<T>&,uint)
+n9064cd3 889,32;1QSharedPointer<T>::toWeakRef() const
+n9cd42747 895,10;1swap<T>(QSharedPointer<T>&,QSharedPointer<T>&)
+n45df95b0 899,10;1}9CWeakPointer<T>&,QWeak
+n50070184 905,34;1(0CQtSharedPointer::copyAndSetPointer<X,T>(X*,const QShared
+n938b1316 915,34;1)0PqSharedPointerCast<X,T>(
+n3428ba62 921,34;1<VCWeak
+n9c1ed873 927,34;1>ECDynamicCast<X,T>(const QShared
+d3;1
+n46b7e15d 935,34;1[cCWeak
+n642ad433 941,34;1]ECConstCast<X,T>(const QShared
+nd6ccaefc 947,34;1{aCWeak
+nddb0e0fd 954,15;1}1CWeakPointerCast<X,T>(const QShared
+n1ea8c8c1 961,34;1(1ZSharedPointerObject
+nfa77bb1b 967,34;1)bCWeak
+n356476a2 974;1<1Cobject_cast<X,T>(const QShared
+neca94f8f 980;1>PCWeak
+nd70dce72 989;1qWeakPointerFromVariant<T>(const QVariant&)
+n3bccec6d 995;1]1cShared
+n8799b368 1003,18;1qobject_pointer_cast<X,T>(const std::shared_ptr<T>&)
+ne1c71ff7 1010,18;1}Q2std::shared_ptr<T>&
+d4;1
+nb4429bc8 1029,18;1qSharedPointerObjectCast<X,T>(const std::shared_ptr<T>&)
+nf997b1cb 1035,18;1)U2std::shared_ptr<T>&
+00024b
+Sdd4d09e5
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qpixmap.h 20201027080211 912affba
+n8fc60b53 76,14;1QPixmap::operator=(QPixmap&&)
+n2e8af33a 78,10;1(92swap(QPixmap
+n9eb77974 125,13;2)A0caled(int,int,Qt::AspectRatioMode,Qt::TransformationMode) const
+n10852ebf 144,13;1<90fromImage(QImage&&,Qt::ImageConversionFlags)
+n2d835d49 175,10;>90operator!() const
+na7acd9e0 210,14;[90data_ptr()
+n78794b89 215,13;1]90copy(int,int,int,int) const
+nc19e2aed 220,10;1{90scroll(int,int,int,int,int,int,QRegion*)
+ne1078bd4 225,10;2}91loadFromData(const QByteArray&,const char*,Qt::ImageConversionFlags
+00031b
+Se7eb890d
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qbrush.h 20201027080211 448b9c40
+n58f8a97e 82,13;1QBrush::operator=(QBrush&&)
+nbe5e9f24 84,10;1(82swap(QBrush
+n79a40451 115,10;)80operator!=(const QBrush&) const
+nf35c2a60 131,14;<80data_ptr()
+n4f049c07 134,10;1>81setColor(Qt::GlobalColor
+n882df708 160,20;[90tyle() const
+n2625791d 161,18;]88color
+n8bdad317 164,19;{88matrix
+na5c5b5cb 166,16;}88transform
+n23b414c1 167,10;(88isDetached
+ncd168cb4 388,4;)18Gradient::type
+n5ed8237b 391,6;<B8spread
+n5664b87a 405,10;1>B7operator!=(const QGradient&
+n173dedfa 433,10;1[B0setSpread(Spread)
+n26832226 446,10;QLinearGradient::setStart(qreal,qreal)
+n8c65b35c 450,10;{KDFinalStop
+nbee5ab6 471,10;}1DRadialGradient::setCenter
+n7b34b6f 475,10;(KDFocalPoint
+n2a17b57d 498,10;)1DConicalGradient::setCenter
+0004d9
+S9058c4ad
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qpalette.h 20201027080211 8a600768
+nf903233 70;2QPalette::QPalette(QPalette&&)
+n3548d30f 73,15;1(ACoperator=
+n717a5c50 79,4;1)A2swap(QPalette
+nd97530 106,16;<A0currentColorGroup() const
+nd0de7b5a 107,10;>A0setCurrentColorGroup(ColorGroup)
+n9e2fa551 109,18;1[A0color(ColorGroup,ColorRole) const
+n99ccb385 123,18;]LB
+n1cc7db0a 124,18;{AHbrush
+n44234ba8 125,18;}A7windowText(
+ne2395220 126,18;(A8button
+n9bf192e5 127,18;)A8light
+nfe357c86 128,18;<A8dark
+n4bb36e14 129,18;>A8mid
+ne5b99aa2 130,18;[A8text
+nbfe251c8 131,18;]A8base
+nef4f16b8 132,18;{ABalternateB
+n644751a1 133,18;}ACtoolTip
+nf2773dc5 134,18;(H8Text
+n6150cfd6 135,18;)A8window
+ne61da237 136,18;<A8midlight
+ne8095719 137,18;>A9brightTex
+n5c59fe33 138,18;[BCutton
+naad6ecc4 139,18;]A8shadow
+n4f1d1fd9 140,18;{A8highlight
+n7133381f 141,18;}J9edTex
+nf753d470 142,18;(A8link
+n6570b75c 143,18;)E8Visited
+nc294a6dd 144,18;<A8placeholderText
+n5a7276f6 147,18;>A8foreground
+n95d941d5 149,18;[AEback
+n3247ce03 153,10;]A7operator!=(const QPalette&
+n1517b6c0 162,10;{A7resolve(
+n3e16aa9b 163,10;}I0uint)
+n1cae1ffa 200,10;2(A1setColor(ColorGroup,ColorRole,const QColor&
+n7ff123ab 203,10;1)OJ
+nbf1427de 205,10;1<D2Brush(ColorRole,const QBrush
+000176
+S6f40a9df
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qfont.h 20201027080211 71a365e9
+n3bddd124 184,4;1QFont::swap(QFont&)
+n21cf457e 266,12;1(72operator=(QFont&
+ncc6470bb 300,10;)70resolve() const
+ncfe1ed66 301,10;<F0uint)
+n945a92a5 352,10;1>70bold() const
+nc886a0f 356,10;1[70setBold(bool)
+d1,11
+n52e1ff25 359,10;1]70italic() const
+na941f70f 364,10;1{70setItalic(bool)
+d1,9
+000262
+Sc80ab1fe
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qfontmetrics.h 20201027080211 85592915
+n28622349 69;2QFontMetrics::QFontMetrics<char>(const QFont&,const QPaintDevice*)
+n9a5bfd80 79,19;1(E1operator=(QFontMetrics&&
+nbd1fc342 82,4;1)E2swap(QFontMetrics
+n7a09947a 124,11;2<E0boundingRect(int,int,int,int,int,const QString&,int,int*) const
+nba6ed9eb 141,10;>E7operator!=(const QFontMetrics&
+n87addca1 163;2[C0F::QFontMetricsF<char>(const QFont&,const QPaintDevice*)
+nb994731c 175,20;1]F1operator=(QFontMetricsF&&
+n24feeca7 178,4;{F2swap(QFontMetricsF
+nf4b2dc38 224,10;}F0operator!=(const QFontMetricsF&) const
+0000a4
+S5f34f871
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qfontinfo.h 20201027080211 ec4d6a01
+n2d4de666 59,4;QFontInfo::swap(QFontInfo&)
+n8d1c70ac 69,10;(B0bold() const
+000087
+S390176e
+src c:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qsizepolicy.h 20201027080211 f30b108c
+n40aa8f39 149,31;qHash(QSizePolicy,uint)
+00015a
+Sf7ac3656
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qkeysequence.h 20201027080211 b36aa4ad
+n9d6ab3ab 189,13;QKeySequence::operator=(QKeySequence&&)
+nf7b63ee3 190,4;(E2swap(QKeySequence
+nb40c3d18 193,10;1)E0operator!=(const QKeySequence&) const
+n6f8818a2 196,10;1<MR>
+n574e1d17 198,10;1>MR<=
+n456ac597 200,10;1[MS>
+n40a40aa3 221,14;]E0data_ptr()
+000729
+Sd6e76505
+src c:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qwidget.h 20201027080211 426fcfd1
+n4b9b12c5 222,9;QWidget::internalWinId() const
+n73702c5e 309,14;(98topLevelWidget
+n6e23fe32 416,10;)99isRightToLef
+n1b61c44a 417,10;<B9LeftToRigh
+na04e0f8b 420,10;>90setFocus()
+n31cc1606 689,10;[92focusNextChild
+n6df5c498 690,10;]E7Previous
+n1e09f94f 753,24;1qobject_cast<QWidget*>(QObject*)
+d2;
+c,3
+c,7
+nf290b2cd 758,29;1}D9const QWidget*>(const 
+d2;
+c,3
+c,7
+nc50ed170 765,14;1QWidget::childAt(int,int) const
+nc2745e2e 768,20;1)97windowType(
+n5e9d29ff 770,21;1<F8Flags
+nc0abc76b 773,10;1>98isTopLevel
+n6fa42bfb 776,10;1[B8Window
+nc21be7a4 779,10;1]B8Enabled
+n1f890e30 782,10;1{B8Modal
+naffdc29 786,10;1}B8EnabledToTLW
+n76e0a436 790,9;1(98minimumWidth
+n12664e26 793,9;1)G8Height
+n6616316 796,9;1<A8aximumWidth
+ne2409c17 799,9;1>G8Height
+nf0168e34 802,10;1[90setMinimumSize(const QSize&)
+n18a6c087 805,10;1]DMax
+n3c01d542 808,10;1{CESizeIncrement
+n5b48be3 811,10;1}CEBaseSize
+nb15cfa08 814,17;1(90font() const
+nf5b2174f 817,18;1)D8Metrics
+nc2c26eeb 820,15;1<D8Info
+n76ff5641 823,10;1>90setMouseTracking(bool)
+nd82a3247 826,10;1[90hasMouseTracking() const
+n376cb8ea 829,10;1]98underMouse
+n4b2cd03c 832,10;1{90setTabletTracking(bool)
+n84ad7e94 835,10;1}90hasTabletTracking() const
+n4a98ea55 838,10;1(98updatesEnabled
+n91336143 841,10;1)F0(int,int,int,int)
+n1727d67e 844,10;1<90isVisible() const
+nf7cb37be 847,10;1>B8Hidden
+n56fa0022 850,10;1[90move(int,int)
+nd16934e1 853,10;1]9Aresiz
+n6b8c462 856,10;1{98setGeometry(int,int,
+n947dab32 859,11;1}90rect() const
+n2798c919 862,17;1(98geometry
+nae65e50c 865,11;1)98size
+n1915cc7f 868,9;1<98width
+ncbdc0da2 871,9;1>98height
+na1c78959 874,14;1[99parentWidge
+n4903bb2a 877,10;1]90setSizePolicy(QSizePolicy::Policy,QSizePolicy::Policy)
+ne8179c28 880,10;1{90testAttribute(Qt::WidgetAttribute) const
+d2;1
+00015c
+Sf965a63
+src c:/Qt/5.15.2/msvc2019_64/include/QtGui/qicon.h 20201027080211 fa326eed
+neafac1ea 64;2QIcon::QIcon(QIcon&&)
+nb21265e 71,12;1(79operator=
+nf064f5bd 73,10;1)72swap(QIcon
+nb953d158 79,13;1<70pixmap(int,int,Mode,State) const
+n71dedb6b 81,13;1>IH
+nfa6560f2 91,10;1[8Kaint(QPainter*,int,int,int,int,Qt::Alignme
+nfd0f47aa 138,14;]70data_ptr()
+00019b
+Sedfd2e71
+src c:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qlayoutitem.h 20201027080211 db506d2
+na1ae8c6e 85,13;QLayoutItem::alignment() const
+ndf1677f3 93,6;1(D0QLayoutItem(Qt::Alignment)
+n4dac7d69 99;3QSpacerItem::QSpacerItem(int,int,QSizePolicy::Policy,QSizePolicy::Policy)
+n84a03272 116,11;<D0sizePolicy() const
+n3c2fd905 130,8;QWidgetItem::QWidgetItem(QWidget*)
+nc7e94308 169,10;1[B1V2::invalidateSizeCache(
+000090
+Sd9bb828
+src c:/Qt/5.15.2/msvc2019_64/include/QtWidgets/qgridlayout.h 20201027080211 542705f4
+n86b45df4 102,10;QGridLayout::addWidget(QWidget*)
+00015e
+S9e59c447
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qdatetime.h 20201027080211 7b512e9
+n8a785f1c 310,10;QDateTime::operator=(QDateTime&&)
+n5bf5fc8 313,4;(B2swap(QDateTime
+na0f16af6 357,15;)B0toLocalTime() const
+nb7b53c5a 358,15;<D8UTC
+n3a356604 369,10;>B7operator!=(const QDateTime&
+n973d670a 371,10;[JP<
+n3a8d47a9 372,10;]JO>
+nac14f29 373,10;{KO=
+00018c
+S2afb03f6
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qtextstream.h 20201027080211 50791007
+n5008963e 218,4;QTextStreamManipulator::exec(QTextStream&)
+d,24;;
+n47a0ba8f 227,18;1operator>>(QTextStream&,QTextStreamFunction)
+n3ebd942c 230,18;1)8Y<<
+nb6805c92 233,18;1<Z1Manipulator
+n5acb3275 308,28;1qSetFieldWidth(int)
+n5e0d7c08 314,28;1[41PadChar(QChar
+nb9345a29 320,28;1]41RealNumberPrecision(int
+00104e
+S59e54859
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qset.h 20201027080211 121448f3
+n90cfcdea 58,6;QSet<T>::QSet()
+n3996b53e 59,6;1(E1std::initializer_list<T>
+n49597bb7 62,6;1)D1<InputIterator,QtPrivate::IfIsInputIterator<InputIterator>>(InputIterator,InputIterator
+d3,5;1
+na5c2c64a 72,10;<91swap(QSet<T>&
+n690b860e 74,10;1>90operator==(const QSet<T>&) const
+n416c3083 76,10;1[HN!
+nc44a7dd6 79,9;]97size(
+na8cad544 81,10;{98isEmpty
+n29ae6f6b 83,9;}9Acapaci
+nbf5617db 85,10;(90squeeze()
+n25d19b7e 87,10;)92detach
+n6a903826 88,10;<90isDetached() const
+nba65125f 90,10;>90setSharable(bool)
+n24285033 93,10;[91clear(
+nb50f3d05 95,10;]91remove(const T&
+n180fddb5 97,10;{90contains(const T&) const
+ncbc24463 121,6;}90iterator::iterator()
+n8c29b149 122,6;(S1typename Hash::iterator
+n46334ffd 123,6;)S1const iterator&
+n3c53d7d8 124,15;<JHoperator=
+nd9dc66b8 125,13;>R0*() const
+n3fcdcff3 126,13;[R8->
+n735a5dd4 127,10;]R7==(const iterator&
+n5667025a 128,10;{RO!
+nae4dc2ee 129,10;1}RG==(const const_
+n37a4be87 131,10;1(RU!
+n731fe291 133,15;)R0++()
+n7f5825d1 134,14;<U1int
+n6f5e669a 136,41;>R1--(
+na38d996b 137,40;[U1int
+n2e35c78e 138,40;]R0+(int) const
+n7f4d3ea3 139,40;{RB-
+n326f6b88 140,46;operator+(int,iterator)
+n8aa4ceaf 141,41;QSet<T>::iterator::operator+=(int)
+n8be22f7c 142,41;)R6-
+n87c9139a 164,6;<91const_iterator::const_iterator(
+n78010d38 165,6;>e1typename Hash::const_iterator
+nc658db3 166,6;[e1const const_iterator&
+n6abf8ca7 167,6;1]kA
+n92073225 169,21;{PAoperator=(const const_
+n1628ac3e 170,13;}X0*() const
+nec62f019 171,13;(X8->
+nfa1abd10 172,10;)X7==(const const_iterator&
+n3df4098a 173,10;<XU!
+n558a3e8b 174,21;>X0++()
+n2d630c2 175,20;[a1int
+n6b0e796a 177,47;]X1--(
+n82207e42 178,46;{a1int
+n274a8938 179,46;}X0+(int) const
+n2edff689 180,46;(XB-
+n46f31735 181,52;operator+(int,const_iterator)
+n75f6eb 182,47;QSet<T>::const_iterator::operator+=(int)
+nc628377e 183,47;>X6-
+n27773643 188,14;[91begin(
+n815be0c8 189,20;]G0 const
+n984f7970 190,20;{9Dc
+nce7eb7de 191,20;}AConstB
+n28dbff45 192,14;(90end()
+naa97635e 193,20;)E0 const
+n1d81963e 194,20;<9Bc
+n18106107 195,20;>AAonstE
+nf634b791 201,42;[90rbegin()
+n588fbd0a 202,42;]A2end
+n98c58fa9 203,48;{A0begin() const
+n8edae1d2 204,48;}A8end
+n5e84cd7a 205,48;(98crbegin
+n724ee6a 206,48;)B8end
+n1b1f0b98 209,8;1<90erase(iterator)
+nedb1f783 211,8;1>F9const_
+ned33f6ae 220,9;[90count() const
+n21fcafee 221,14;1]90insert(const T&)
+n30b31019 223,8;{9Afind
+ndbd5c0d7 224,14;}N0 const
+n6fe627f6 225,20;(9JconstF
+na020ef7 241,10;)97empty(
+n8480ed36 243,14;<90operator<<(const T&)
+ne4dc0f9f 244,14;>H2|=(const QSet<T>
+n51767b93 245,14;[Q2T
+nddc95f1 246,14;]H2&=(const QSet<T>
+n79b4058a 247,14;1{Q2T
+d1,15;
+n9de1658b 249,14;}H2+=(const QSet<T>
+nf1b5f37e 250,14;(Q2T
+nfc3b9dd 251,14;)H2-=(const QSet<T>
+nc88e9d0 252,14;<Q2T
+nbff334c2 253,13;1>H0|(const QSet<T>&) const
+nc1cfbeaa 255,13;1[HM&
+n83a90c80 257,13;1]HM+
+nea79f9c9 259,13;1{HM-
+nd388df52 265,8;}97toList(
+nf858ee02 273,20;1(90m2c(iterator)
+neff63c28 276,4;1)90isValidIterator(const iterator&) const
+nea7b26aa 280,4;1<VGconst_
+nb5d245c9 294,4;2qHash<T>(const QSet<T>&,uint)
+n62c69beb 303,21;[04QSet<T>::reserve(
+n7d4ad713 306,25;1]91unite(const QSet<T>&
+d2;1
+r2;
+n1929a6f5 316,25;1{9Gintersect
+d4;1;4
+r9;
+d;1
+nbe1d3bc3 336,21;1}I0s(const QSet<T>&) const
+d3,22
+d1,21
+d5;2;8
+d2;1
+d1;1
+d5;1
+d1;1
+n1ddc04b9 364,25;1(90subtract(const QSet<T>&)
+d2;1;3
+r4;
+na484623d 376,21;1)90contains(const QSet<T>&) const
+d3;1
+d1;1
+n9635fd08 388,28;1<97values(
+d5;1
+n271d6123 406,27;1>18List<T>::toSet
+d4,11;1
+n2f27e9f5 416,7;1QSet<T>::fromList(const QList<T>&)
+nc401763b 422,8;1]16List<T>::fromSet(const QSe
+n2fab963b 440,10;QMutableSetIterator<T>::item_exists() const
+n86de3b2c 443,6;2}O0QMutableSetIterator(QSet<T>&)
+n59558d5b 446,26;1(OAoperator=
+nf2639373 448,10;)O1toFront(
+nf115e80f 449,10;<Q2Back
+n3bf51e16 450,10;>O0hasNext() const
+ne5fbcf6d 451,13;[O0next()
+n2a56354 452,13;]O0peekNext() const
+ne9a6e517 453,10;1{O0remove()
+d1,1;
+n41ad6144 455,13;}O0value() const
+nf8887c4d 456,10;1(O0findNext(const T&)
+d1,1;
+d,28;
+nf2785a25 459,36;)O0hasPrevious() const
+na61e1c15 460,39;<O0previous()
+n20e820e6 461,39;>P0eekPrevious() const
+nc5ae1b4 462,36;1[O0findPrevious(const T&)
+d1,1;
+d,26;
+0007da
+S674eba21
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qcontiguouscache.h 20201027080211 ae83aa93
+n8709aefd 81,16;QContiguousCacheTypedData<T>::freeData(QContiguousCacheTypedData*)
+nc52bdcab 99;(G1<T>::QContiguousCache(const QContiguousCache<T>&
+d,65;
+n31592544 101,6;)L1~QContiguousCache(
+d,26;
+d,39;
+ne4f0007 103,10;<L2detach
+d,19;
+nc1265795 104,10;>L0isDetached() const
+n407ad41c 106,10;[L0setSharable(bool)
+d,36;
+n84d50ade 110,26;1]L1operator=(QContiguousCache<T>&&
+n4d19ce37 112,10;{L2swap(QContiguousCache<T>
+nd0d18e64 114,10;}L0operator!=(const QContiguousCache<T>&) const
+nb06415f4 116,9;(L7capacity(
+nc6fd58ca 117,9;)M8ount
+n214b3251 118,9;<L8size
+n847dd3dc 120,10;>L8isEmpty
+n62c84c30 121,10;[N8Full
+n3d6a637c 122,9;]L8available
+nc51d7ad 135,10;{L7containsIndex(int
+d,43
+c,43
+c,59
+n74859b69 136,9;}L7firstIndex(
+n31a8dd9e 137,9;(LFla
+ncc636e24 139,13;)L8first
+n4a17b088 140,13;<LAla
+n6e0d2c3a 141,8;>L0first()
+n6b1e7bac 142,8;[L4la
+nd1726ab1 149,10;1]L0areIndexesValid() const
+d1,7
+c,7
+c,21
+c,49
+n3101fcaf 152,10;{L0normalizeIndexes()
+n578efb38 162,3;3}L2sizeOfTypedData
+n4c75f1b 167,3;1(L0alignOfTypedData() const
+n5f663018 174,4;1)L0detach_helper()
+d16;1
+d1;1;3
+d6;1
+d3;1
+d4;1
+n71edad0e 210,4;1<L1setCapacity(int
+d3;1
+d9;1;3
+d6;1
+d4;1
+d1;1;3
+d5;1
+d3;1
+nbd86f46f 252,4;1>L1clear(
+d2;1;14
+d1;1
+d4;1
+d3;1
+d12;
+na3d50ae5 280,27;1[L1allocateData(int
+n319088ec 286;1]L5QContiguousCache
+n53e5577d 297,20;1{L1operator=(const QContiguousCache<T>&
+d3;1
+d3;1
+nb85f50d 309,4;1}U0=(const QContiguousCache<T>&) const
+d2;1
+d2;4
+c,3
+c1,2
+c1,2
+c1,2
+d2,22;1
+d1;1
+nddb1d595 325,4;1(L0freeData(Data*)
+d2;1
+d4;1
+d3;1
+nf49b8534 341,4;1)L1append(const T&
+d2;1
+d3;1;5
+d1;1
+d7;1;5
+nf9aab9e5 364,4;1<LEpre
+d2;1
+d3;1;3
+d6;1;3
+d3;1
+d3;1;3
+n99ae3901 388,4;1>L9insert(int,
+d3;1
+d3;1;7
+d1;1;4
+d6,5;1;2
+d2,4;1;4
+d8;1;3
+n53f84ce1 419,13;1[L0at(int) const
+nccecb9e6 422,13;1]LBoperator[]
+n882da545 426,8;1{a0
+d3;1
+n3184624b 435,10;1}L1removeFirst(
+d5;1
+n93821f23 447,10;1(R4La
+d5;1
+n1770949f 457,7;1)L4takeFir
+n7a126239 461,7;1<P4La
+000bf8
+S5471a5e7
+src c:/Qt/5.15.2/msvc2019_64/include/QtCore/qdebug.h 20201027080211 5c06210f
+ne4bba07d 73;1QDebug::Stream::Stream(QIODevice*)
+ndf9c978 75;1(O2String
+n8cabcd77 77;1)O1tMsgType
+n1473c33a 92,4;<G0testFlag(FormatFlag) const
+d,40
+n14692818 93,4;>G0setFlag(FormatFlag)
+d,28;
+n26e1dadc 94,4;[GJun
+d,30;
+nce3dc365 95,3;1]G0verbosity() const
+d1,7
+nbb3fc448 97,4;1{G0setVerbosity(int)
+d2;1
+nd47f3305 114,6;}81QDebug(QIODevice*
+nf72adecf 115,6;(G2String
+n95bf5408 116,6;)G1tMsgType
+n1768ebd1 117,6;<F1const QDebug&
+n7a81f540 118;>F2QDebug&
+ned968f9d 120,7;1[8Aoperator=
+n6f0a472e 123,10;]82swap(QDebug
+n239051d8 127,13;{91pace(
+n24db0343 128,13;}87no
+n91c6f4e7 129,13;(86maybeS
+d,26;
+n66ece374 130,13;)81verbosity(int
+n172c45a5 131,3;<I0) const
+nbc45410f 132,4;>80setVerbosity(int)
+n3040eac 135,4;[80autoInsertSpaces() const
+n9aa6b909 136,4;]80setAutoInsertSpaces(bool)
+n661886d3 138,13;{81quote(
+nc5c2fe03 139,13;}87no
+na82e1421 140,13;(81maybeQuote(char
+d,35;
+n4357986 142,13;)84operator<<(QC
+n423e2f44 143,13;<J1bool
+d,44
+n6c1f2485 144,13;>J1char
+nd4dfa0f6 145,13;[J1signed short
+n2e96d81 146,13;]JDun
+nc5c61a9b 148,13;{J2char16_
+n987de2d 149,13;}N332
+n51103106 151,13;(J2signed in
+ncd450e92 152,13;)JBun
+nc8ea2854 153,13;<J1signed long
+nc4f753b6 154,13;>JCun
+nb6dd7650 155,13;[J1qint64
+n552f97f2 156,13;]K6u
+n479a5c93 157,13;{J1float
+naf02da25 158,13;}J1double
+nf1fac9da 159,13;(J1const char*
+nd1334f8a 161,13;)P1QString&
+n9a42ef93 162,13;<W2Ref
+ne21333df 164,13;>J1QStringView
+n9418fa5b 165,13;[K1Latin1String
+nf5423ee 166,13;]J1const QByteArray&
+nc3fd5d22 167,13;{P1void*
+n78be3b3e 168,13;}J1std::nullptr_t
+n6171a912 169,13;1(J1QTextStreamFunction
+ndc7e9530 174,13;1)U1Manipulator
+n7abfebfa 194,15;QNoDebug::operator<<(QTextStreamFunction)
+na09dd328 195,15;>W1Manipulator
+nb2d57b53 196,15;[A1space(
+n7d49910a 197,15;]A7no
+nc4b27f9d 198,15;{A6maybeS
+n6a73b34 199,15;}A3quot
+nba78f790 200,15;(A7no
+n48ba2b33 201,15;)A1maybeQuote(const char
+nc4e07bf5 202,15;<A1verbosity(int
+nb60722ca 205,15;>A1operator<<<T>(const T&
+n4bf24b73 208,13;1QDebug::operator=(const QDebug&)
+n7f1cd98f 217,12;1QtPrivate::printSequentialContainer<SequentialContainer>(QDebug,const char*,const SequentialContainer&)
+d5;1
+d4;1
+na633b225 238,12;1operator<<<T>(QDebug,const QList<T>&)
+n8738a9b9 244,12;1}S5Vector
+nad70e948 250,12;1(C3,Alloc>(QDebug,const std::vector<T,Alloc
+n64383ef4 256,12;1)cBlist
+n983aa8cb 262,12;1<B9Key,T,Compare,Alloc>(QDebug,const std::map<Key,T,Compare
+n54b86a0d 268,12;1>pQulti
+n4133d225 274,12;1[G3>(QDebug,const QMap<Key,T
+d5;1
+n2c361f2a 288,12;1]W9Hash
+d5;1
+n39fb379a 301,12;1{B3T1,T2>(QDebug,const QPair<T1,T2
+nf7269763 310,12;1}VCstd::p
+n4700208c 319,12;1(C3>(QDebug,const QSet<T
+n6f2eb967 325,12;1)S5ContiguousCache
+d4,28;1
+d2;1
+n78adee08 340,12;1<S5SharedPointer
+n883d0504 350,4;1qt_QMetaEnum_flagDebugOperator<Int>(QDebug&,size_t,Int)
+d6,12;1
+d1;1
+d1;1;3
+n19a0df7d 374;1operator<<<T>(QDebug,T)
+nd04eba0b 386,12;1]CB,A,B,C,D
+n843c8e67 398;1qt_QMetaEnum_flagDebugOperator_helper<T>(QDebug,const QFlags<T>&)
+ndb37e01 409;5}#0
+ncbbb0695 420,12;1(0Soperator<<
+0000de
+Sb3aa345
+src d:/GitRepos/IPC~__Code~_Coverage/Tes/IPC/main.cpp 20251216174558 fc782980
+n622d7a65 23;2MainWindow::MainWindow(QWidget*)
+n693addd8 61,39;1(W1::<lambda0>(
+nf9df63a 67,39;1)f31
+n85e3c868 83,3;2main(int,char*[])
+000169
+S687cc75e
+src d:/GitRepos/IPC~__Code~_Coverage/Tes/IPC/build-coverage/IPC_autogen/include_Debug/main.moc 20251216174919 f9d2bae3
+n1e445918 57,4;1MainWindow::qt_static_metacall(QObject*,QMetaObject::Call,int,void**)
+n1694b8f 75,17;1(C0metaObject() const
+d2,6
+n6e495d3d 80,5;1)C0qt_metacast(const char*)
+d2;
+d1;1
+nd53a2f08 88,3;1<L2ll(QMetaObject::Call,int,void*
+............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
