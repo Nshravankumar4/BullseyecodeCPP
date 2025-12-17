@@ -1,0 +1,3 @@
+D:/GitRepos/IPC _Code Coverage/Tes/IPC/build-coverage/CMakeFiles/IPC.dir
+D:/GitRepos/IPC _Code Coverage/Tes/IPC/build-coverage/CMakeFiles/ALL_BUILD.dir
+D:/GitRepos/IPC _Code Coverage/Tes/IPC/build-coverage/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^D:\GITREPOS\IPC _CODE COVERAGE\TES\IPC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" "-SD:/GitRepos/IPC _Code Coverage/Tes/IPC" "-BD:/GitRepos/IPC _Code Coverage/Tes/IPC/build-coverage" --check-stamp-file "D:/GitRepos/IPC _Code Coverage/Tes/IPC/build-coverage/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
